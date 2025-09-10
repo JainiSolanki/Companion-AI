@@ -1,0 +1,3276 @@
+
+--- PAGE 1 (TEXT) ---
+OWNER'S MANUAL
+WASHTOWER
+Before beginning installation, read these instructions 
+carefully. This will simplify installation and ensure that the 
+product is installed correctly and safely. Leave these 
+instructions near the product after installation for future 
+reference.
+ENGLISH
+WT1310BRP
+MFL72076822
+Rev.01_040125
+www.lg.com
+Copyright © 2024-2025 LG Electronics. All Rights Reserved
+Scan the QR code to see the manual.
+
+
+--- PAGE 2 (TEXT) ---
+TABLE OF CONTENTS
+This manual may contain images or 
+content that may be different from the 
+model you purchased.
+This manual is subject to revision by the 
+manufacturer.
+SAFETY INSTRUCTIONS
+READ ALL INSTRUCTIONS BEFORE USE...........................................................4
+WARNING............................................................................................................4
+CARING FOR THE ENVIRONMENT..................................................................10
+INSTALLATION
+Parts and Specifications ..................................................................................11
+Installation Place Requirements ....................................................................15
+Unpacking the Appliance ................................................................................17
+Connecting the Water Supply Hose...............................................................18
+Installing the Drain Hose ................................................................................20
+Levelling the Appliance ...................................................................................22
+OPERATION-WASHER
+Operation Overview.........................................................................................24
+Preparing the Wash Load ...............................................................................25
+Adding Detergents and Softeners .................................................................26
+Control Panel and Programme Table............................................................28
+Extra Options and Functions ..........................................................................33
+OPERATION-DRYER
+Operation Overview.........................................................................................36
+Preparing the Laundry ....................................................................................37
+Control Panel and Programme Table............................................................39
+Extra Options and Functions ..........................................................................43
+SMART FUNCTIONS
+Using LG ThinQ Application............................................................................46
+Smart Diagnosis ...............................................................................................49
+MAINTENANCE
+Washer ..............................................................................................................50
+Dryer..................................................................................................................54
+
+
+--- PAGE 3 (TEXT) ---
+TROUBLESHOOTING
+Washer ..............................................................................................................58
+Dryer..................................................................................................................65
+Common............................................................................................................70
+
+
+--- PAGE 4 (TEXT) ---
+4
+SAFETY INSTRUCTIONS
+SAFETY INSTRUCTIONS
+READ ALL INSTRUCTIONS BEFORE USE
+The following safety guidelines are intended to prevent unforeseen 
+risks or damage from unsafe or incorrect operation of the appliance.
+The guidelines are separated into ‘WARNING’ and ‘CAUTION’ as 
+described below.
+Safety Messages
+WARNING
+WARNING
+• To reduce the risk of explosion, fire, death, electric shock, injury or 
+scalding to persons when using this product, follow basic 
+precautions, including the following:
+Technical Safety
+• This appliance is not intended for use by persons (including children) 
+with reduced physical, sensory or mental capabilities, or lack of 
+experience and knowledge, unless they have been given supervision 
+or instruction concerning use of the appliance by a person 
+responsible for their safety.
+This symbol is displayed to indicate matters and operations 
+that can cause risk. Read the part with this symbol carefully 
+and follow the instructions in order to avoid risk.
+WARNING
+This indicates that the failure to follow the instructions can 
+cause serious injury or death.
+CAUTION
+This indicates that the failure to follow the instructions can 
+cause the minor injury or damage to the product.
+
+
+--- PAGE 5 (TEXT) ---
+5
+SAFETY INSTRUCTIONS
+ENGLISH
+• Children should be supervised to ensure that they do not play with 
+the appliance.
+• The inlet water pressure must be between 50 kPa and 800 kPa.
+• Use a new hose or hose-set supplied with the appliance. Reusing old 
+hoses can cause a water leak and subsequent property damage.
+• Ventilation openings must not be obstructed by a carpet.
+• Do not dry unwashed items in the appliance.
+• Fabric softeners, or similar products, should be used as specified by 
+the fabric softener instructions.
+• Remove all objects from pockets such as lighters and matches.
+• Never stop the appliance before the end of the drying cycle unless all 
+items are quickly removed and spread out so that the heat is 
+dissipated.
+• The appliance is not to be used if industrial chemicals have been used 
+for cleaning.
+• Items that have been soiled with substances such as cooking oil, 
+vegetable oil, acetone, alcohol, petroleum, kerosene, spot removers, 
+turpentine, waxes and wax removers should be washed in hot water 
+with an extra amount of detergent before being dried in the 
+appliance.
+• Do not drink the condensed water. Failure to do so may result in food-
+borne illnesses.
+• If the supply cord is damaged, it must be replaced by the 
+manufacturer or its service agents or similarly qualified person in 
+order to avoid a hazard.
+• The lint filter must be cleaned frequently.
+• Lint must not to be allowed to accumulate around the appliance.
+• Do not spray dry cleaning detergent directly onto the appliance or 
+use the appliance to dry clothes left with dry cleaning detergent.
+• Do not dry clothes stained with oil substances. Oil substances 
+(including edible oils) stained on clothes cannot be completely 
+removed even after washing with water.
+
+
+--- PAGE 6 (TEXT) ---
+6
+SAFETY INSTRUCTIONS
+• The appliance must not be supplied through an external switching 
+device, such as a timer, or connected to a circuit that is regularly 
+switched on and off by a utility.
+• Remove clothes from the product immediately when drying is 
+complete or the power is turned off during the drying process. 
+Leaving clothes that has been dried in the appliance unattended 
+could result in fire. Clothes not removed from the appliance after 
+drying could result in fire. Remove clothes immediately after drying, 
+and then hang or lay the clothes flat to cool.
+• This appliance is intended to be used in household only.
+Maximum Capacity
+The maximum capacity in some cycles for dry clothes to be used is 
+Wash (13 kg)/Dry (10 kg).
+Installation
+• Never attempt to operate the appliance if it is damaged, 
+malfunctioning, partially disassembled, or has missing or broken 
+parts, including a damaged cord or plug.
+• This appliance should only be transported by two or more people 
+holding the appliance securely.
+• Do not install the appliance in a damp and dusty place. Do not install 
+or store the appliance in any outdoor area, or any area that is subject 
+to weathering conditions such as direct sunlight, wind, rain, or 
+temperatures below freezing.
+• Make sure the power plug is completely pushed into the power 
+outlet.
+• Do not plug the appliance into multiple outlet sockets, power boards, 
+or an extension power cable.
+• Do not modify the power plug provided with the appliance. If it does 
+not fit the power outlet, have a proper outlet installed by a qualified 
+electrician.
+• This appliance is equipped with a power cord having an equipment-
+earthing / grounding conductor (earthing pin) and a grounding 
+
+
+--- PAGE 7 (TEXT) ---
+7
+SAFETY INSTRUCTIONS
+ENGLISH
+power plug. The power plug must be plugged into an appropriate 
+outlet socket that is installed and earthed / grounded in accordance 
+with all local codes and ordinances.
+• Improper connection of the equipment-grounding conductor can 
+result in risk of electric shock. Check with a qualified electrician or 
+service personnel if you are in doubt as to whether the appliance is 
+properly grounded.
+• This appliance must not be installed behind a lockable door, a sliding 
+door or a door with a hinge on the opposite side to that of the 
+appliance, in such a way that a full opening of the appliance door is 
+restricted.
+• Tighten the drain hose to avoid separation.
+• If the power cord is damaged or the hole of the socket outlet is loose, 
+do not use the power cord and contact an authorized service centre.
+Operation
+• To avoid breaking the door glass, do not push too hard on the door 
+when closing.
+• Do not apply any sharp objects to the control panel in order to 
+operate the appliance.
+• Do not attempt to separate any panels or disassemble the appliance.
+• Do not repair or replace any part of the appliance. All repairs and 
+servicing must be performed by qualified service personnel unless 
+specifically recommended in this Owner's Manual. Use only 
+authorized factory parts.
+• Do not push down the door excessively, when the appliance door is 
+open.
+• Do not put animals, such as pets into the appliance.
+• Do not wash rugs, mats, shoes or pet blankets, stuffed toys, or any 
+other items other than clothes or sheets, in this machine.
+• Keep the area underneath and around the appliance free of 
+combustible materials such as lint, paper, rags, chemicals, etc.
+• Do not leave the appliance door open. Children may hang on the door 
+or crawl inside the appliance, causing damage or injury.
+
+
+--- PAGE 8 (TEXT) ---
+8
+SAFETY INSTRUCTIONS
+• Do not put in, wash or dry articles that have been cleaned in, washed 
+in, soaked in, or spotted with combustible or explosive substances 
+(such as waxes, wax removers, oil, paint, gasoline, degreasers, 
+drycleaning solvents, kerosene, petrol, spot removers, turpentine, 
+vegetable oil, cooking oil, acetone, alcohol, etc.). Improper use can 
+cause fire or explosion.
+• Items such as foam rubber (latex foam), shower caps, waterproof 
+textiles, rubber backed articles and clothes or pillows fitted with foam 
+rubber pads should not be dried in the appliance.
+• Do not use or store flammable or combustible substances (ether, 
+benzene, alcohol, chemical, LPG, combustible spray, gasoline, 
+thinner, petroleum, insecticide, air freshener, cosmetics, etc.) near 
+the appliance.
+• Never reach into the appliance while it is operating. Wait until the 
+drum has completely stopped.
+• Do not touch the door during a high temperature programme.
+• In case of a water leak from the appliance or flood, disconnect the 
+power plug and contact the LG Electronics customer information 
+centre.
+• Turn off water taps to relieve pressure on hoses and valves and to 
+minimize leakage if a break or rupture should occur. Check the 
+condition of the fill hoses; they should be replaced after 5 years.
+• If there is a gas leakage (isobutane, propane, natural gas, etc.) within 
+the home, do not touch the appliance or power plug and ventilate the 
+area immediately.
+• If the drain hose or inlet hose is frozen during winter, use it only after 
+thawing.
+• Keep all washing detergents, softener and bleach away from 
+children.
+• Do not touch the power plug or the appliance controls with wet 
+hands.
+• Do not bend the power cable excessively or place a heavy object on it.
+• Avoid touching any water that is drained from the appliance during 
+the wash.
+
+
+--- PAGE 9 (TEXT) ---
+9
+SAFETY INSTRUCTIONS
+ENGLISH
+• Make sure that drainage is working properly. If water is not drained 
+properly, your floor may get flooded.
+• When the air temperature is high and the water temperature is low, 
+condensation may occur and thus wet the floor.
+• Wipe off dirt or dust on the contacts of the power plug.
+Maintenance
+• Disconnect the appliance from the power supply before cleaning the 
+appliance. Setting the controls to the OFF or stand by position does 
+not disconnect this appliance from the power supply.
+• Securely plug the power plug in the outlet socket after completely 
+removing any moisture and dust.
+• Do not spray water inside or outside the appliance to clean it.
+• Never unplug the appliance by pulling on the power cable. Always 
+grip the power plug firmly and pull straight out from the outlet 
+socket.
+• Only qualified service personnel from LG Electronics service centre 
+should disassemble, repair, or modify the appliance. Contact an LG 
+Electronics customer information centre if you move and install the 
+appliance in a different location.
+Disposal
+• Before discarding an old appliance, unplug it. Cut off the cable 
+directly behind the appliance to prevent misuse.
+• Dispose of all packaging materials (such as plastic bags and 
+styrofoam) away from children. The packaging materials can cause 
+suffocation.
+• Remove the door before disposing of or discarding this appliance to 
+avoid the danger of children or small animals getting trapped inside.
+
+
+--- PAGE 10 (TEXT) ---
+10
+SAFETY INSTRUCTIONS
+CARING FOR THE ENVIRONMENT
+This dryer contains fluorinated greenhouse gases
+R134a (GWP: 1430): 0.500 kg / 0.715 t CO2-eq. Hermetically sealed.
+
+
+--- PAGE 11 (TEXT) ---
+11
+INSTALLATION
+ENGLISH
+INSTALLATION
+Parts and Specifications
+NOTE
+• Appearance and specifications may change without notice to improve the quality of the appliance.
+Front View
+a Control Panel
+b Lint Filter
+c Dryer Drum
+d Dryer Door
+e Detergent Dispenser Drawer
+f Washer Door
+g Washer Drum
+h Drain Hose
+i Drain Pump Filter
+j Drain Pump Filter Cover
+k Leveling Feet
+Rear View
+a Power Cord (for Dryer)
+
+
+--- PAGE 12 (TEXT) ---
+12
+INSTALLATION
+b Drain Hole (for Dryer)
+c Cold Water Inlet (for Washer)
+d Transit Bolts
+e Drain Hose (for Washer)
+f Power Cord (for Washer)
+
+
+--- PAGE 13 (TEXT) ---
+13
+INSTALLATION
+ENGLISH
+Accessories
+*1 This accessory is only available on some models.
+a
+Cable Ties (5 EA)
+b
+Connecting Supply Hose 
+(for Washer)
+c
+Water Drain Hose (for 
+Dryer)
+d
+Band Clamps
+e
+Spanner
+f
+Caps for Covering Transit 
+Bolt Holes
+g
+Anti-slip Sheets
+h
+Screws (2 EA)
+i
+Drain Hose Connector
+j
+Dry Rack*1
+k
+Elbow Bracket for 
+Securing Drain Hose*1
+l
+Short Drain Hose
+
+
+--- PAGE 14 (TEXT) ---
+14
+INSTALLATION
+NOTE
+• The images in this manual may be different from the actual components and accessories that are subject 
+to change by the manufacturer without prior notice for product improvement purposes.
+• The included accessories vary depending on the model you purchased.
+Specifications
+Model
+WT1310BRP
+Power supply
+220 - 240 V~, 50 Hz
+Dimension (Width X Depth X Height)
+600 mm X 660 mm X 1655 mm
+Product weight
+128 kg
+Maximum Power
+1900 - 2250 W (Wash) / 1000 W (Dry)
+Permissible Inlet Water pressure
+50 KPa ~ 800 KPa (0.5 ~ 8.0 kgf/cm²)
+Allowable temperature
+5 - 35 ℃
+
+
+--- PAGE 15 (TEXT) ---
+15
+INSTALLATION
+ENGLISH
+Installation Place 
+Requirements
+Before installing the appliance, check the following 
+information to make sure that the appliance 
+should be installed in a correct place.
+Installation Location
+• This appliance must be installed on firm flooring 
+to minimize vibration during the spin cycle. 
+Concrete flooring is best, being far less prone to 
+vibration during the spin cycle than wooden 
+floorboards or a carpeted surface.
+• If it is impossible to avoid positioning the 
+appliance next to a gas cooker or coal burning 
+stove, an insulation (850 X 600 mm) covered with 
+aluminum foil on the side facing the cooker or 
+stove must be inserted between the two 
+appliances.
+• Ensure that when the appliance is installed, it is 
+easily accessible for an engineer in the event of a 
+breakdown.
+• When installing the appliance, adjust all four feet 
+using the transit bolt spanner provided to 
+ensure the appliance is stable.
+Floor Installation
+*1 minimum space for installation
+To ensure sufficient clearance for water inlet hoses, 
+drain hose and airflow, allow minimum clearances 
+on the sides and behind the appliance. Be sure to 
+allow for wall, door, or floor moldings that may 
+increase the required clearances.
+The tap is to the REAR when the appliance is 
+placed.
+The tap is to the SIDE when the appliance is 
+placed.
+WARNING
+• This appliance must only be used for domestic 
+household purposes and should not be used in 
+mobile applications.
+W
+B
+A
+D
+D’
+C
+H
+H’
+A
+30 cm*1
+W
+60 cm
+B
+5 cm
+C
+20 cm
+D
+66 cm
+D'
+118 cm*1
+H
+166 cm
+H'
+177 cm
+A
+15 cm*1
+W
+60 cm
+B
+5 cm
+C
+10 cm
+D
+66 cm
+D'
+118 cm*1
+H
+166 cm
+H'
+177 cm
+W
+B
+A
+D
+D’
+C
+H
+H’
+
+
+--- PAGE 16 (TEXT) ---
+16
+INSTALLATION
+NOTE
+• Never try to level any uneven floor by putting 
+pieces of wood, cardboard or similar materials 
+under the appliance.
+Ventilation
+Alcove or under counter
+Make sure that air circulation around the appliance 
+should not be impeded by carpets, rugs, etc.
+Cupboard
+Cupboard door must have 2 (louvered) openings, 
+each having a minimum area of 387 cm2, located 8 
+cm from the bottom and top of the door.
+Ambient Temperature
+• Do not install the appliance in rooms where 
+freezing temperatures may occur. Frozen hoses 
+may burst under pressure. The reliability of the 
+electronic control unit may be impaired at 
+temperatures below freezing point.
+NOTE
+• If the appliance is delivered in winter and 
+temperatures are below freezing, place the 
+appliance at room temperature for a few hours 
+before putting it into operation.
+• The appliance performs best at a room 
+temperature of 23 ℃.
+Wooden Floors (Suspended 
+Floors)
+When installing the appliance on wooden floors, 
+use rubber cups to reduce excessive vibration and 
+unbalance. Timber or suspended type flooring may 
+contribute to excessive vibration and unbalance, 
+errors and malfunction.
+• To reduce vibration, we recommend placing at 
+least 20 mm thickness of rubber caps a under 
+each adjusting foot of the appliance, secured to 
+at least two floor beams with screws.
+• If possible, install the appliance in one of the 
+corners of the room, where the floor is more 
+stable.
+• Fit the rubber cups to reduce vibration.
+CAUTION
+• If the appliance is installed on the unstable floor 
+(e.g. wooden floor), the warranty does not cover 
+any damages and cost occurred due to the 
+installation on the unstable floor.
+NOTE
+• You can purchase rubber cups (part No. 
+MJB65174401, MJB65174501) from the LG 
+service centre.
+Electrical Connection
+• Do not use an extension cord or double adapter.
+• Always unplug the appliance and turn off the 
+water supply after use.
+• Connect the appliance to an earthed socket in 
+accordance with current wiring regulations.
+• The appliance must be positioned so that the 
+plug is easily accessible.
+• Power outlet must be within 1 meter of either 
+side of the appliance.
+
+
+--- PAGE 17 (TEXT) ---
+17
+INSTALLATION
+ENGLISH
+WARNING
+• Repairs to the appliance must only be carried out 
+by qualified personnel. Repairs carried out by 
+inexperienced persons may cause injury or 
+serious malfunctioning. Contact your local 
+authorised LG repairer.
+• The power plug must be plugged into an 
+appropriate outlet socket that is installed and 
+grounded/earthed in accordance with all local 
+codes and ordinances.
+Unpacking the Appliance
+WARNING
+• When installing this appliance, take adequate 
+measures to protect yourself, e.g. by wearing 
+protective gloves.
+• Moving or installation of the appliance requires 
+two or more people. Failure to follow these 
+instructions may result in injury.
+• When moving the product, tilt it toward the back 
+of the product. Do not transport the product in a 
+horizontal position.
+Lifting the Appliance Off the 
+Foam Base
+* This feature may vary depending on the model 
+purchased.
+After removing the carton and shipping material, 
+lift the appliance off the foam base.
+Removing the Transit Bolt 
+Assemblies
+To prevent the appliance from severe vibration and 
+breakage, remove transit bolts and retainers.
+1
+Starting with the bottom two transit bolts a, 
+use the spanner (included) to fully loosen all 
+transit bolts by turning them counterclockwise.
+2
+Remove the bolt assemblies by wiggling them 
+slightly while pulling them out.
+3
+Install the hole caps.
+
+
+--- PAGE 18 (TEXT) ---
+18
+INSTALLATION
+• Locate the hole caps b included in the 
+accessory pack or attached on the back.
+NOTE
+• Save the transit bolts and retainers for future 
+use.
+• To prevent damage to the appliance during 
+transport:
+- Reinstall the transit bolts.
+- Secure the power cord to the back of the 
+appliance.
+Connecting the Water 
+Supply Hose
+Note for Connection
+• Water pressure must be between 50 kPa and 
+800 kPa (0.5 ‒ 8.0 kgf/cm²). If the water pressure 
+is more than 800 kPa, a decompression device 
+should be installed.
+• Periodically check the condition of the water 
+supply hose and replace the water supply hose if 
+necessary.
+NOTE
+• Do not overtighten the water supply hose or use 
+mechanical devices to tighten onto the inlet 
+valves.
+• No further backflow protection required for 
+connection to the water inlet.
+Checking the Rubber Seal
+Two rubber seals a are supplied with the water 
+supply hose. They are used for preventing water 
+leaks. Connection to taps is sufficiently tight.
+• Do not use mechanical devices such as multi 
+grips to tighten the water supply hose. Ensure 
+that the curved end of the water supply hose is 
+connected to the appliance.
+Connecting the Hose to the 
+Water Tap
+Connecting Screw-Type Hose to Tap with Thread
+Screw the supply hose connector onto the water 
+supply tap.
+Connecting Screw-Type Hose to Tap Without 
+Thread
+1
+Loose the 4 fixing screws a.
+
+
+--- PAGE 19 (TEXT) ---
+19
+INSTALLATION
+ENGLISH
+2
+Remove the guide plate b if the tap is too large 
+to fit the adapter.
+3
+Push the adapter onto the end of the tap so 
+that the rubber seal is connected to be 
+watertight. Tighten the 4 fixing screws.
+4
+Push the inlet hose c vertically upwards so 
+that the rubber seal within the hose can adhere 
+completely to the tap and then tighten the 
+hose by screwing it to the right.
+Connecting One Touch Type Hose to Tap 
+Without Thread
+1
+Unscrew the adapter ring plate d and loose 
+the 4 fixing screws.
+2
+Remove the guide plate e if the tap is too large 
+to fit the adapter.
+3
+Push the adapter onto the end of the tap so 
+that the rubber seal is connected to be 
+watertight. Tighten the 4 fixing screws and the 
+adapter ring plate.
+4
+Pull the connector latch plate f down, push 
+the inlet hose onto the adapter, and release the 
+connector latch plate. Make sure the adapter 
+locks into place.
+NOTE
+• After connecting the water inlet hose to the 
+water tap, turn on the water tap to flush out 
+foreign substances (dirt, sand, sawdust, and etc.) 
+in the water lines. Let the water drain into a 
+bucket, and check the water temperature.
+
+
+--- PAGE 20 (TEXT) ---
+20
+INSTALLATION
+Connecting the Hose to the 
+Appliance
+1
+Screw the supply hose to the water inlet valve 
+on the back of the appliance.
+NOTE
+• Do not connect the hose to the hot water supply 
+for models with one water inlet. Connect to the 
+cold water supply only.
+• After completing connection, if water leaks from 
+the hose, repeat the same steps. Use the most 
+conventional type of tap for the water supply. In 
+case that the tap is square or too big, remove the 
+guide plate before inserting the tap into the 
+adaptor.
+• Make sure that the hose should not be kinked or 
+trapped.
+Installing the Drain Hose
+Connecting the Drain Hose to 
+the Dryer
+1
+Insert the hose clamp a onto the drain hose of 
+the dryer.
+2
+Connect the drain hose of the dryer and secure 
+the hose clamp.
+3
+Screw in the band to secure the drain hose of 
+the dryer onto the stacking bracket.
+4
+Use the provided tie strap b to secure the 2 
+drain hoses in place.
+NOTE
+• The drain hose should not be placed higher than 
+80 cm above the floor. Water in the appliance 
+may not drain or may drain slowly.
+• Securing the drain hose correctly will protect the 
+floor from damage due to water leakage.
+• If the drain hose is too long, do not force it back 
+into the appliance. This will cause abnormal 
+noise.
+
+
+--- PAGE 21 (TEXT) ---
+21
+INSTALLATION
+ENGLISH
+• If the drain hose is installed in a way that leaves 
+it bent or pinched, drainage may not function 
+properly.
+• Depending on the installation environment, you 
+may have to purchase a separate drain hose 
+connector. The connector supplied will suit a 
+standard laundry tub side drain hole.
+• Use the elbow bracket a and the drain hose 
+connector b if necessary. When installing the 
+drain hose to a sink, secure it tightly with string.
+Connecting Hoses to the Drain 
+Hose Connector (Optional)
+Additionally follow the steps below to connect the 
+drain hose using drain hose connector if the above 
+installation is not sufficient.
+1
+Slide the included band clamp onto the end of 
+the drain hose of the washer.
+2
+Connect the drain hoses from the washer and 
+dryer to the drain hose connector. Tighten the 
+band clampa to keep the washer hose in 
+place.
+3
+Use the band clampb on the short drain hose 
+to attach it to the bottom opening of the drain 
+hose connector.
+4
+Securely connect the short drain hose to a 
+drain spigot, into a standpipe or laundry sink 
+bypass pipe.
+When connecting to a waste spigot, use the 
+band clampc to the end of the short drain 
+hose.
+CAUTION
+• Adjust the wire hose clamp to prevent the hose 
+from coming loose or leaking. Failure to do so 
+could result in flooding. Use of the drain hose 
+connector helps avoid siphoning, odours, or 
+improper draining.
+• Make sure the drain hoses are not kinked or 
+pinched. This is a potential cause of drainage 
+problems or noise.
+
+
+--- PAGE 22 (TEXT) ---
+22
+INSTALLATION
+Levelling the Appliance
+Checking the Level
+When pushing down the edges of the top plate 
+diagonally, the appliance should not move up and 
+down at all (check both directions).
+• If the appliance rocks when pushing the top 
+plate of the appliance diagonally, adjust the feet 
+again.
+• Check whether the appliance is perfectly level 
+after installation.
+NOTE
+• Timber or suspended type flooring may 
+contribute to excessive vibration and unbalance. 
+Reinforcement or bracing of the timber floor 
+may need to be considered to stop or reduce 
+excessive noise and vibration.
+Adjusting and Levelling the 
+Feet
+When installing the appliance, the appliance 
+should be aligned and perfectly level. If the 
+appliance is not aligned and level properly, the 
+appliance may be damaged or may not operate 
+properly.
+1
+Turn the levelling feet as required if the floor is 
+uneven.
+• Do not insert pieces of wood etc. under the 
+feet.
+• Make sure that all four feet are stable and 
+resting on the floor.
+NOTE
+• Do not install the washing machine on a plinth, 
+stand or elevated surface unless it is 
+manufactured by LG Electronics for use with this 
+model.
+2
+Check if the appliance is perfectly level using a 
+spirit level a.
+3
+Secure the levelling feet with the lock nuts b 
+by turning anti-clockwise against the bottom of 
+the appliance.
+4
+Check if all lock nuts at the bottom of the 
+appliance are secured properly.
+NOTE
+• Proper placement and levelling of the appliance 
+will ensure long, regular, and reliable operation.
+• The appliance must be 100% horizontal and 
+stand firmly in position on a hard flat floor.
+
+
+--- PAGE 23 (TEXT) ---
+23
+INSTALLATION
+ENGLISH
+• It must not ‘Seesaw’ across corners under the 
+load.
+• Do not let the feet of the appliance get wet. 
+Failure to do so may cause vibration or noise.
+Using Anti-Slip Sheets
+This feature may vary depending on the model 
+purchased.
+If you install the appliance on a slippery surface, it 
+may move because of excessive vibration. 
+Incorrect levelling may cause malfunction through 
+noise and vibration. If this occurs, install the anti-
+slip sheets under the levelling feet and adjust the 
+level.
+1
+Clean the floor to attach the anti-slip sheets.
+• Use a dry rag to remove and clean foreign 
+objects and moisture. If moisture remains, 
+the anti-slip sheets may slip.
+2
+Adjust the level after placing the appliance in 
+the installation area.
+3
+Place the adhesive side a of the anti-slip 
+sheets on the floor.
+• The most effective way is to install the anti-
+slip sheets under the front feet. If it is 
+difficult to place the sheets under the front 
+feet of the appliance, attach them under the 
+rear feet.
+4
+Put the appliance on the anti-slip sheets.
+• Do not attach the adhesive side a of anti-
+slip sheets to the feet of the appliance.
+NOTE
+• Additional anti-slip sheets are available at LG 
+Electronics service centre.
+
+
+--- PAGE 24 (TEXT) ---
+24
+OPERATION-WASHER
+OPERATION-WASHER
+Operation Overview
+Using the Washer
+Before the first wash, select the Cotton wash 
+programme and add a half amount of the 
+detergent. Start the appliance without clothes. This 
+will remove possible residues and water from the 
+drum that may have been left during 
+manufacturing.
+1
+Sort clothes by fabric type, soil level, colour and 
+load size as needed.
+2
+Open the door and load items into the 
+appliance.
+CAUTION
+• Before closing the door, ensure that all clothes 
+and items are inside the tub and not 
+overhanging on the rubber door seal where they 
+will become caught when the door is closed. 
+Failing to do so will cause damage to the door 
+seal and the clothes.
+3
+Close the door.
+CAUTION
+• Remove items from the flexible door seal gasket 
+to prevent clothing and door seal damage.
+4
+Add cleaning products or detergent and 
+softener.
+• Add the proper amount of detergent to the 
+detergent dispenser. If desired, add bleach 
+or fabric softener to the appropriate areas of 
+the dispenser.
+5
+Press the Power button to turn on the 
+appliance.
+6
+Choose the desired cycle.
+• Press the cycle button repeatedly until the 
+desired cycle is selected.
+• Now select a wash temperature and spin 
+speed. Pay attention to the fabric care label 
+of your clothes.
+7
+Begin cycle.
+• Press the Start/Pause button to begin the 
+cycle. The appliance will agitate briefly 
+without water to measure the weight of the 
+load. If the Start/Pause button is not 
+pressed within a certain time, the appliance 
+will shut off and all settings will be lost.
+8
+End of cycle.
+
+
+--- PAGE 25 (TEXT) ---
+25
+OPERATION-WASHER
+ENGLISH
+• When the cycle is finished, a melody will 
+sound. Immediately remove your clothing 
+from the appliance to reduce wrinkling.
+Preparing the Wash Load
+Sorting the Clothes
+• For best washing results, sort your clothes 
+according to the care label stating fabric type 
+and washing temperature. Adjust the spin speed 
+or spin intensity in accordance to the fabric type.
+• Soil level (Heavy, Normal, Light): Separate 
+clothes according to soil level. If possible, do not 
+wash heavily soiled items with lightly soiled 
+ones.
+• Colour (White, Lights, Darks): Wash dark or dyed 
+clothes separately from whites or light colours. 
+Mixing dyed clothes with light clothes can result 
+in dye transfer or discolouration of lighter 
+clothes.
+• Lint (Lint producers, Collectors): Wash separately 
+lint producing fabrics from lint collecting fabrics. 
+Lint producers can result in pilling and linting on 
+the lint collectors.
+Checking the Clothes Care Label
+The symbols tell you about the fabric content of 
+your garment and how it should be washed.
+Symbols on the Care Labels
+NOTE
+• The dashes under the symbol give you 
+information about the type of fabric and the 
+maximum allowance of mechanical stress.
+Checking the Clothes before 
+Loading
+• Combine large and small items in a load. Load 
+large items first.
+• Large items should not be more than half of the 
+total wash load. Do not wash single items. This 
+may cause an unbalanced load. Add one or two 
+similar items.
+• Check all pockets to make sure that they are 
+empty. Items such as nails, hair clips, matches, 
+pens, coins and keys can damage both your 
+appliance and clothes.
+• Wash delicates (stockings, underwired bras) in a 
+wash net.
+• Close zippers, hooks and strings to make sure 
+that these items do not snag on other clothes.
+• Pre-treat dirt and stains by brushing a small 
+amount of detergent dissolved water onto stains 
+to help lift dirt.
+Symbol
+Wash / Fabric type
+• Normal Wash
+• Cotton, Mixed Fabrics
+• Easy Care
+• Synthetic, Mixed Fabrics
+• Special Delicate Wash
+• Delicates
+• Hand Wash Only
+• Wool, Silk
+• Do not wash
+Symbol
+Wash / Fabric type
+
+
+--- PAGE 26 (TEXT) ---
+26
+OPERATION-WASHER
+Adding Detergents and 
+Softeners
+Detergent Dosage
+• Detergent should be used according to the 
+instruction of the detergent manufacturer and 
+selected according to type, colour, soiling of the 
+fabric and the washing temperature. Use only 
+detergents that are suitable for Drum (front 
+load) type washers.
+• If too many suds occur, reduce the detergent 
+amount.
+• If too much detergent is used, too many suds 
+can occur and this will result in poor washing 
+results or cause heavy load to the motor.
+• If you wish to use liquid detergent, follow the 
+guidelines provided by the detergent 
+manufacturer.
+• You can pour liquid detergent directly into the 
+main detergent drawer if you are starting the 
+wash cycle immediately.
+• Do not use liquid detergent if you have selected 
+Pre Wash option, as the liquid will dispense 
+immediately and may harden in the drawer or 
+the tub.
+• Detergent usage may need to be adjusted for 
+water temperature, water hardness, size and soil 
+level of the load. For best results, avoid 
+overdosing the detergent. Failing to do so will 
+cause oversudsing.
+• Refer to the label of the clothes, before adding 
+the detergent and choosing the water 
+temperature.
+• Use only suitable detergents for the respective 
+type of clothing:
+- Liquid detergent is often designed for special 
+applications, e.g. for coloured fabric, wool, 
+delicate or dark clothes.
+- Powdered detergent is suitable for all types of 
+fabric.
+- For better washing results of white and pale 
+garments, use powdered detergent with 
+bleach.
+- Detergent is flushed from the dispenser at the 
+beginning of the wash cycle.
+NOTE
+• Do not let the detergent harden. Doing so may 
+lead to blockages, poor rinse performance or 
+odour.
+• Full load: According to manufacturer’s 
+recommendation.
+• Part load: 1/2 of the normal amount.
+• Minimum load: 1/3 of full load.
+Using the Dispenser
+To add detergent dosage to the dispenser:
+1
+Open the dispenser drawer.
+2
+Add the detergent and softener into the 
+appropriate compartments.
+a Main wash detergent compartment
+b Pre-wash detergent compartment
+c Liquid fabric softener compartment
+3
+Gently close the detergent dispenser drawer 
+before starting the cycle.
+• Slamming the drawer closed may result in 
+the detergent overflowing into another 
+compartment or dispensing into the drum 
+earlier than programmed.
+
+
+--- PAGE 27 (TEXT) ---
+27
+OPERATION-WASHER
+ENGLISH
+• Be careful not to get a hand caught in the 
+drawer while closing.
+• It is normal for a small amount of water to 
+remain in the dispenser compartments at 
+the end of the cycle.
+Fabric Softener Compartment
+This compartment holds liquid fabric softener, 
+which is automatically dispensed during the final 
+rinse cycle. Either powdered or liquid fabric 
+softener may be used.
+• Pour fabric softer to the maximum fill line. 
+Pouring excessive fabric softener over the 
+maximum fill line can cause it to dispense too 
+early, which may stain the clothes.
+NOTE
+• Do not pour fabric softener directly onto the 
+clothes in the wash drum, doing so will cause 
+dark staining on the clothes that will be difficult 
+to remove.
+• Do not leave the fabric softener in the detergent 
+drawer for more than 1 day. Fabric softener may 
+harden. Softener may remain in the dispenser if 
+it is too thick. The softener should be diluted if 
+the consistency is too thick so that it can flow 
+easily.
+• Do not open the drawer when water is being 
+supplied during the wash.
+• Solvents (benzene, etc.) must never be used.
+Adding Water Softener
+A water softener, such as anti-limescale can be 
+used to cut down on the use of detergent in areas 
+with high water hardness level.
+• First add detergent, and then the water softener. 
+Dispense according to the amount specified on 
+the packaging.
+Adding Detergent Tablets
+Detergent tablets can also be used when washing.
+1
+Open the door and put detergent tablets into 
+the drum before loading the clothes.
+2
+Load the clothes into the drum and close the 
+door.
+NOTE
+• Do not put tablets into the dispenser.
+
+
+--- PAGE 28 (TEXT) ---
+28
+OPERATION-WASHER
+Control Panel and Programme Table
+Control Panel Features
+Description
+a
+Power On/Off Button
+• Press this button to turn the washing machine on.
+b
+Programme Buttons
+• Programmes are available according to the clothes type.
+• The lamp will light up to indicate the selected programme.
+
+
+--- PAGE 29 (TEXT) ---
+29
+OPERATION-WASHER
+ENGLISH
+Time and Status Display
+c
+Start/Pause Button
+• This button is used to start the wash programme or pause the wash programme.
+• If a temporary stop of the wash programme is needed, press this button.
+d
+Customizing Washing Programme Buttons / Extra Options and Functions
+• Use these buttons to select the desired options for the selected programme. Not all options 
+are available in each programme.
+• To use the extra functions, press and hold the corresponding button for 3 seconds. The 
+corresponding symbol lights up in the display.
+Remote
+With the LG ThinQ app, you can use a smartphone to control your appliance remotely.
+• In order to use this function, refer to SMART FUNCTIONS.
+Wi-Fi
+Press and hold the Wash button for 3 seconds to initiate the connection of the appliance to the 
+LG ThinQ application.
+e
+Time and Status Display
+• The display shows the settings, estimated remaining time, options, and status messages. 
+When the appliance is turned on, the default settings in the display will illuminate.
+• While the load weight is sensed automatically, the display on the control panel blinks.
+Description
+a
+f lights up when the appliance is connected to Wi-Fi network at home.
+b
+w lights up when the remote control feature is activated.
+c
+H lights up when the programme starts and the door is locked.
+d
+m lights up when the beep is on. Beep sound can be turned on or off only through the LG ThinQ 
+application.
+Description
+
+
+--- PAGE 30 (TEXT) ---
+30
+OPERATION-WASHER
+Washing Programme
+e
+Estimated Time Remaining
+• When a washing programme is selected, the default time for that programme is displayed. 
+This time will change as options are selected.
+• If the display shows --- , then the time will be displayed after the load sensing has detected 
+the load size. This is normal.
+• The time shown is only an estimate. This time is based on normal operating conditions. 
+Several external factors (load weight, room temperature, incoming water temperature, etc.) 
+can affect the actual time.
+f
+AI DD
+• AI DD M provides the appropriate drum rotation actions after load sensing is completed.
+• M is activated when the Cotton and Mixed Fabric programmes are selected and operated.
+g
+Programme Status Indicators
+• When a washing programme is running, LED for the active stage will blink, and the LEDs for 
+the remaining stages will remain steady. Once a stage is complete, the LED will turn off. If a 
+cycle is paused, the active stage LED will stop blinking.
+Cotton
+40 ℃ (Cold to 95 ℃)
+Max. Load: Rating
+Description
+Washes normally soiled clothes by combining various drum motions.
+• Pressing the Start/Pause button without selecting a programme will cause the 
+Cotton programme to begin immediately, using the default settings.
+Duvet
+Cold (Cold to 40 ℃)
+Max. Load: 2.5 kg (1 down
+duvet)
+Description
+Washes large items such as bed covers, pillows, sofa covers, etc.
+Delicates
+20 ℃ (Cold to 40 ℃)
+Max. Load: 3 kg
+Description
+Washes hand-washable and machine-washable delicate clothes such as washable 
+wool, lingerie, dresses etc.
+Mixed Fabric
+40 ℃ (Cold to 60 ℃)
+Max. Load: 4 kg
+Description
+Washes mixed fabrics simultaneously.
+• Use for various kind of fabrics except special garments (silk/delicate, sports wear, 
+dark clothes, wool, duvet/curtains).
+Description
+
+
+--- PAGE 31 (TEXT) ---
+31
+OPERATION-WASHER
+ENGLISH
+NOTE
+• Select the appropriate water temperature for chosen wash programme. Always follow garment 
+manufacturer’s care label or instructions when washing to avoid damage to clothes.
+• Select the proper wash temperature and spin speed for the desired programmes.
+• Actual water temperature may differ from the declared cycle temperature.
+• Neutral detergent is recommended.
+Selectable Spin Speed
+NOTE
+• Actual maximum spin speed may vary depending on the load conditions. The values above are rounded 
+to the nearest hundred.
+Extra Options
+*1 This option is automatically included in the programme.
+Quick Wash
+Cold (Cold to 40 ℃)
+Max. Load: 1 kg
+Description
+Washes small loads of lightly soiled clothes in a short time.
+Downloaded
+60 ℃
+-
+Description
+This programme allows you to download a new and special washing programme to 
+your appliance with a smartphone. The default programme is Allergy Care.
+Programme
+Spin Speed
+Default
+Available
+Cotton
+1400 rpm
+All
+Duvet
+1000 rpm
+Up to 1000 rpm
+Delicates
+800 rpm
+Up to 800 rpm
+Mixed Fabric
+1000 rpm
+All
+Quick Wash
+400 rpm
+All
+
+
+--- PAGE 32 (TEXT) ---
+32
+OPERATION-WASHER
+Test in Conformity with IEC 60456
+• Set program at "Cotton, 60 ℃, 1400 rpm" option for test in conformity with IEC 60456.
+Programme
+TurboWash
+Steam
+Cotton
+#
+#
+Duvet
+#
+Delicates
+#
+Mixed Fabric
+#
+#
+Quick Wash
+#*1
+
+
+--- PAGE 33 (TEXT) ---
+33
+OPERATION-WASHER
+ENGLISH
+Extra Options and 
+Functions
+Customizing a Washing 
+Programme
+Each programme has default settings that are 
+selected automatically. You may also customize 
+these settings using these buttons.
+Wash
+Press the Wash button repeatedly until the desired 
+soil level is selected.
+• Pre Wash: for heavily soiled clothes
+• Intensive: for normal and heavily soiled clothes
+• Normal: for normal soiled clothes
+NOTE
+• Selectable options will differ depending on the 
+selected programme.
+Rinse
+The number of rinses can be selected by pressing 
+the Rinse button. This function is recommended 
+for people with detergent allergies.
+Spin
+The spin intensity level can be selected by pressing 
+this button repeatedly.
+Press the Spin button to select spin speed.
+Temp.
+This button selects the wash temperature for the 
+selected programme.
+Press the Temp. button until the desired setting is 
+lit.
+• Select the water temperature suitable for the 
+type of load you are washing. Follow the 
+garment fabric care labels for best results.
+Follow the next steps to customize a 
+washing programme:
+1
+Prepare the clothes and load the drum.
+2
+Press the Power button.
+3
+Add detergent.
+4
+Select a washing programme.
+5
+Customize the washing programme (Wash, 
+Rinse, Spin, and Temp.) as necessary.
+6
+Press the Start/Pause button.
+Only Using a Spin Function
+1
+Prepare the clothes and load the drum.
+2
+Press the Power button.
+• Do not select a washing programme and do 
+not add a detergent.
+3
+Press the Spin button.
+4
+Press the Start/Pause button.
+NOTE
+• If you select the washing programme, you will be 
+unable to select a spin only. If this occurs, press 
+Power button twice to cycle the machine off and 
+back on.
+Using Special Options
+You can customize the programmes by using the 
+following special options:
+Steam
+Adding this option helps provide better cleaning 
+results.
+TurboWash
+Adding this option reduces the programme time 
+but the similar washing results will be provided.
+
+
+--- PAGE 34 (TEXT) ---
+34
+OPERATION-WASHER
+Follow the next steps to use a special 
+option.
+1
+Press the Power button.
+2
+Select a washing programme.
+3
+Change the washing programme (Temp., 
+Rinse or Spin) as necessary.
+4
+Press the Steam or TurboWash button.
+5
+Press the Start/Pause button.
+Prepare to Dry
+Setting this function allows the the dryer to operate 
+automatically after the washing programme.
+Follow the next steps to use a special 
+option.
+1
+Press the Power button of the washer.
+2
+Select a washing programme.
+3
+Change the washing programme (Temp., 
+Rinse or Spin) if necessary.
+4
+Press the Prepare to Dry button of the washer.
+5
+Press the Start/Pause button of the washer.
+• When the dryer is turned, the paired drying 
+programme and option will be displayed.
+• After the load weight is sensed, the dryer 
+display shows the estimated remaining dry 
+time for about 1 minute.
+While the Prepare to Dry is in operation, the 
+dryer display shows PrE.
+6
+After the washing programme is finished, load 
+items into the dryer and close the door.
+7
+Press the Start/Pause button of the dryer.
+• The dryer display shows the estimated 
+remaining dry time.
+NOTE
+• the Prepare to Dry function will not be activated 
+in the following cases:
+- If you don't start the dryer within 15 minutes 
+after the washing programme has finished
+- If the dryer is unplugged
+- If the remote control function is used
+- If the washer or dryer is shut down while 
+setting the Prepare to Dry function
+• When the option is set, only the Power button 
+works and lock the door. Open the door of the 
+dryer after the washing programme has 
+finished.
+Using Basic Options
+You can customize the programmes by using the 
+following basic options:
+Rinse+Spin
+It allows you to rinse and spin a load separately 
+from a regular programme. It is helpful in 
+preventing fresh stains from setting in fabrics.
+1
+Press the Power button.
+2
+Select a washing programme.
+3
+Press and hold the Temp. button for 3 seconds 
+as necessary.
+• You can change the spin speed by pressing 
+the Spin button.
+4
+Press the Start/Pause button.
+
+
+--- PAGE 35 (TEXT) ---
+35
+OPERATION-WASHER
+ENGLISH
+Settings
+Child Lock
+Use this option to disable the controls. This 
+function can prevent children from changing cycles 
+or operating the appliance.
+NOTE
+• Once this function is set, all buttons are locked 
+except the Power button.
+• When the controls are locked, CL and the 
+remaining time are alternatively shown on the 
+display during the wash while this function is 
+engaged.
+• Turning off the power will not reset this function. 
+You must deactivate this function before you can 
+access any other functions.
+Locking the Control Panel
+1
+Turn on the power.
+2
+Press and hold the Spin button for 3 seconds to 
+activate this function.
+• A beeper will sound, and CL will appear on 
+the display.
+Unlocking the Control Panel
+1
+Turn on the power.
+2
+Press and hold the Spin button for 3 seconds to 
+deactivate this function.
+
+
+--- PAGE 36 (TEXT) ---
+36
+OPERATION-DRYER
+OPERATION-DRYER
+Operation Overview
+Using the Dryer
+Before the first cycle, set the appliance to dry for 5 
+minutes to warm up the drum. Open the door 
+between loads the first few times you use the 
+appliance to allow any odours from the interior of 
+the appliance to disperse.
+Children must be supervised so that they do not 
+climb inside the drum.
+1
+Ensure the lint filter is clean.
+• Open the door and ensure the lint filter is 
+clean. When the filter is full with lint, drying 
+times will be longer than usual.
+2
+Place the clothes into the drum after sorting 
+and close the door.
+• Push the clothes deep into the drum so that 
+the clothes keeps away from the door seal. 
+When the clothes get stuck between the 
+door and seal, they may get damaged while 
+drying.
+• The clothes should be sorted by fabric types 
+and dryness level.
+• All strings and attached belts of clothes 
+should be well tied and fixed before being 
+put into the drum.
+3
+Press the Power button to turn the appliance 
+on.
+• Depending on the models, the Power button 
+may light up to indicate that the appliance is 
+ready for dry.
+4
+Press the cycle button repeatedly until the 
+desired cycle is selected.
+• If you press the Start/Pause button without 
+choosing a programme, the appliance will 
+proceed with the [Cotton] programme. 
+Please refer to the programme table for the 
+detailed information.
+5
+Hold the Start/Pause button to start the 
+drying programme.
+NOTE
+• The appliance washes lint, which builds up onto 
+the surface of the condenser, automatically 
+using water that is condensed from the clothes 
+during operation.
+• The frequency of cleaning condenser may vary 
+depending on the size and the initial moisture 
+amount of the clothes.
+6
+After the drying programme has finished, open 
+the door and unload the clothes.
+CAUTION
+• Be careful! The drum inside may still be hot.
+7
+Press the Power button to turn the appliance 
+off.
+8
+Clean the lint filter.
+9
+To help reduce odours from forming, the 
+dryer’s door can be left open or slightly ajar for 
+
+
+--- PAGE 37 (TEXT) ---
+37
+OPERATION-DRYER
+ENGLISH
+a short period of time if possible to help 
+ventilate the drum after use.
+WARNING
+• For safety reasons, do not allow children or 
+animals to enter the appliance. It may cause 
+damage or injury.
+NOTE
+• The final part of a tumble dry cycle occurs 
+without heat (cool down cycle) to ensure that the 
+clothes are left at a temperature that ensures 
+the clothes will not be damaged.
+• A high atmospheric temperature and a small 
+room may both increase drying time as well as 
+energy consumption.
+Preparing the Laundry
+NOTE
+• Do not overload the appliance for the best 
+drying performance and most efficient energy 
+usage.
+Checking the clothes before 
+loading
+CAUTION
+• Check that the clothes are not stuck between 
+appliance and door, otherwise the clothes may 
+get damaged while drying.
+• Observe the maximum load capacity on the 
+programme table for the relevant drying 
+programme to get optimum drying results. 
+Overloading gives a poor drying result and 
+causes unnecessary creasing.
+• Do not load soaking wet clothes into the 
+appliance. It will cause an increasing of drying 
+time and energy consumption. Make sure that 
+the clothes are spun thoroughly before loading.
+• A mixed fabric load can cause the drying time to 
+be extended and the time remaining in the 
+display to pause during active drying. The 
+remaining time will then continue when it is the 
+actual time that remains.
+• Make sure to empty all pockets. Items such as 
+nails, hair clips, matches, pens, coins and keys 
+can damage both your appliance and clothes.
+• Remove loose belts and close zippers, hooks and 
+strings to make sure that these items do not 
+snag other clothes.
+Sorting the Clothes
+Clothes have their own fabric care labels, so drying 
+according to the fabric care label is recommended.
+Sort the clothes into size and type of fabric and 
+then prepare the clothes according to the symbols 
+on the fabric care labels.
+Woollens
+• Be sure to follow fabric care label symbols first. 
+Wool may not be completely dried from the 
+cycle, so do not repeat drying. Pull woollens to 
+their original shape and dry them flat.
+Woven and Loopknit Materials
+• Some woven and loopknit materials may shrink, 
+depending on quality.
+Non-Iron and Synthetics
+• Do not overload the appliance. Take out non-
+Iron items as soon as the appliance stops to 
+reduce creases.
+Baby Clothes and Night Gowns
+• Always check fabric care labels.
+Rubber and Plastics
+• Do not dry any items made from or containing 
+rubber or plastics such as:
+- Aprons, Bibs and Chair Covers
+- Curtains and Table Clothes
+- Bathmats
+Fiberglass
+• Do not dry fiberglass items in the appliance. 
+Glass particles left in the appliance may be 
+subsequently picked up by your clothes in later 
+cycles.
+
+
+--- PAGE 38 (TEXT) ---
+38
+OPERATION-DRYER
+Checking the Fabric Care Label
+The symbols on the fabric care label tell you about 
+the fabric content of your clothes and how it should 
+be dried.
+Symbol
+Description
+Dry
+Tumble Dry
+Permanent Press / Crease 
+Resistant
+Gentle / Delicate
+Do not Tumble Dry
+Do not Dry
+High Heating
+Medium Heating
+Low Heating
+No Heating / Air
+Line Dry / Hang to dry
+Drip Dry
+Dry Flat
+In the Shade
+
+
+--- PAGE 39 (TEXT) ---
+39
+OPERATION-DRYER
+ENGLISH
+Control Panel and Programme Table
+Control Panel Features
+Description
+a
+Power On/Off button
+• Press the button to turn the appliance on. Hold again to turn the appliance off.
+• Pressing the Power button during a programme will cancel that programme and any load 
+settings will be lost.
+b
+Programme Buttons
+• Programmes are available according to the clothing type.
+• The lamp will light up to indicate the selected programme.
+
+
+--- PAGE 40 (TEXT) ---
+40
+OPERATION-DRYER
+Time and Status Display
+c
+Start/Pause Button
+• This Start/Pause button is used to start or pause a dry programme.
+• When in pause, the power is turned off automatically after a certain time for safety 
+reasons.
+d
+Additional Programme Buttons / Extra Options and Functions
+• Use these buttons to select the desired options for the selected programme. Not all 
+options are available in each programme.
+Remote
+• With the LG ThinQ app, you can use a smartphone to control your appliance remotely.
+• In order to use the Remote Start function, refer to SMART FUNCTIONS.
+Wi-Fi
+• Press and hold Dry Mode button for 3 seconds to initiate the connection of the appliance 
+to the LG ThinQ application.
+e
+Time and Status Display
+• The display shows the settings, estimated remaining time, options, and status messages. 
+When the appliance is turned on, the default settings in the display will illuminate.
+Description
+a
+f lights up when the appliance is connected to Wi-Fi network at home.
+b
+w lights up when the remote control feature is activated.
+c
+H lights up when the programme starts and the door is locked.
+d
+m lights up when the beep is on. This function can be turned on or off only through the LG 
+ThinQ application.
+e
+Time Remaining Display
+• When a drying programme is selected, drying time for the selected programme is 
+displayed. This time will change when you set the extra options for the programme.
+• Error messages will appear when the appliance diagnose problems.
+Description
+
+
+--- PAGE 41 (TEXT) ---
+41
+OPERATION-DRYER
+ENGLISH
+Drying Programme Guide
+f
+J lights up or blinks while the condenser is being washed or the thawing mode is 
+operating.
+• Condenser cleaning operates every 30 drying cycles.
+NOTE
+• Drying times will be longer than usual when the condenser is being washed.
+• If a small amount of clothes are dried, the condenser will not be washed because the 
+accumulated water during the drying cycle is not enough to wash the condenser.
+g
+K lights up when the lint filter should be cleaned or is inserted.
+• Cleaning notice: When you press the Power button, the icon will become displayed.
+• Missing notice: When the lint filter is not inserted the appliance will not operate.
+h
+Programme Status Indicators
+• @ lights up when the appliance is in drying progress.
+• = lights up when the appliance is in cooling progress.
+Programme
+[Cotton]
+Max. Load 
+Capacity
+Rating
+Description
+Use for drying all normal items such as cotton, linen, shirts, jeans or mixed loads, 
+except delicate fabrics such as wool or silk.
+Dry Level
+Default : Cupboard
+Available : All
+Programme
+[Duvet]
+Max. Load 
+Capacity
+2.5 kg (1 down 
+duvet )
+Description
+Use this programme for drying blankets or bulky items such as pillows, blankets, 
+comforters, sheets or pet bedding.
+Dry Level
+Not adjustable
+Programme
+[Delicates]
+Max. Load 
+Capacity
+1.5 kg
+Description
+Use this programme for drying dress shirts/blouses, nylons, lingerie, or sheer and 
+lacy clothes which can easily be damaged.
+Dry Level
+Not adjustable
+Description
+
+
+--- PAGE 42 (TEXT) ---
+42
+OPERATION-DRYER
+Extra Options
+*1 This option is automatically included in the programme.
+NOTE
+• Only [Cotton] and [Mixed Fabric] programmes are available to select dryness level.
+• Anti Crease option can be selected for every drying programme.
+• The estimated time remaining will change if you select extra options for the programme.
+Programme
+[Mixed Fabric]
+Max. Load 
+Capacity
+4 kg
+Description
+Dries mixed fabrics simultaneously.
+• Use for various kind of fabrics except special garments (silk/delicate, sports 
+wear, dark clothes, wool, duvet/curtains).
+Dry Level
+Default : Cupboard
+Available : All
+Programme
+[Quick Dry]
+Max. Load 
+Capacity
+1 kg
+Description
+Use this programme for drying light or small items.
+Dry Level
+Not adjustable
+Programme
+[Downloaded]
+-
+-
+Description
+This programme allows you to download a new and special drying programme to 
+your appliance with a smartphone. The default programme is [Allergy Care].
+Programme
+Dry Mode
+[Cotton]
+Energy*1
+Time
+[Duvet]
+Time*1
+[Delicates]
+Energy*1
+[Mixed Fabric]
+Energy
+Time*1
+[Quick Dry]
+Time*1
+
+
+--- PAGE 43 (TEXT) ---
+43
+OPERATION-DRYER
+ENGLISH
+Extra Options and 
+Functions
+Customizing a Drying 
+Programme
+Each programme has default settings that are 
+selected automatically. You may also customize 
+these settings using these buttons.
+Dry Mode
+Press the Dry Mode button repeatedly to offer the 
+option of saving energy or time.
+• Energy: Energy saving option.
+• Time: Time saving option.
+NOTE
+• Selectable options will differ depending on the 
+selected programme.
+Dry Level
+It allows you to select a dryness level for the drying 
+programme.
+• Extra: For thick and quilted fabrics
+• Cupboard: For fabrics that do not need to be 
+ironed
+• Iron: For fabrics that need to be ironed
+Time Dry
+Use this option to manually select the drying time, 
+from 30 to 70 minutes, in 10-minute increments. 
+Use this for small loads or to reduce wrinkles.
+NOTE
+• Clothes might be still damp depending on the 
+fabric type of the clothes after drying. In this 
+case, use this option to dry the clothes more 
+thoroughly.
+Follow the next steps to customize a 
+drying programme:
+1
+Prepare the clothes and load the drum.
+2
+Press the Power button.
+3
+Select a drying programme.
+4
+Customize the drying programme (Dry Mode, 
+Dry Level, and Time Dry) as necessary.
+5
+Hold the Start/Pause button.
+Using Special Options
+You can customize the programmes by using the 
+following special options:
+Anti Crease
+Selecting this option will tumble the load 
+periodically for up to 2 hours after the selected 
+programme, or until the door is opened. This is 
+helpful in preventing wrinkles when you are unable 
+to remove items from the dryer immediately.
+• Press the Anti Crease button before you start a 
+drying programme.
+NOTE
+• When the option is set, a rectangle with a dashed 
+line and ENd appears on the display until the 
+feature is off.
+• When the option is set, only the Power, Start/
+Pause and Anti Crease buttons works after the 
+drying programme ends.
+• When a drying programme is running, pause the 
+programme first to set the option.
+• Always turn off the appliance before unloading 
+the clothes.
+Follow the next steps to use a special 
+option.
+1
+Press the Power button.
+2
+Select a drying programme.
+3
+Select the Anti Crease option.
+
+
+--- PAGE 44 (TEXT) ---
+44
+OPERATION-DRYER
+4
+Hold the Start/Pause button.
+Special Cycle
+Refresh
+This cycle helps reduce odours in clothes that do 
+not require washing.
+Rack Dry
+This programme is designed for use with clothes 
+that must be dried flat, without tumbling, including 
+sweaters and delicate fabrics.
+To use the programme, you need a dryer rack that 
+is placed inside the appliance. Before drying, 
+discard packing materials of the dryer rack.
+This programme can be downloaded to your 
+appliance with a smartphone.
+NOTE
+• Some models are not sold with all of the 
+available accessories, you may need to purchase 
+the dryer rack first if it was not provided with 
+your model. Please contact LG Electronics 
+Customer Information Centre or visit the LG 
+Website at http://www.lg.com for purchase.
+1
+Open the door.
+2
+Insert the hook of dryer rack to the drum 
+centre.
+3
+Place the dryer rack on the structure above the 
+lint filter and press it to complete assembly.
+4
+Place wet items on top of the rack. Allow space 
+around items for air to circulate.
+• The dryer rack does not move, but the drum 
+will rotate.
+5
+Close the door.
+6
+Turn power on and select Time Dry to finely 
+adjust the drying time.
+7
+Press the Start/Pause button.
+NOTE
+• Check the lint filter and remove any lint 
+accumulated from items dried on the rack.
+Settings
+Child Lock
+Use this option to disable the controls. This 
+function can prevent children from changing cycles 
+or operating the appliance.
+
+
+--- PAGE 45 (TEXT) ---
+45
+OPERATION-DRYER
+ENGLISH
+NOTE
+• Once this function is set, all buttons are locked 
+except the Power button.
+• When the controls are locked, [L and the 
+remaining time are alternatively shown on the 
+display during the dry while this function is 
+engaged.
+• Turning off the power will not reset this function. 
+You must deactivate this function before you can 
+access any other functions.
+Locking the Control Panel
+1
+Turn on the power.
+2
+Press and hold the Time Dry button for 3 
+seconds to activate this function.
+• A beeper will sound, and CL will appear on 
+the display.
+Unlocking the Control Panel
+1
+Turn on the power.
+2
+Press and hold the Time Dry button for 3 
+seconds to deactivate this function.
+
+
+--- PAGE 46 (TEXT) ---
+46
+SMART FUNCTIONS
+SMART FUNCTIONS
+Using LG ThinQ Application
+The LG ThinQ application allows you to 
+communicate with the appliance using a 
+smartphone.
+LG ThinQ Application Features
+Communicate with the appliance from a 
+smartphone using the convenient smart features.
+Remote Start
+It allows you to control the appliance remotely 
+from the LG ThinQ application.
+Download Cycle
+You can download new and special cycles that are 
+not included in the basic cycles on the appliance.
+A variety of specialty cycles specific to the appliance 
+can be downloaded to the successfully registered 
+appliances.
+Once cycle download is completed in the appliance, 
+the appliance keeps the downloaded cycle until a 
+new cycle is downloaded.
+NOTE
+• Only one downloaded cycle can be stored on the 
+appliance at a time.
+Cloud Cycle
+The Cloud cycles include many cycles which are 
+started from the LG ThinQ application. However, 
+the Cloud cycle is deleted from the appliance when 
+the power is turned off.
+Smart Pairing
+This function automatically selects the drying cycle 
+to match the washing cycle.
+• This function is not default. This function can be 
+turned on or off only through the LG ThinQ 
+application.
+• You can't use the Smart Pairing function 3 
+hours after the washing cycle has finished.
+Tub Clean Coach (Washer)
+This function shows how many cycles remain 
+before it is time to run the Tub Clean function.
+Energy Monitoring
+This function checks the energy consumption of 
+the recently used cycles and monthly average.
+Smart Diagnosis
+This function provides useful information for 
+diagnosing and solving issues with the appliance 
+based on the pattern of use.
+Settings
+Allows you to set various options on the appliance 
+and in the application.
+Push Alert
+When the cycle is complete or the appliance has 
+problems, you have the option of receiving push 
+notifications on a smartphone. The notifications 
+are triggered even if the LG ThinQ application is 
+off.
+NOTE
+• In the following cases, you must update the 
+network information for each appliance in the 
+LG ThinQ application under Device Cards ~ 
+Settings ~ Change Network.
+- wireless router is changed
+- wireless router password is changed
+- Internet service provider is changed
+• The application is subject to change for 
+appliance improvement purposes without notice 
+to users.
+• Functions may vary by model.
+
+
+--- PAGE 47 (TEXT) ---
+47
+SMART FUNCTIONS
+ENGLISH
+Installing LG ThinQ App and 
+Connecting an LG Appliance
+Models with QR Code
+Scan the QR code attached to the product using the 
+camera or a QR code reader app on your 
+smartphone.
+Models without QR Code
+1
+Search for and install the LG ThinQ app from 
+the Google Play Store or Apple App Store on a 
+smartphone.
+2
+Run the LG ThinQ app and sign in with your 
+existing account or create an LG account to 
+sign in.
+3
+Touch the add (~) button on the LG ThinQ app 
+to connect your LG appliance. Follow the 
+instructions in the app to complete the 
+process.
+NOTE
+• You may be asked to provide a password to 
+connect to the LG network (not your home 
+network) during the Wi-Fi setup. The password is 
+the last 4 characters of the network name, 
+repeated twice, with no spaces. For example, if 
+the network name appears as LG_XXXX_8b92, 
+then you would enter 8b928b92 as your 
+password. The password is case sensitive and 
+the last 4 characters are unique to your 
+appliance.
+• To verify the Wi-Fi connection, check that the f 
+icon on the control panel is lit.
+• The appliance supports 2.4 GHz Wi-Fi networks 
+only. To check your network frequency, contact 
+your Internet service provider or refer to your 
+wireless router manual.
+• LG ThinQ is not responsible for any network 
+connection problems or any faults, 
+malfunctions, or errors caused by network 
+connection.
+• If the appliance is having trouble connecting to 
+the Wi-Fi network, it may be too far from the 
+router. Purchase a Wi-Fi repeater (range 
+extender) to improve the Wi-Fi signal strength.
+• The Wi-Fi connection may not connect or may be 
+interrupted because of the home network 
+environment.
+• The network connection may not work properly 
+depending on the Internet service provider.
+• The surrounding wireless environment can 
+make the wireless network service run slowly.
+• If the appliance cannot be registered due to 
+problems with the wireless signal transmission, 
+unplug the appliance and wait about a minute 
+before trying again.
+• If the firewall on your wireless router is enabled, 
+disable the firewall or add an exception to it.
+• The wireless network name (SSID) should be a 
+combination of English letters and numbers. (Do 
+not use special characters.)
+• Smartphone user interface (UI) may vary 
+depending on the mobile operating system (OS) 
+and the manufacturer.
+
+
+--- PAGE 48 (TEXT) ---
+48
+SMART FUNCTIONS
+NOTE
+• If the security protocol of the router is set to 
+WEP, network setup may fail. Change the 
+security protocol (WPA2 is recommended) and 
+connect the product again.
+Using the Appliance Remotely
+Remote
+Use a smartphone to control your appliance 
+remotely. You can also monitor your cycle 
+operation so you know how much time is left in the 
+cycle.
+Using this function
+1
+Put the clothes into the drum.
+2
+Press the Power button.
+3
+Press and hold Remote button for 3 seconds to 
+enable the remote control function.
+4
+Start a cycle from the LG ThinQ application on 
+your smartphone.
+NOTE
+• Once this function is enabled, you can only start 
+a cycle from the LG ThinQ smartphone 
+application. If the cycle is not started, the 
+appliance will wait to start the cycle until it is 
+turned off remotely from the application or this 
+function is disabled.
+• If the door has been opened, you can not start a 
+cycle remotely.
+Disable this function manually
+When this function is activated, press and hold the 
+Remote button for 3 seconds.
+Delay End
+Setting this function allows the appliance to start 
+automatically and finish after a specified time.
+Using this function
+1
+Put the clothes into the drum.
+2
+Press the Power button.
+3
+Run LG ThinQ application and select the 
+product.
+• For washing, select the washer.
+• For drying, select the dryer.
+4
+Select a washing or drying programme.
+5
+Touch the Delay End and set the delay time.
+6
+Start a cycle from the LG ThinQ application on 
+your smartphone.
+NOTE
+• The delay time is the time to the end of the 
+programme, not the start. The actual running 
+time may vary due to water temperature, clothes 
+and other factors.
+• Avoid using liquid detergent for this function.
+Open Source Software Notice 
+Information
+To obtain the source code that is contained in this 
+product, under GPL, LGPL, MPL, and other open 
+source licenses that have the obligation to disclose 
+source code, and to access all referred license 
+terms, copyright notices and other relevant 
+documents, please visit https://
+opensource.lge.com.
+
+
+--- PAGE 49 (TEXT) ---
+49
+SMART FUNCTIONS
+ENGLISH
+LG Electronics will also provide open source code to 
+you on CD-ROM for a charge covering the cost of 
+performing such distribution (such as the cost of 
+media, shipping, and handling) upon email request 
+to opensource@lge.com.
+This offer is valid to anyone in receipt of this 
+information for a period of three years after our 
+last shipment of this product.
+Smart Diagnosis
+Use this feature to help you diagnose and solve 
+problems with your appliance.
+NOTE
+• For reasons not attributable to LGE’s negligence, 
+the service may not operate due to external 
+factors such as, but not limited to, Wi-Fi 
+unavailability, Wi-Fi disconnection, local app 
+store policy, or app unavailability.
+• The feature may be subject to change without 
+prior notice and may have a different form 
+depending on where you are located.
+Using LG ThinQ to Diagnose 
+Issues
+If you experience a problem with your Wi-Fi 
+equipped appliance, it can transmit 
+troubleshooting data to a smartphone using the 
+LG ThinQ application.
+• Launch the LG ThinQ application and select the 
+Smart Diagnosis feature in the menu. Follow 
+the instructions provided in the LG ThinQ 
+application.
+Using Audible Diagnosis to 
+Diagnose Issues
+Follow the instructions below to use the audible 
+diagnosis method.
+• Launch the LG ThinQ application and select the 
+Smart Diagnosis feature in the menu. Follow 
+the instructions for audible diagnosis provided 
+in the LG ThinQ application.
+1
+Press the Power button to turn on the 
+appliance.
+• Do not press any other buttons.
+2
+Hold the mouthpiece of your phone in front of 
+the appliance.
+• Washer: Hold the phone to the right of the 
+Start/Pause button.
+• Dryer: Hold the phone to the left of the 
+Power button.
+3
+Press and hold the Prepare to Dry (Washer) / 
+Drum Care (Dryer) buttons for 3 seconds or 
+until the audible tones start. Hold the 
+smartphone mouthpiece to the appliance until 
+the data transfer is complete.
+• Keep the smartphone in place until the data 
+transfer has finished. Time remaining for 
+data transfer is displayed.
+4
+After the data transfer is complete, the 
+diagnosis will be displayed in the application.
+NOTE
+• For best results, do not move the smartphone 
+while the tones are being transmitted.
+
+
+--- PAGE 50 (TEXT) ---
+50
+MAINTENANCE
+MAINTENANCE
+WARNING
+• Unplug the appliance before cleaning to avoid the risk of electric shock. Failure to follow this warning 
+may result in serious injury, fire, electric shock, or death.
+• Never use harsh chemicals, abrasive cleaners, or solvents to clean the appliance. They may damage the 
+finish.
+Washer
+What to Clean
+Always remove items from the washing machine as 
+soon as the cycle is complete. Leaving damp items 
+in the washing machine can cause wrinkling, colour 
+transfer, and odour.
+• After the wash cycle is finished, wipe the door 
+and door seal to remove any moisture.
+• Leave the door slightly open to dry the drum.
+• Wipe the appliance with a dry cloth to remove 
+any moisture.
+WARNING
+• Leave the door open to dry inside of the 
+appliance only if the children are supervised at 
+home.
+Cleaning the Exterior
+Proper care of your appliance can extend the 
+service life.
+Exterior
+• Immediately wipe off any spills.
+• Wipe with a damp cloth and then again with a 
+dry cloth ensuring there is no moisture in 
+cabinet joints or crevices.
+• Do not press on the surface or the display with 
+sharp objects.
+Door
+• Wash with a damp cloth on the outside and 
+inside and then dry with a soft cloth.
+WARNING
+• Do not attempt to separate any panels or 
+disassemble the appliance. Do not apply any 
+sharp objects to the control panel in order to 
+operate the appliance.
+Cleaning the Drum
+This is a special function to help clean the inside of 
+the appliance by soaking, washing, rinsing and 
+spinning.
+Run this function once a month (or more often if 
+needed) to reduce build-up of detergent and 
+softener and other residue.
+• If there is a bad smell or mildew inside the 
+appliance, run this function once a week for 3 
+
+
+--- PAGE 51 (TEXT) ---
+51
+MAINTENANCE
+ENGLISH
+weeks in addition to the regularly prompted 
+intervals.
+NOTE
+• The tcL message will be displayed to alert to the 
+recommendation of operating this function.
+1
+Remove any clothing or items from the 
+appliance and close the door.
+2
+Open the dispenser drawer and add anti 
+limescale powder to the main wash 
+compartment.
+• Tablets can be placed directly into the drum 
+as an alternative to powder.
+3
+Close the dispenser drawer slowly.
+4
+Turn on the power, and then press the Tub 
+Clean button.
+5
+Press the Start/Pause button to start.
+6
+Leave the door open to dry the inside of the 
+appliance completely.
+• When the inside of the appliance is not dried 
+completely, it may cause a bad smell or 
+mildew.
+WARNING
+• Leave the door open to dry inside of the 
+appliance only if the children are supervised at 
+home.
+Cleaning the Water Inlet Filter
+The water inlet filter collects lime or any sediment 
+that may be in water that is supplied to the 
+appliance. Clean the inlet filter every six months or 
+so, or more often if the water is very hard or 
+contains traces of limescale.
+• Turn off the water supply taps to the appliance if 
+the appliance is to be left for a certain period of 
+time (e.g. holiday), especially if there is no floor 
+drain (gully) in the immediate vicinity.
+• 1E error message will be displayed on the 
+control panel when the water is not entering the 
+detergent drawer.
+1
+Turn off the power and the water tap and then 
+unscrew the water inlet hose.
+2
+Remove the water inlet filter with small pliers 
+and then clean the filter using a medium bristle 
+tooth brush.
+Cleaning the Drain Pump Filter 
+and Performing an Emergency 
+Water Evacuation
+The drain filter collects threads and small objects 
+that may have been accidentally left in the clothes. 
+Make sure that the filter is clean every six months 
+to ensure smooth running of your appliance.
+Allow the water to cool before cleaning the drain 
+pump filter. Open the door in an emergency or 
+perform an emergency water evacuation.
+1
+Unplug the appliance.
+
+
+--- PAGE 52 (TEXT) ---
+52
+MAINTENANCE
+2
+Open the cover cap and pull out the drain tube.
+• Cover with handle: press the hook down
+• Cover without handle: push the cover
+3
+Remove the drain plug from the drain tube first 
+a, and then drain the water. Then slowly 
+unscrew the drain pump filter b to drain the 
+remaining water and then proceed to remove 
+any debris or objects from the filter.
+4
+After cleaning the drain pump filter, carefully 
+reinsert the filter and screw the drain cap back 
+in clockwise carefully to avoid cross threading 
+and leakage. Reinsert the plug back into the 
+drain tube and place the tube into its holder.
+5
+Close the cover cap.
+CAUTION
+• Be careful when draining, as the water may be 
+hot.
+• Run the drum cleaning programme once a 
+month (or more often, as needed) to remove 
+excess detergent and other debris.
+Cleaning the Dispenser Drawer
+Detergent and fabric softener can build up in the 
+dispenser drawer. Liquid detergents can remain 
+under the dispenser drawer and not dispense 
+completely. Remove the drawer and inserts and 
+check for build-up of cleaning products once or 
+twice a month.
+1
+Remove the detergent dispenser drawer by 
+pulling the drawer straight out until the drawer 
+stops.
+• Then gently pull the drawer outward while 
+pressing hard the disengage button.
+2
+Remove the build-up of detergent and 
+softener.
+• Rinse the drawer and the components of the 
+drawer with warm water to remove the 
+build-up from detergent and softener. Use 
+only water to clean the dispenser drawer. 
+Dry the drawer and the components of the 
+drawer with a soft cloth or towel.
+
+
+--- PAGE 53 (TEXT) ---
+53
+MAINTENANCE
+ENGLISH
+3
+To clean the drawer opening, use a cloth or 
+small, non-metal brush to clean the recess.
+• Remove all residue from the upper and 
+lower parts of the recess.
+4
+Wipe any moisture off the recess with a soft 
+cloth or towel.
+5
+Reassemble the components of the drawer to 
+the proper compartments and insert the 
+drawer.
+
+
+--- PAGE 54 (TEXT) ---
+54
+MAINTENANCE
+Dryer
+WARNING
+• Remove the power plug when you clean the 
+appliance. Not removing the plug may result in 
+electric shock.
+Cleaning the Lint Filters
+CAUTION
+• Clean the lint filters in the proper way referring 
+to the following instructions. Failure to do so, the 
+lint that is accumulated on the heat exchanger 
+may not be cleaned properly.
+NOTE
+• Unload all of the laundries from the appliance 
+before pull out the lint filters.
+• Put the lint filters back in place after cleaning. If 
+the lint filters are not in the appliance, you can 
+not operate the appliance.
+• when cleaning the filters, the lint should be 
+thrown in the trash and not washed through the 
+drain in order to avoid spreading microplastics 
+in the used water system.
+a Inner Filter
+• Always clean the inner filter before and after 
+use.
+b Outer Filter
+• Clean the outer filter after drying 10 times or 
+when the lint is accumulated into the outer 
+filter.
+• A chime will sound after every 10 drying 
+cycles and the K icon will blink.
+Clean the inner filter
+1
+Pull out the inner filter from the outer filter and 
+then open the inner filter.
+• Open the filter by unfolding it in the 
+direction of the arrows.
+2
+Clean large cluster of lint first, then clean the 
+residual lint by hand or using a vacuum 
+cleaner.
+• Dry the filter completely if the filter is moist. 
+Failure to do so, odour may occur in the 
+appliance.
+• Dispose of the used tissue in the trash.
+3
+Close the filter completely by pushing down its 
+center.
+• Ensure the left and right side of the inner 
+filter is closed properly.
+4
+Insert the inner filter into the outer filter.
+Clean the outer filter
+1
+Remove the dust or lint around the filter inlet.
+
+
+--- PAGE 55 (TEXT) ---
+55
+MAINTENANCE
+ENGLISH
+CAUTION
+• When the lint drops into the filter inlet, it may 
+cause less efficient drying performance and 
+increase of drying time.
+2
+Pull out the outer filter.
+3
+Remove the inner filter.
+4
+Grab the top edge of the outer filter and spread 
+open.
+5
+Clean the residual lint filter by hand or using a 
+vacuum cleaner.
+• Dry the filter completely if the filter is moist. 
+Failure to do so, odour may occur in the 
+appliance.
+• Dispose of the used tissue in the trash.
+6
+Close the outer filter while pushing the side a 
+of the filter.
+NOTE
+• Ensure the side of the filter is closed properly. 
+Failure to do so, any lint accumulated on the 
+filter may get into the appliance and may cause 
+degradation of the drying performance.
+7
+Close them, and reinsert the both lint filters.
+CAUTION
+• Do not load or remove any clothes when the lint 
+filter is not in a place. The clothes can drop into 
+the filter inlet and it may cause the appliance to 
+malfunction.
+a
+
+
+--- PAGE 56 (TEXT) ---
+56
+MAINTENANCE
+Wiping the Moisture Sensor
+This device senses the moisture level of the clothes 
+during operation, which means it must be cleaned 
+once every six months to remove any build-up of 
+lime scale on the surface of the sensor.
+Wipe the sensors inside the drum.
+CAUTION
+• Do not wipe the moisture sensor with abrasive 
+materials. Always clean the sensor with a dry 
+rough acrylic sponge.
+Cleaning the Cool Air Inlet Grill
+Vacuum the cool air inlet grill 3 - 4 times a year to 
+make sure there is no build up of lint or dirt that 
+may cause improper air flow. Always unplug the 
+appliance from the mains power before cleaning or 
+vacuuming.
+NOTE
+• Warm air is expelled through the ventilation grill.
+• Adequate room ventilation should be provided 
+to avoid the contamination of air into the room 
+from units burning other fuels, such as open 
+fires.
+Using Drum Clean Feature
+With time and use, the appliance may form 
+unpleasant odours that leave your clothes smelling 
+after drying. Using this cleaning function once a 
+month (or after drying 30 times) helps to reduce 
+the unpleasant odours from the appliance.
+CAUTION
+• Remove all of the clothes from the appliance.
+1
+Turn on the appliance.
+2
+Press the Drum Care button.
+3
+Hold the Start/Pause button.
+• This function operates for about 3 hours.
+4
+Open the dryer's door to provide the appliance 
+with enough air circulation for exhausting any 
+remaining odours.
+WARNING
+• For safety reasons, do not allow children or 
+animals to enter the appliance. It may cause 
+damage or injury.
+Using Condenser Clean Feature
+The appliance washes lint, which builds up onto the 
+surface of the condenser, automatically using 
+water that is condensed from the clothes during 
+
+
+--- PAGE 57 (TEXT) ---
+57
+MAINTENANCE
+ENGLISH
+operation. Using this cleaning function once a 
+month (or after drying 30 times) helps to wash 
+the lint.
+CAUTION
+• Remove all of the clothes from the appliance.
+1
+Open the dryer's door and pull out both inner 
+and outer filter.
+2
+Pour 1 litre of clean water slowly into the 
+entrance.
+• Do not pour the water quickly as it will spill 
+out.
+• Pouring more that 1.5 litres of water into the 
+compartment will cause water to leak back 
+out.
+3
+Reinsert both inner and outer filter and close 
+the dryer's door.
+4
+Turn on the appliance.
+5
+Press the Condenser Care button.
+6
+Hold the Start/Pause button to start the 
+cleaning of the condenser.
+• The cleaning of the condenser proceeds for 
+1 hour.
+7
+Open the dryer's door to provide the appliance 
+with enough air circulation for more thorough 
+drying of the tub after the cleaning has ended.
+WARNING
+• For safety reasons, do not allow children or 
+animals to enter the appliance. It may cause 
+damage or injury.
+
+
+--- PAGE 58 (TEXT) ---
+58
+TROUBLESHOOTING
+TROUBLESHOOTING
+Operation of your appliance can lead to errors and malfunctions. The following tables contain possible 
+causes and notes for resolving an error message or malfunction. It is recommended to read the tables 
+carefully below in order to save your time and money that may cost for calling to LG Electronics service 
+centre.
+Washer
+Error Messages
+Symptoms
+Possible Cause & Solution
+1E
+INLET ERROR
+Water supply is not adequate in that location. Water does not enter 
+appliance or it enters slowly.
+• Check another tap in the house.
+Water supply tap is not completely open. Water does not enter the 
+appliance or it enters slowly.
+• Open fully tap.
+Water supply hose(s) are kinked.
+• Straighten hose or reinstall the water inlet hose
+The filter of the supply hose(s) are clogged.
+• Check and clean the inlet valve filter after turning off the taps and 
+removing the hose connections to the washing machine.
+UE
+UNBALANCE ERROR
+The appliance has a system which detects and corrects the unbalance of 
+the appliance.
+• The clothes may be too wet at the end of the cycle, rearrange the load to 
+allow proper spinning. Close the door and press Start/Pause button. It 
+may take a few moments before the appliance begins to spin. The door 
+must be locked before spin can be achieved.
+Load is too small. This system may stop spinning or even interrupt the 
+spin cycle altogether if individual heavy articles (e.g. bath mat, bath 
+robe, etc.) are loaded.
+• Add 1 or 2 similar items or smaller articles of clothes to help balance the 
+load. Close the door and press Start/Pause button. It may take a few 
+moments before the appliance begins to spin. The door must be locked 
+before spin can be achieved.
+OE
+WATER OUTLET ERROR
+Drain hose is kinked or clogged. Water in the appliance does not drain 
+or drains slowly.
+• Clean and straighten the drain hose.
+The drain filter is clogged.
+• Check and clean the drain filter.
+
+
+--- PAGE 59 (TEXT) ---
+59
+TROUBLESHOOTING
+ENGLISH
+Noises You Might Hear
+dE1 /dEz
+DOOR ERROR
+Door is open.
+• Close the door and make sure that nothing is caught under the door 
+preventing it from closing completely.
+Door sensor malfunctions.
+• Close the door. Please call LG service centre. You can find your local LG 
+service centre phone number in the warranty card.
+tE
+CONTROL ERROR
+This is a control error.
+• Unplug the power plug and call for service.
+LE
+MOTOR LOCKED ERROR
+Over load in motor.
+• Let the appliance wait for 30 minutes until the motor is cooled down and 
+then, restart the cycle.
+FE
+OVERFLOW ERROR
+Water overfills due to a possible faulty water valve.
+• Close the water tap. Unplug the power plug. Call for service.
+PE
+PRESSURE SENSOR 
+ERROR
+Water level sensor malfunctions.
+• Close the water tap. Unplug the power plug. Call for service.
+vs
+VIBRATION SENSOR 
+ERROR
+Vibration sensor malfunctions.
+• Call for service.
+FF
+FROZEN FAILURE
+Is supply/drain hose or drain pump frozen?
+• Supply warm water into the drum in order to unfreeze the drain hose and 
+the drain pump. Cover the supply hose with wet and warm towel.
+AE
+WATER LEAKAGE
+Water leaks.
+• Call for service.
+PF
+POWER FAILURE
+Power failure or inadequate electrical service may have occurred during 
+operation.
+• Press the Start/Pause button to restart the cycle.
+Symptoms
+Possible Cause & Solution
+Symptoms
+Possible Cause & Solution
+Rattling and clanking 
+noise
+Foreign objects, such as keys, coins, or safety pins may be in the drum.
+• Stop the appliance, check the drum for foreign objects. If the noise 
+continues after the appliance is restarted, call for service.
+Thumping sound
+Heavy clothes may produce a thumping sound. This is usually normal.
+• If the sound continues, the appliance is probably out of balance. Stop and 
+redistribute the clothes.
+
+
+--- PAGE 60 (TEXT) ---
+60
+TROUBLESHOOTING
+Operation
+Thumping sound
+The clothes may be out of balance.
+• Pause the programme and redistribute the clothes after the door unlocks.
+Vibrating noise
+Package materials are not removed.
+• Remove package materials.
+The clothes may be unevenly distributed in the drum.
+• Pause the programme and redistribute the clothes after the door unlocks.
+Not all levelling feet are resting firmly and evenly on the floor.
+• See the Levelling the Appliance instruction to adjust the levelling of the 
+appliance.
+Floor not rigid enough.
+• Check if the floor is sold and does not flex. See the Installation Place 
+Requirements to select the proper location.
+Symptoms
+Possible Cause & Solution
+Symptoms
+Possible Cause & Solution
+Water is leaking.
+House drain pipes are clogged.
+• Unclog waste pipes. Contact plumber if necessary.
+Leakage is caused by improper installation of drain hose or clogged 
+drain hose.
+• Clean and straighten the drain hose. Check and clean the drain filter 
+regularly.
+Drain pump filter cap is not fitted correctly.
+• Refit the drain pump filter.
+Appliance does not 
+operate.
+Control panel has powered off due to inactivity.
+• This is normal. Press the Power button to turn the appliance on.
+Appliance is unplugged.
+• Make sure that the cord is plugged securely into a working outlet.
+Water supply is turned off.
+• Turn the water supply tap completely.
+Controls are not set properly.
+• Make sure that the programme is correctly set. Close the door and press 
+the Start/Pause button.
+Door is open.
+• Close the door and make sure that nothing is caught under the door 
+preventing it from closing completely.
+
+
+--- PAGE 61 (TEXT) ---
+61
+TROUBLESHOOTING
+ENGLISH
+Appliance does not 
+operate.
+Circuit breaker/fuse is tripped/blown.
+• Check house circuit breakers/fuses. Replace fuses or reset breaker. The 
+appliance should be on a dedicated branch circuit. The appliance will 
+resume the programme where it stopped once power is restored.
+Control needs to be reset.
+• Press the Power button, then reselect the desired programme and press 
+the Start/Pause button.
+Start/Pause was not pressed after a programme was set.
+• Press the Power button, then reselect the desired programme and press 
+the Start/Pause button. The appliance is turned off if the Start/Pause 
+button is not pressed within a certain time.
+Extremely low water pressure.
+• Check another tap in the house to make sure that household water 
+pressure is adequate.
+Appliance is heating the water or making steam.
+• The drum may stop operating temporarily during certain cycles, while 
+water is safely heated to a set temperature.
+Buttons may not 
+function properly.
+The Child Lock option is activated.
+• Deactivate the Child Lock option if necessary.
+Door does not open.
+The door cannot be opened for safety reasons once the appliance starts.
+• This is normal. You can safely open the door after H turns off.
+Appliance is not filling 
+properly.
+Inlet filter clogged.
+• Make sure the inlet filters on the fill valves are not clogged.
+Inlet hoses may be kinked.
+• Check that inlet hoses are not kinked or clogged.
+Insufficient water supply.
+• Make sure that both hot and cold water taps are turned on all the way.
+Hot and cold supply hoses are reversed.
+• Check supply hose connections.
+Appliance does not 
+drain water.
+Kinked drain hose.
+• Ensure that the drain hose is not kinked.
+Drain located higher than 1.2 m above the floor.
+• Make sure that the drain hose is no higher than 1.2 m above the bottom of 
+the appliance.
+Detergent is not 
+dispensed 
+incompletely or not 
+dispensed at all.
+Too much detergent is used.
+• Follow the guidelines provided by the detergent manufacturer.
+Symptoms
+Possible Cause & Solution
+
+
+--- PAGE 62 (TEXT) ---
+62
+TROUBLESHOOTING
+Detergent is not 
+dispensed 
+incompletely or not 
+dispensed at all.
+Drain Pump Filter may be blocked.
+• Clean the Drain filter.
+Cycle time is longer 
+than usual.
+The load is too small.
+• Add more items to allow the appliance to balance the loads.
+Heavy articles are mixed with lighter items.
+• Always try to wash articles with similar weight in order to allow the 
+appliance to evenly distribute the weight of the load for spinning.
+The load is out of balance.
+• Manually redistribute the load if articles have become tangled.
+Cycle end is delayed.
+Unbalance is detected or suds removing programme is on.
+• This is normal. The time remaining shown on the display is only an 
+estimated duration. Actual time may vary.
+Symptoms
+Possible Cause & Solution
+
+
+--- PAGE 63 (TEXT) ---
+63
+TROUBLESHOOTING
+ENGLISH
+Performance
+Symptoms
+Possible Cause & Solution
+Poor stain removal
+Previously set stains.
+• Articles that have been previously washed may have stains which have 
+been set. These stains may be difficult to remove and may require hand 
+washing or pre-treating to aid in stain removal.
+Staining
+Bleach or softener is dispensed too soon.
+• Dispenser compartment is overfilled. It makes bleach or softer dispensed 
+rapidly. Always measure bleach or softener to prevent overfilling.
+• Close the detergent dispenser slowly.
+Bleach or softener was added directly to the clothes in the drum.
+• Always use the detergent dispenser to ensure that bleach or softener is 
+properly dispensed at the right time in the programme.
+Clothes were not properly sorted.
+• Always wash dark colours separately from light colours and whites to 
+prevent discoloration.
+• Never wash heavily soiled items with lightly soiled items.
+Wrinkling
+Appliance is not unloaded promptly.
+• Always remove items from the appliance as soon as the programme is 
+complete.
+Appliance is overloaded.
+• The appliance can be fully loaded, but the drum should not be tightly 
+packed with items. The door of the appliance should be closed easily.
+Hot and cold water supply hoses are reversed.
+• Hot water rinse can set wrinkles in garments. Check the supply hose 
+connections.
+Spin speed may be too high.
+• Set the spin speed to suit the garment type.
+
+
+--- PAGE 64 (TEXT) ---
+64
+TROUBLESHOOTING
+Odour
+Symptoms
+Possible Cause & Solution
+Musty or mildewy 
+odour in appliance
+Inside of drum is not cleaned properly.
+• Run the Tub Clean function regularly.
+Odours can occur if the drain hose is not properly installed, causing 
+siphoning (water flowing back inside of the appliance).
+• When installing the drain hose, make sure that it does not get kinked or 
+blocked.
+If the detergent dispenser is not cleaned regularly, odours can occur 
+from mold or foreign substances.
+• Remove and clean the detergent dispenser, especially the top and bottom 
+of the dispenser’s opening.
+
+
+--- PAGE 65 (TEXT) ---
+65
+TROUBLESHOOTING
+ENGLISH
+Dryer
+Error Messages
+Symptoms
+Possible Cause & Solution
+dE1 / dEz
+DOOR ERROR
+The door has been opened while the appliance is in operation or the 
+appliance is being operated without the door being closed properly.
+• Close the door completely.
+• If dE1 / dEz is not released, call for service.
+dE4
+DOOR ERROR
+Door switch detection is not working properly.
+• Unplug the power plug and call for service.
+tE1 / tEz
+TEMPERATURE ERROR
+Temperature Sensor has malfunctioned.
+• Unplug the power plug and call for service.
+FI
+TEMPERATURE ERROR
+The temperature inside the drum has risen suddenly.
+• Unplug the power plug and call for service.
+LE1
+MOTOR LOCKED ERROR
+The motor has stopped suddenly.
+• Check if the amount of clothes exceeds the maximum load capacity.
+• Unplug the power plug and call for service.
+LEz / AE
+COMPRESSOR ERROR
+The compressor has stopped suddenly.
+• Unplug the power plug and call for service.
+OE
+DRAIN PUMP ERROR
+The drain pump motor has malfunctioned.
+• Unplug the power plug and call for service.
+The surrounding temperature for installation is below zero.
+• The recommended surrounding temperature for installation is 5 - 35 ℃.
+drN
+DRAIN WATER FAILURE 
+ERROR
+The drain hose is not connected properly.
+• Connect the drain hose properly.
+• Check if the drain hose is free of clogs or kinks and is not pinched behind 
+or under the dryer.
+• If the message keeps appearing, unplug the power cord and call for 
+service.
+1F
+NONE LINT FILTER 
+ERROR
+The lint filter is not in the appliance.
+• Insert the lint filter.
+Ps
+POWER SUPPLY ERROR
+Power cord is connected incorrectly.
+• Check the connection of the power cord.
+• If the message keeps appearing, unplug the power cord and call for 
+service.
+
+
+--- PAGE 66 (TEXT) ---
+66
+TROUBLESHOOTING
+Operation
+C=] <-> ENd
+Indicates that the dryer is paused or the dryer's drum rotates 
+periodically.
+• Turn off the appliance and unload the all of the laundries from the 
+appliance.
+Symptoms
+Possible Cause & Solution
+Appliance will not turn 
+on.
+Power cord is not properly plugged in.
+• Make sure that the power plug is securely plugged into a grounded outlet 
+matching the appliance's rating plate.
+House fuse is blown, circuit breaker has tripped, or power outage has 
+occurred.
+• Reset circuit breaker or replace fuse. Do not increase fuse capacity. If the 
+problem is a circuit overload, have it corrected by a qualified electrician.
+Appliance does not 
+heat.
+House fuse is blown, circuit breaker has tripped, or power outage has 
+occurred.
+• Reset circuit breaker or replace fuse. Do not increase fuse capacity. If the 
+problem is a circuit overload, have it corrected by a qualified electrician.
+Selected cycle does not use heat.
+• Some cycles default to unheated or air drying. Select a cycle that allows 
+heated drying.
+Water leaks.
+The optional drain hose is not connected correctly.
+• Connect the optional drain hose correctly.
+The door is closed while clothes or foreign substance is caught in the 
+door.
+• Check if clothes or foreign substance is caught in the door before using the 
+appliance. If water leaks continuously, contact the LG Electronics 
+Customer Information Centre.
+Appliance runs and 
+pauses by itself after 
+the drying cycle 
+finishes.
+This is how the anti crease option works.
+• Make sure that the anti crease option has been set. The option is designed 
+to prevent creases that are formed when the clothes are not unloaded 
+promptly after the drying cycle. When the option is set, the appliance runs 
+for 10 seconds and pauses for 5 minutes. The option is works for up to 2 
+hours.
+Symptoms
+Possible Cause & Solution
+
+
+--- PAGE 67 (TEXT) ---
+67
+TROUBLESHOOTING
+ENGLISH
+Performance
+Symptoms
+Possible Cause & Solution
+Clothes take too long 
+to dry.
+Load is not properly sorted.
+• Separate heavy items from lightweight items. Larger and heavier items 
+take longer to dry. Light items in a load with heavy items can fool the 
+sensor because the light items dry faster.
+Large load of heavy fabrics.
+• Heavy fabrics take longer to dry because they tend to retain more 
+moisture. To help reduce and maintain more consistent drying times for 
+large and heavy fabrics, separate these items into smaller loads of a 
+consistent size.
+Appliance controls are not set properly.
+• Use the appropriate control settings for the type of load you are drying. 
+Some loads may require an adjustment of the dry level setting for proper 
+drying.
+Lint filter needs to be cleaned.
+• Remove the lint from the lint filter after every cycle. With the lint removed, 
+hold the lint filter up to a light to see if it is dirty or clogged. With some 
+loads that produce high amounts of lint, such as new bath towels, it may 
+be necessary to pause the cycle and clean the filter during the cycle.
+House fuse is blown, circuit breaker has tripped, or power outage has 
+occurred.
+• Reset circuit breaker or replace fuse. Do not increase fuse capacity. If the 
+problem is a circuit overload, have it corrected by a qualified electrician.
+Appliance is overloaded.
+• Divide extra large loads into smaller loads for better drying performance 
+and efficiency.
+Dryer is a heat-pump model.
+• Heat-pump dryer models can take longer to dry clothes. However, 
+compared to a conventional dryer, where the heater uses much more 
+energy than the drum motor, a heat-pump dryer uses a more efficient heat 
+exchanger and will generally use less energy overall, even during long 
+cycles.
+Drying time is not 
+consistent.
+Heat settings, load size, or dampness of clothing is not consistent.
+• The drying time for a load will vary depending on the type of heat used 
+(electric), the size of the load, the type of fabrics, the wetness of the 
+clothes, and lint filter. Even an unbalanced load in the appliance can cause 
+poor spinning, resulting in wetter clothes which will take longer to dry.
+Greasy or dirty spots 
+are left on clothes.
+Fabric softener is used incorrectly.
+• When washing clothes that are to be dried in the appliance, use the correct 
+amount of fabric softener as recommended by the manufacturer of the 
+fabric softener.
+
+
+--- PAGE 68 (TEXT) ---
+68
+TROUBLESHOOTING
+Greasy or dirty spots 
+are left on clothes.
+Clean and dirty clothes are being dried together.
+• Use the appliance to dry only clean items. Soil from dirty clothes can 
+transfer to the clean clothes in the same or later loads.
+Clothes were not properly cleaned or rinsed before being placed in the 
+appliance.
+• Stains on dried clothes could be stains that were not removed during the 
+washing process. Make sure that clothes are being completely cleaned or 
+rinsed according to the instructions for your washing machine and 
+detergent. Some difficult soils may require pre-treating prior to washing.
+Clothes are wrinkled.
+Clothes have dried too long (overdried).
+• Over drying a load of clothes can lead to wrinkled clothes. Try a shorter 
+drying time.
+Clothes have been left in the appliance for too long after cycle ends.
+• Use the Anti Crease option.
+Clothes are shrinking.
+Garment care instructions are not being followed.
+• To avoid shrinking your clothes, always consult and follow fabric care 
+instructions. Some fabrics will naturally shrink when washed. Other fabrics 
+can be washed but will shrink when dried in the appliance. Use a low or no 
+heat setting.
+Lint is left on clothes.
+Lint filter has not been cleaned properly.
+• Remove the lint from the lint filter after every cycle. With the lint removed, 
+hold the lint filter up to a light to see if it is dirty or clogged. If it looks dirty, 
+follow the cleaning instructions. With some loads that produce high 
+amounts of lint, it may be necessary to clean the lint filter during the cycle.
+Clothes have not been sorted properly.
+• Some fabrics are lint producers (i.e., a fuzzy white cotton towel) and should 
+be dried separately from clothes that are lint trappers (i.e., a pair of black 
+linen pants).
+Appliance is overloaded.
+• Divide extra large loads into smaller loads for drying.
+Tissue, paper, etc., has been left in pockets.
+• Check pockets thoroughly before drying clothes.
+Excess static in clothes 
+after drying.
+Clothes have dried for too long (overdried).
+• Overdrying a load of clothes can cause a buildup of static electricity. Adjust 
+settings and use a shorter drying time.
+Drying synthetics, permanent press, or synthetic blends.
+• These fabrics are naturally more prone to static buildup. Try using fabric 
+softener, or use shorter Timed Drying time settings.
+Symptoms
+Possible Cause & Solution
+
+
+--- PAGE 69 (TEXT) ---
+69
+TROUBLESHOOTING
+ENGLISH
+Odours
+Clothes have damp 
+spots after a Dry 
+programme.
+Very large load or very small load. Single large item such as a blanket or 
+comforter.
+• If items are too tightly packed or too sparse the sensor may have trouble 
+reading the dryness level of the load. Use a Timed Drying programme for 
+very small loads.
+• Large, bulky items such as blankets or comforters can sometimes wrap 
+themselves into a tight ball of fabric. The outside layers will dry and 
+register on the sensors, while the inner core remains damp. When drying 
+a single bulky item, it may help to pause the cycle once or twice and 
+rearrange the item to unwrap and expose any damp areas.
+• To dry a few remaining damp items from a very large load or a few damp 
+spots on a large item after a Dry programme has completed, empty the lint 
+filter, then set a Timed Drying programme to finish drying the item(s).
+Symptoms
+Possible Cause & Solution
+The appliance has an 
+unpleasant odour.
+Are you using the appliance for the first time?
+• The odour is caused by the rubber material inside the appliance. The 
+odour normal when the appliance is new and disappears after you run 
+several cycles.
+Do you smell an odour during use?
+• Do not exceed the manufacturer's recommended amount of detergent 
+when washing clothes. Excess detergent can build up on clothing and 
+cause odours.
+• Leaving clothes in the washer or dryer after the cycle ends can lead to 
+odours. Unload clothing promptly when the cycle ends.
+• For ventless models, leave the dryer door open after drying, or use the 
+magnetic door stop (on some models) to keep the door slightly ajar.
+• If the odour is coming from the washer, follow the instructions in the 
+product manual to clean the washer tub/drum.
+• Keep both lint filters clean. Clogged or dirty lint filters can cause odours. 
+After cleaning the lint filter, allow it to dry completely before using it.
+• Periodically run the Drum Care and Condenser Care cycles following the 
+instructions in the MAINTENANCE section.
+Symptoms
+Possible Cause & Solution
+
+
+--- PAGE 70 (TEXT) ---
+70
+TROUBLESHOOTING
+Common
+Wi-Fi
+Symptoms
+Possible Cause & Solution
+Your home appliance 
+and smartphone are 
+not connected to the 
+Wi-Fi network.
+The password for the Wi-Fi that you are trying to connect to is incorrect.
+• Find the Wi-Fi network connected to your smartphone and remove it, then 
+register your appliance on LG ThinQ.
+Mobile data for your smartphone is turned on.
+• Turn off the Mobile data of your smartphone and register the appliance 
+using the Wi-Fi network.
+The wireless network name (SSID) is set incorrectly.
+• The wireless network name (SSID) should be a combination of English 
+letters and numbers. (Do not use special characters).
+The router frequency is not 2.4 GHz.
+• Only a 2.4 GHz router frequency is supported. Set the wireless router to 2.4 
+GHz and connect the appliance to the wireless router. To check the router 
+frequency, check with your internet service provider or the router 
+manufacturer.
+The distance between the appliance and the router is too far.
+• If the distance between the appliance and the router is too far, the signal 
+may be weak and the connection may not be configured correctly. Move 
+the location of the router so that it is closer to the appliance.
+
+
+--- PAGE 71 (TEXT) ---
+Memo
+
+
+--- PAGE 72 (OCR) ---
+

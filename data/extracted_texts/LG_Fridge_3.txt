@@ -1,0 +1,3136 @@
+
+--- PAGE 1 (TEXT) ---
+OWNER'S MANUAL
+FRENCH DOOR 
+REFRIGERATOR
+Read this owner's manual thoroughly before operating the 
+appliance and keep it handy for reference at all times.
+ENGLISH
+LFCC22426* / LFCS27596* / LFCC23596* / LRFCS29D6* / LRFCC23D6* / LF29T6000*
+MFL70761715
+Rev.12_070425
+www.lg.com
+Copyright © 2019-2025 LG Electronics. All Rights Reserved
+Scan to see the online manual.
+
+
+--- PAGE 2 (TEXT) ---
+TABLE OF CONTENTS
+2
+3
+IMPORTANT SAFETY 
+INSTRUCTIONS
+3
+READ ALL INSTRUCTIONS BEFORE USE
+3
+WARNING
+6
+CAUTION
+7
+PRODUCT OVERVIEW
+7
+Product Features
+11 INSTALLATION
+11
+Before Installing
+12
+Choosing the Proper Location
+14
+Removing/Assembling Handles
+15
+Removing/Assembling Doors and Drawers
+20
+Connecting Refrigerator to Water Supply
+22
+Leveling and Door Alignment
+23
+Turning on the Power
+24 OPERATION
+24
+Before Use
+25
+Control Panel
+26
+Sabbath Mode
+26
+Automatic Icemaker
+27
+Storing Food
+28
+Crisper Drawers
+30
+Glide‘N’Serve
+30
+Refrigerator Shelves
+31
+Door Bins
+31
+Durabase
+32 SMART FUNCTIONS
+32
+LG ThinQ Application
+32
+Smart DiagnosisTM Feature
+33 MAINTENANCE
+33
+Cleaning
+33
+Water Filter
+38 TROUBLESHOOTING
+38
+FAQs
+39
+Before Calling for Service
+47 LIMITED WARRANTY
+47
+USA
+51
+Canada
+
+
+--- PAGE 3 (TEXT) ---
+3
+IMPORTANT SAFETY INSTRUCTIONS
+ENGLISH
+IMPORTANT SAFETY INSTRUCTIONS
+READ ALL INSTRUCTIONS BEFORE USE
+Safety Messages
+Your safety and the safety of others are very important.
+We have provided many important safety messages in this manual and on your appliance. Always read and 
+follow all safety messages.
+All safety messages will tell you what the potential hazard is, tell you how to reduce the chance of injury, 
+and tell you what may happen if the instructions are not followed.
+WARNING
+WARNING
+• To reduce the risk of explosion, fire, death, electric shock, scalding or injury to persons when using this 
+product, follow basic precautions, including the following:
+Installation
+• To reduce the risk of injury to persons, adhere to all industry recommended safety procedures including 
+the use of long-sleeved gloves and safety glasses.
+• Never attempt to operate this appliance if it is damaged, malfunctioning, partially disassembled, or has 
+missing or broken parts, including a damaged cord or plug.
+• Only connect this product to a dedicated grounded electrical outlet rated for use with this product (115 
+V, 60 Hz, AC only). It is the user’s responsibility to replace a standard 2-prong wall outlet with a standard 
+3-prong wall outlet.
+• Do not use an outlet that can be turned off with a switch. Do not use an extension cord.
+• The appliance must be positioned for easy access to a power source.
+• When moving the refrigerator, be careful not to roll over or damage the power cord.
+• Contact an authorized service center when installing or relocating the refrigerator.
+• Do not, under any circumstances, cut or remove the third (ground) prong from the power cord.
+• Keep packing materials out of the reach of children. Packaging material can be dangerous for children. 
+There is a risk of suffocation.
+• Do not install the refrigerator in a damp or dusty place where insulation on electrical parts may 
+deteriorate.
+• Do not place the refrigerator in direct sunlight or expose it to the heat from heating appliances such as 
+stoves or heaters.
+This is the safety alert symbol.
+This symbol alerts you to potential hazards that can kill or injure you and others. All safety messages 
+will follow the safety alert symbol and either the word WARNING or CAUTION.
+These words mean:
+WARNING
+You may be killed or seriously injured if you do not follow instructions.
+CAUTION
+You may be injured or cause damage to the product if you do not follow instructions.
+
+
+--- PAGE 4 (TEXT) ---
+4
+IMPORTANT SAFETY INSTRUCTIONS
+• Do not bend or pinch the power cord excessively or place heavy objects on it.
+• When positioning the appliance, ensure the supply cord is not trapped or damaged.
+• Do not locate multiple portable socket-outlets or portable power supplies at the rear of the appliance.
+Operation
+• This appliance is intended to be used in household and similar applications such as:
+- staff kitchen areas in shops, offices and other working environments;
+- farm houses and by clients in hotels, motels and other residential type environments;
+- bed and breakfast type environments;
+- catering and similar non-retail applications.
+• This appliance is not for use in portable or mobile installations, such as marine or RV uses, where it will 
+be in motion while operating.
+• This appliance is not intended for use by persons (including children) with reduced physical, sensory or 
+mental capabilities, or lack of experience and knowledge, unless they have been given supervision or 
+instruction concerning use of the appliance by a person responsible for their safety.
+• This product is not to be used for special purposes such as the storage of medicine or test materials or 
+for use on ships, etc.
+• DO NOT allow children to climb, stand, or hang on the refrigerator doors or on the shelves in the 
+refrigerator. They could damage the refrigerator and seriously injure themselves.
+• Do not allow children to climb into the refrigerator. They could be trapped and suffocated.
+• Children should be supervised to ensure that they do not play with the refrigerator.
+• Keep fingers out of pinch point areas; clearances between the doors and cabinets are necessarily small. 
+Be careful closing doors when children are nearby.
+• Do not touch frozen food or the metal parts in the freezer compartment with wet or damp hands. Doing 
+so may cause frostbite.
+• Do not refreeze frozen food that has thawed completely. Doing so may result in a serious health hazard.
+• Do not use an adapter plug or plug the power plug into a multi-outlet extension cord.
+• If the supply cord is damaged, it must be replaced by the manufacturer or its service agent or a similarly 
+qualified person in order to avoid a hazard.
+• Do not operate the refrigerator or touch the power cord with wet hands.
+• Do not modify or extend the power cord.
+• Do not use an uncertified power outlet. Do not plug the appliance into a damaged wall outlet.
+• Do not put hands, feet or other objects into the air vents or bottom of the refrigerator. Doing so could 
+result in personal injury or electric shock.
+• In the event of a gas leak (propane/LPG), ensure the area is adequately ventilated and contact an 
+authorized service center before resuming use. Do not touch the refrigerator or power cord of the 
+refrigerator.
+• Disconnect the power cord immediately and contact an authorized service center if there is a strange 
+noise, odor, or smoke coming from the appliance.
+• Do not use any fuse (such as copper, steel wire, etc.) other than a standard fuse.
+• Do not put animals inside the appliance.
+• Do not place heavy or fragile objects, liquid filled containers, combustible substances, or flammable 
+objects (such as candles and lamps) on the appliance.
+• If connected to a circuit protected by fuses, use time delay fuse.
+• Keep ventilation openings, in the appliance enclosure or in the built-in structure, clear of obstruction.
+• Do not use mechanical devices or other means to accelerate the defrosting process, other than those 
+recommended by the manufacturer.
+
+
+--- PAGE 5 (TEXT) ---
+5
+IMPORTANT SAFETY INSTRUCTIONS
+ENGLISH
+• Do not use electrical appliances inside the food storage compartments of the appliance, unless they are 
+of the type recommended by the manufacturer.
+• Do not store explosive substances such as aerosol cans with a flammable propellant in this appliance.
+• Do not damage the refrigerant circuit.
+• This appliance incorporates an earth connection for functional purposes.
+• Connect to potable water supply only.
+- If connected to a water supply, connect to a potable water supply only.
+• Fill with potable water only.
+- If using an icemaker or dispenser water tank, make sure to fill it with potable water only.
+Maintenance
+• Do not use a hair dryer to dry the inside of the refrigerator.
+• Do not light a candle to remove odors in the refrigerator.
+• In the event of a refrigerant leak, move flammable objects away from the refrigerator. Ensure the area is 
+adequately ventilated and contact an authorized service center.
+• Keep flammable materials and vapors, such as gasoline, away from the refrigerator.
+• Unplug the power plug before cleaning or repairing the refrigerator.
+• The refrigerator and freezer compartment lights are interior LED lighting, and service should be 
+performed by a qualified technician.
+• Unplug the power plug immediately in the event of a blackout or thunderstorm.
+• Turn the power off if water or dust penetrates into the refrigerator. Call a service agent.
+• Do not store glass containers or soda in the freezer compartment. Contents may expand when frozen, 
+break the container and cause injury.
+• Do not store, disassemble or repair the appliance yourself or allow unqualified personnel to do so.
+Disposal
+• Risk of child entrapment. Junked or abandoned refrigerators are dangerous, even if they are sitting for 
+only a few days. When disposing of the refrigerator, remove the packing materials from the door or take 
+off the doors but leave the shelves in place so that children may not easily climb inside.
+• If disposing of a refrigerator, make sure the refrigerant and insulation foam are removed for proper 
+disposal by a qualified servicer. If you release the refrigerant or throw away the insulation foam, you 
+may be fined or imprisoned in accordance with the relevant environmental law. Insulation foam contains 
+flammable blowing gas.
+• When discarding the appliance, remove the door gasket while leaving the shelves and bins in place, and 
+keep children away from the appliance.
+Grounding Instructions
+• Improper connection of the equipment-grounding conductor can result in a risk of electric shock. Check 
+with a qualified electrician or service personnel if you are in doubt whether the appliance is properly 
+grounded. Do not modify the plug provided with the appliance; if it will not fit the outlet, have a proper 
+outlet installed by a qualified electrician.
+• Have a certified electrician check the wall outlet and wiring for proper grounding.
+• Never unplug the appliance by pulling on the power cord. Always grip the plug firmly and pull straight 
+out from the outlet. Failure to do so may damage the power cord, resulting in a risk of fire and electric 
+shock.
+
+
+--- PAGE 6 (TEXT) ---
+6
+IMPORTANT SAFETY INSTRUCTIONS
+SAVE THESE INSTRUCTIONS
+Risk of Fire and Flammable Materials
+CAUTION
+CAUTION
+• To reduce the risk of minor or moderate injury to persons, malfunction, or damage to the product or 
+property when using this product, follow basic precautions, including the following:
+Installation
+• Do not install the refrigerator where there may be a danger of the unit falling.
+• The refrigerator must be properly installed in accordance with the Installation Instructions.
+Operation
+• Do not use aerosols near the refrigerator.
+• This appliance is intended to be used only in domestic and similar applications.
+• Do not strike or apply excessive force to any glass surface. Do not touch glass surfaces if they are 
+cracked or broken. You may be injured.
+• Do not overfill or pack items too tightly into door bins. Doing so may cause damage to the bin or 
+personal injury if items are removed with excessive force.
+Maintenance
+• Do not use strong detergents like wax or thinners for cleaning. Clean with a soft cloth.
+• Remove foreign objects (such as dust and water) off the prongs of the power plug and contact areas. Do 
+not use a wet or damp cloth when cleaning the plug.
+• Do not spray water directly on the inside or outside of the refrigerator.
+• Do not clean glass shelves or covers with warm water when they are cold. They may break if exposed to 
+sudden temperature changes.
+This symbol alerts you to flammable materials that can ignite and cause a fire if you do not 
+take care.
+This appliance contains a small amount of isobutane refrigerant (R600a), which is combustible. 
+When transporting and installing the appliance, care should be taken to ensure that no parts 
+of the refrigerating circuit are damaged. Refrigerant squirting out of the pipes could ignite or 
+cause an eye injury. If a leak is detected, avoid any naked flames or potential sources of 
+ignition and air out the room in which the appliance is standing for several minutes.
+In order to avoid the creation of a flammable gas air mixture if a leak in the refrigerating 
+circuit occurs, the size of the room in which the appliance may be sited depends on the 
+amount of refrigerant used. The room must be 10.8 square feet (1 square meter) in size for 
+every 8g of R600a refrigerant inside the appliance. The amount of refrigerant in your 
+particular appliance is shown on the identification plate inside the appliance. Never start up an 
+appliance showing any signs of damage. If in doubt, consult your dealer.
+
+
+--- PAGE 7 (TEXT) ---
+7
+PRODUCT OVERVIEW
+ENGLISH
+PRODUCT OVERVIEW
+Product Features
+The images in this guide may be different from the actual components and accessories, which are subject 
+to change by the manufacturer without prior notice for product improvement purposes.
+Exterior
+† This feature is only available on some models.
+a Refrigerator
+Fresh food compartment
+b Handle
+Opens and closes the refrigerator door.
+c Door Button†
+Opens the Door-in-Door compartment.
+d InstaView Door-in-Door†
+The InstaView Door-in-Door compartment allows for easy access to commonly used food items.
+e LED Light
+LED lights up when the freezer door is opened.
+f Freezer
+Frozen food compartment
+
+
+--- PAGE 8 (TEXT) ---
+8
+PRODUCT OVERVIEW
+Interior
+† This feature is only available on some models.
+Standard Door: LFCC22426*/LRFCS29D6*/LRFCC23D6*/LF29T6000*
+InstaView Door-in-Door: LFCS27596*/LFCC23596*
+
+
+--- PAGE 9 (TEXT) ---
+9
+PRODUCT OVERVIEW
+ENGLISH
+a Control panel
+Sets the refrigerator and freezer temperatures.
+b LED Interior Lighting
+Lights up the inside of the refrigerator.
+c Water Filter†
+Purifies water. Replace the water filter every six months. See the Replacing the Water Filter section in 
+this manual for details.
+d Door Mullion
+Prevents the cold air in the refrigerator from escaping when the doors are closed.
+CAUTION
+• To reduce the risk of scratching the door or breaking the center door mullion, make sure that the folding 
+door mullion is folded in before closing the left-hand door.
+• The door alarm will sound every 30 seconds if the door remains open longer than one minute.
+e Fixed Door Bin
+Stores chilled food or drinks.
+f Auto-Closing Hinge†
+The refrigerator doors and freezer drawers close automatically when pushed slightly. (The door only 
+closes automatically when it is open at an angle of less than 30°.)
+g Automatic Icemaker (Freezer)†
+Produces ice automatically.
+h Ice Bin†
+Stores ice from the freezer icemaker.
+i Durabase and Durabase Divider
+Provides storage for large frozen food items.
+j Door-in-Door Case
+A convenient storage area for frequently-used items that require easy access.
+k Adjustable Refrigerator Shelf
+The refrigerator shelves are adjustable to meet individual storage needs.
+l Humidity Controlled Crisper†
+Helps vegetables and fruit to stay crisp and controls humidity.
+m Glide'N'Serve
+Stores food items at a different temperature than the regular refrigerator area.
+n Pullout Drawer
+Provides extra storage within the freezer compartment.
+Product Specifications
+The appearance and specifications listed in this manual may vary due to constant product improvements.
+Electrical requirements: 115 V, 60 Hz
+Min. / Max. water pressure: 20 - 120 psi (138 - 827 kPa)
+
+
+--- PAGE 10 (TEXT) ---
+10
+PRODUCT OVERVIEW
+Model
+Description
+Net weight
+LFCC22426*
+Counter-depth, French door refrigerator, bottom freezer
+240 lb (109 kg)
+LFCS27596*
+Standard-depth, Door-in-Door French door refrigerator, bottom freezer
+295 lb (134 kg)
+LFCC23596*
+Counter-depth, Door-in-Door French door refrigerator, bottom freezer
+278 lb (126 kg)
+LRFCS29D6*
+Standard-depth, French door refrigerator, bottom freezer
+256 lb (116 kg)
+LRFCC23D6*
+Counter-depth, French door refrigerator, bottom freezer
+234 lb (106 kg)
+LF29T6000*
+Standard-depth, French door refrigerator, bottom freezer
+256 lb (116 kg)
+
+
+--- PAGE 11 (TEXT) ---
+11
+INSTALLATION
+ENGLISH
+INSTALLATION
+Before Installing
+Installation Overview
+Please read the following installation instructions first after purchasing this product or transporting it to 
+another location.
+a Unpacking the Refrigerator
+b Choosing the Proper Location
+c Disassembling/Assembling
+d Connecting the Water Line
+e Leveling and Door Alignment
+WARNING
+• Connect to potable water supply only.
+
+
+--- PAGE 12 (TEXT) ---
+12
+INSTALLATION
+Unpacking the Refrigerator
+WARNING
+• Use two or more people to move and install the 
+refrigerator. Failure to do so can result in back 
+injury or other injury.
+• The refrigerator is heavy. Protect the floor when 
+moving the refrigerator for cleaning or service. 
+Always pull the refrigerator straight out when 
+moving it. Do not wiggle or walk the refrigerator 
+when trying to move it, as floor damage could 
+occur.
+• Keep flammable materials and vapors, such as 
+gasoline, away from the refrigerator. Failure to 
+do so can result in fire, explosion, or death.
+NOTE
+• Remove tape and any temporary labels from 
+your refrigerator before using. Do not remove 
+any warning labels, the model and serial number 
+label, or the Tech Sheet that is located under the 
+front of the refrigerator.
+• To remove any remaining tape or glue, rub the 
+area briskly with your thumb. Tape or glue 
+residue can also be easily removed by rubbing a 
+small amount of liquid dish soap over the 
+adhesive with your fingers. Wipe with warm 
+water and dry.
+• Do not use sharp instruments, rubbing alcohol, 
+flammable fluids, or abrasive cleaners to remove 
+tape or glue. These products can damage the 
+surface of your refrigerator.
+• Reinstall or adjust shelves as needed. 
+Refrigerator shelves are installed in the shipping 
+position. Reinstall shelves according to your 
+individual storage needs.
+Choosing the Proper 
+Location
+Water
+The refrigerator must be located where a water 
+supply can be connected for the automatic 
+icemaker.
+NOTE
+• The water pressure must be 20 - 120 psi (138 - 
+827 kPa). If the refrigerator is installed in an area 
+with low water pressure (below 20 psi or 138 
+kPa), you can install a booster pump to 
+compensate for the low pressure.
+Electricity
+Use an individual, grounded outlet:115 Volts, 60 
+Hz, AC, 15 amps minimum.
+WARNING
+• Do not overload house wiring and cause a fire 
+hazard by plugging in multiple appliances in the 
+same outlet with the refrigerator.
+• To reduce the risk of electric shock, do not install 
+the refrigerator in a wet or damp area.
+Flooring
+To avoid noise and vibration, the unit must be 
+installed and leveled on a solidly constructed floor. 
+If required, adjust the leveling legs to compensate 
+for the unevenness of the floor.
+NOTE
+• Installing on carpeting, soft tile surfaces, a 
+platform or weakly supported structure is not 
+recommended.
+Ambient Temperature
+Install this appliance in an area where the 
+temperature is between 55 °F (13 °C) and 110 °F 
+(43 °C).
+If the temperature around the appliance is too low 
+or high, cooling ability may be adversely affected.
+The internal temperatures could be affected by the 
+location of the appliance, the ambient 
+temperature, the frequency of door opening and 
+other factors.
+
+
+--- PAGE 13 (TEXT) ---
+13
+INSTALLATION
+ENGLISH
+Dimensions and Clearances
+• Check the dimensions of the appliance and the installation path to ensure there is sufficient room to 
+move the refrigerator through doors or narrow openings.
+• If an opening is too narrow to fit the refrigerator through, remove the refrigerator doors. See Removing/ 
+Assembling the Doors and Drawers in this manual.
+• The installation location chosen for the refrigerator should allow space behind the unit for connections 
+and airflow and space in front to open the doors and drawers.
+• Too small of a distance from adjacent items may result in lowered freezing capability and increased 
+electricity consumption charges. Allow at least 24 inches (610 mm) in front of the refrigerator to open the 
+doors, and at least 2 inches (50.8 mm) between the back of the refrigerator and the wall.
+-
+Dimension/Clearance
+LRFCS29D6*
+LF29T6000*
+LFCS27596*
+LFCC23596*
+LFCC22426*
+LRFCC23D6*
+A
+Depth without Handle
+33 3/4" (857 
+mm)
+32 3/8" (822 
+mm)
+28 3/4" (728 
+mm)
+B
+Width
+35 3/4" (908 
+mm)
+35 3/4" (908 
+mm)
+35 3/4" (908 
+mm)
+C
+Height to Top of Case
+68 1/2" (1737 
+mm)
+68 1/2" (1737 
+mm)
+68 1/2" (1737 
+mm)
+D
+Height to Top of Hinge
+69 3/4" (1772 
+mm)
+69 3/4" (1772 
+mm)
+69 3/4" (1772 
+mm)
+E
+Back Clearance
+2" (50 mm)
+2" (50 mm)
+2" (50 mm)
+F
+Depth without Door
+29 7/8'' (759 
+mm)
+28 1/2" (724 
+mm)
+24 3/4" (628 
+mm)
+G
+Depth with Handle
+36 1/4" (921 
+mm)
+34 7/8˝ (886 
+mm)
+31 1/4˝ (792 
+mm)
+H
+Depth (Total with Freezer Drawer 
+Open)
+57 5/8" (1461 
+mm)
+56 1/4˝ (1426 
+mm)
+48 1/2" (1232 
+mm)
+I
+Depth (Total with Door Open 90°)
+48 5/8'' (1234 
+mm)
+47 1/8" (1197 
+mm)
+43 3/8" (1103 
+mm)
+
+
+--- PAGE 14 (TEXT) ---
+14
+INSTALLATION
+Removing/Assembling 
+Handles
+These instructions are for models which ship with 
+the handles assembled. For models shipped with 
+the handles disassembled, follow the instructions 
+included in the handle package.
+• Tools Needed
+- Units shipped with disassembled handles:
+3/32" and 1/4" Allen wrenches only
+- Units shipped with assembled handles:
+3/32", 1/8" and 1/4" Allen wrenches
+When moving the refrigerator through a narrow 
+opening, removing the doors is preferred. If you 
+must remove the handles, be very careful not to 
+scratch the doors.
+The appearance of the handles may vary from 
+what is shown.
+CAUTION
+• When assembling or disassembling the 
+refrigerator handles, grasp the handle firmly to 
+avoid dropping it.
+• Do not swing the handle into nearby people or 
+animals.
+• Make sure that the set screws are in place and 
+the handle footprints at the ends of the handles 
+are aligned correctly over the mounting 
+fasteners on the doors. The set screws should be 
+loose enough to allow the handle footprints to 
+slide down into place over the mounting 
+fasteners on the door.
+• Make sure that there is not a gap between the 
+door and handle after assembling the handle.
+Removing Refrigerator Handles
+1 
+Loosen the set screws a with a 3/32 in. Allen 
+wrench and remove the handle.
+2 
+If needed, loosen the mounting fasteners b 
+that connect the refrigerator door and handle 
+using a 1/4 in. Allen wrench, and remove the 
+mounting fasteners.
+Assembling Refrigerator Handles
+1 
+If needed, reassemble the mounting 
+fasteners a on the door with a 1/4 in. Allen 
+wrench.
+2 
+Place the handle on the door by fitting the 
+handle footprints over the mounting 
+fasteners and tightening the set screws b 
+with a 3/32 in. Allen wrench.
+Removing Freezer Drawer Handles
+1 
+Loosen the set screws a located on the lower 
+side of the handle with a 3/32 in. Allen wrench 
+and remove the handle.
+• For models shipped with the handles 
+assembled, use a 1/8 in. Allen wrench.
+2 
+Loosen the mounting fasteners b with a 1/4 
+in. Allen wrench, and remove the mounting 
+fasteners.
+Assembling Freezer Drawer 
+Handles
+1 
+Assemble the mounting fasteners a at both 
+ends of the handle with a 1/4 in. Allen wrench.
+
+
+--- PAGE 15 (TEXT) ---
+15
+INSTALLATION
+ENGLISH
+2 
+Place the handle on the door by fitting the 
+handle footprints over the mounting 
+fasteners and tightening the set screws b 
+with a 3/32 in. Allen wrench.
+• For models shipped with the handles 
+assembled, use a 1/8 in. Allen wrench.
+Removing/Assembling 
+Doors and Drawers
+If the entrance door is too narrow for the 
+refrigerator to pass through, remove the 
+refrigerator doors and move the refrigerator 
+sideways through the doorway.
+WARNING
+• Use two or more people to remove and install 
+the refrigerator doors and freezer drawer.
+• Disconnect the electrical supply to the 
+refrigerator before installing.
+• Do not put hands, feet or other objects into the 
+air vents or bottom of the refrigerator.
+• Be careful when handling the hinge and hinge 
+lever.
+• Remove food and bins before detaching the 
+doors and drawer.
+• Do not hold the handle when removing or 
+replacing the doors and drawer as the handle 
+may come off.
+• Tools Needed
+- Phillips screwdriver
+- Flat-head screwdriver
+Removing the Left Refrigerator 
+Door
+NOTE
+• The number of wire harnesses may vary 
+depending on the model.
+• Ground wire is only present on some models.
+1 
+Remove the screw a from the hinge cover at 
+the top of the refrigerator. Lift the hook (not 
+visible), located at the bottom of the front side 
+of the cover b with a flat-head screwdriver.
+2 
+Disconnect all wire harnesses c. Unscrew the 
+ground wire d. Remove the cover.
+3 
+Rotate the hinge lever e counterclockwise. 
+Lift the top hinge f free of the hinge lever 
+latch g .
+CAUTION
+• When lifting the hinge free of the latch, be 
+careful that the door does not fall forward.
+4 
+Lift the door from the middle hinge pin and 
+remove the door.
+
+
+--- PAGE 16 (TEXT) ---
+16
+INSTALLATION
+CAUTION
+• Place the door, inside facing up, on a 
+nonscratching surface.
+Assembling the Left Refrigerator 
+Door
+CAUTION
+• Install the left refrigerator door after the right 
+door is installed.
+NOTE
+• The number of wire harnesses may vary 
+depending on the model.
+• Ground wire is only present on some models.
+1 
+Make sure that the plastic sleeve is inserted in 
+the bottom of the door. Install the refrigerator 
+door onto the middle hinge.
+2 
+Fit the hinge a over the hinge lever latch b 
+and slot it into place. Rotate the lever c 
+clockwise and fasten the hinge.
+3 
+Connect all the wire harnesses d and the 
+ground screw e.
+4 
+Place the hinge cover f in place. Insert and 
+tighten the cover screw g.
+Removing the Right Refrigerator 
+Door
+1 
+Remove the top hinge cover screw a. Lift the 
+hook (not visible), located at the bottom of the 
+front side of the cover b, with a flat-head 
+screwdriver.
+
+
+--- PAGE 17 (TEXT) ---
+17
+INSTALLATION
+ENGLISH
+2 
+Detach all the wire harnesses c.
+3 
+Rotate the hinge lever d clockwise. Lift the 
+top hinge e free of the hinge lever latch f.
+CAUTION
+• When lifting the hinge free of the latch, be 
+careful that the door does not fall forward.
+4 
+Lift the door from the middle hinge pin and 
+remove the door.
+CAUTION
+• Place the door, inside facing up, on a 
+nonscratching surface.
+Assembling the Right Refrigerator 
+Door
+CAUTION
+• Install the right-side door first.
+NOTE
+• The number of wire harnesses may vary 
+depending on the model.
+• Ground wire is only present on some models.
+1 
+Make sure that the plastic sleeve is inserted in 
+the bottom of the door. Lower the door onto 
+the middle hinge pin as shown in the figure.
+2 
+Fit the hinge a over the hinge lever latch b 
+and slot it into place. Rotate the lever c 
+counterclockwise to secure the hinge.
+3 
+Connect the wire harnesses d.
+
+
+--- PAGE 18 (TEXT) ---
+18
+INSTALLATION
+4 
+Place the cover e in its place. Insert and 
+tighten the cover screw f .
+Removing Freezer Drawers
+WARNING
+• Use two or more people to remove and install 
+the refrigerator doors and freezer drawer.
+• Be careful of sharp hinges on both sides of the 
+drawer.
+• When you lay the drawer down, be careful not to 
+damage the floor.
+• Do not sit or stand on the freezer drawer.
+• To prevent accidents, keep children and pets 
+away from the drawer. Do not leave the drawer 
+open. If the Durabase® storage bin is removed 
+from the freezer drawer, there is sufficient space 
+for a small child or pet to crawl inside.
+NOTE
+• For models with two freezer drawers, remove 
+the second freezer drawer in the same way.
+1 
+Pull the drawer open to full extension.
+2 
+Gently lift and pull out the ice bin.
+3 
+Lift the front of the drawer up, then pull it 
+straight out.
+4 
+Remove the Durabase basket from the rails. 
+Remove the screws from the rails at both 
+ends.
+5 
+Grip both sides of the drawer and pull it up to 
+remove it from the rails.
+CAUTION
+• Do not hold the handle when removing or 
+replacing the drawer. The handle may come off, 
+causing personal injury.
+
+
+--- PAGE 19 (TEXT) ---
+19
+INSTALLATION
+ENGLISH
+6 
+Hold both rails and push them in 
+simultaneously.
+Assembling Freezer Drawers
+NOTE
+• For models with two freezer drawers, assemble 
+the second freezer drawer in the same way.
+1 
+Pull out both rails simultaneously, until they 
+are fully extended.
+2 
+Grasp the drawer on each side and hook the 
+drawer supports into the rail tabs located on 
+both sides.
+CAUTION
+• Do not hold the handle when removing or 
+replacing the drawer. The handle may come off, 
+causing personal injury.
+3 
+Lower the door into its final position and 
+insert the screws in the rails on both sides.
+4 
+Insert the drawer into the frame, and push 
+the drawer back until it clicks into place.
+5 
+Replace the ice bin in the drawer. Insert the 
+Durabase basket in the rail assembly.
+
+
+--- PAGE 20 (TEXT) ---
+20
+INSTALLATION
+Connecting Refrigerator to 
+Water Supply
+Before Beginning
+These instructions assume you have an existing 
+water supply connection for the refrigerator. If 
+necessary, call a qualified plumber to install a 
+water supply line for the refrigerator.
+• Turn the icemaker OFF if the refrigerator will be 
+used before the water line is connected.
+• Do not install the icemaker tubing in areas 
+where the ambient temperatures fall below 
+freezing.
+WARNING
+• Connect to potable water supply only.
+CAUTION
+• To prevent burns and product damage, only 
+connect the refrigerator water line to a cold 
+water supply.
+• Wear eye protection during installation to 
+prevent injury.
+Water Pressure
+You will need a cold water supply.
+Water Pressure
+• Models with water filter:
+- 20 - 120 psi (138 - 827 kPa)
+• Where reverse osmosis water filtration 
+system is connected to a cold water supply:
+- 40 - 60 psi minimum to reverse osmosis 
+system (2.8 kgf/cm2 - 4.2 kgf/cm2, or less than 
+2 - 3 seconds to fill a cup of 7 oz capacity)
+If the water pressure from the reverse osmosis 
+system is less than 20 psi or 138 kPa or 1.4 kgf/cm2 
+(takes more than 4 seconds to fill a cup of 7 oz or 
+198 cc capacity):
+• Check to see if the sediment filter in the reverse 
+osmosis system is blocked. Replace the filter if 
+necessary.
+• Allow the storage tank on the reverse osmosis 
+system to refill after heavy usage.
+• If the water pressure remains low, call a 
+licensed, qualified plumber.
+• All installations must be in accordance with local 
+plumbing code requirements.
+Supplies Needed
+• Copper or PEX Tubing, ¼ in. outer diameter, to 
+connect the refrigerator to the water supply. Be 
+sure both ends of the tubing are cut square. To 
+determine how much tubing you need, measure 
+the distance from the water valve on the back of 
+the refrigerator to the water supply pipe. Then, 
+add 8 feet (2.4 m). Be sure there is sufficient 
+extra tubing (about 8 feet [2.4 m] coiled into 3 
+turns of about 10 in. [25 cm] diameter) to allow 
+the refrigerator to move out from the wall after 
+installation.
+• ½ in. or adjustable wrench.
+• Flat-blade and Phillips screwdrivers.
+• Two ¼ in. outer diameter compression nuts 
+and 2 ferrules (sleeves) to connect the copper 
+tubing to the shutoff valve and the refrigerator 
+water valve. If you are using a PEX water line kit, 
+it may already have the required fittings at either 
+end.
+• If your existing copper water line has a flared 
+fitting at the end, purchase an adapter (available 
+at plumbing supply stores) to connect the water 
+line to the refrigerator OR cut off the flared 
+fitting with a tube cutter and use a compression 
+fitting.
+NOTE
+• The hookup line cannot be white, plastic tubing. 
+Licensed plumbers must use only copper tubing 
+
+
+--- PAGE 21 (TEXT) ---
+21
+INSTALLATION
+ENGLISH
+(NDA tubing #49595 or #49599) or Cross Link 
+Polyethylene (PEX) tubing.
+• Be sure there is sufficient extra tubing (about 8 
+ft. coiled into three turns of about 10 in. 
+diameter) to allow the refrigerator to move out 
+from the wall after installation.
+Connecting Water Line to 
+Refrigerator
+1 
+Connect the tubing to the shutoff valve.
+• Place the compression nut and ferrule 
+(sleeve) onto the end of the copper tubing 
+and connect it to the shutoff valve. If you 
+are using PEX, the tubing may already have 
+the required fittings at either end. Make 
+sure the tubing is fully inserted into the 
+valve. Tighten the compression nut 
+securely.
+a Packing Nut
+b Shutoff Valve
+c Compression Nut
+d Ferrule (sleeve)
+2 
+Flush out the tubing into a bucket.
+• Flush out the tubing coming from the home 
+water supply until the water is clear. Shut 
+the water off at the water valve after about 
+one quart of water has been flushed 
+through the tubing.
+NOTE
+• Before making the connection to the 
+refrigerator, be sure that the refrigerator power 
+cord is not plugged into the wall outlet.
+3 
+Remove the flexible plastic cap from the water 
+valve on the refrigerator.
+4 
+Place the compression nut and ferrule (sleeve) 
+onto the end of the tubing as shown. If you 
+are using a PEX connection kit, it may already 
+have the required fittings.
+5 
+Insert the end of the copper or PEX tubing 
+into the connection as far as possible. While 
+holding the tubing, tighten the fitting.
+a Tubing Clamp
+b ¼ in. Tubing
+c ¼ in. Compression Nut
+d Ferrule (sleeve)
+e Refrigerator Connection
+6 
+Turn the water on at the shutoff valve.
+• Tighten any connections that leak.
+CAUTION
+• Check to see if leaks occur at the water line 
+connections.
+• Make sure the house water valve is fully open. If 
+it is not open completely, the icemaker and 
+dispenser may not work properly.
+
+
+--- PAGE 22 (TEXT) ---
+22
+INSTALLATION
+Leveling and Door 
+Alignment
+Leveling
+The refrigerator has two front leveling legs. Adjust 
+the legs to alter the tilt from front-to-back or side-
+to side. If the refrigerator seems unsteady, or the 
+doors do not close easily, adjust the refrigerator’s 
+tilt using the instructions below.
+1 
+Turn the leveling leg to the left to raise that 
+side of the refrigerator or to the right to lower 
+it. It may take several turns of the leveling leg 
+to adjust the tilt of the refrigerator.
+NOTE
+• A flare nut wrench works best, but an open-end 
+wrench will suffice. Do not over-tighten.
+2 
+Open both doors and check to make sure that 
+they close easily. If the doors do not close 
+easily, tilt the refrigerator slightly more to the 
+rear by turning both leveling legs to the left. It 
+may take several more turns, and be sure to 
+turn both leveling legs the same amount.
+Door Alignment
+The door alignment method may differ depending 
+on the model.
+Refrigerator Type A
+Both the left and right refrigerator doors have an 
+adjustable nut, located on the bottom hinge, to 
+raise and lower them to align properly.
+If the space between the doors is uneven even 
+after the door bins are filled, follow the 
+instructions below to align the doors evenly:
+Use the wrench (included with the owner's 
+manual) to turn the nut in the door hinge to adjust 
+the height. Turn the nut to the right to raise the 
+door or to the left to lower it.
+Refrigerator Type B
+Left Refrigerator Door
+The left refrigerator door has an adjustable nut, 
+located on the bottom hinge, to raise and lower 
+the door for proper alignment.
+If the space between the doors is uneven, follow 
+the instructions below to align the left door:
+Use the wrench (included with the owner's 
+manual) to turn the nut in the door hinge to adjust 
+the height. Turn the nut to the right to raise the 
+door or to the left to lower it.
+Right Refrigerator Door
+The right refrigerator door does not have an 
+adjustable nut.
+If the space between the doors is uneven, follow 
+the instructions below to align the right door:
+1 
+Lift up both the inner and outer door sections 
+of the right door to raise them at the middle 
+hinge. (It may be easier to lift them with the 
+doors open.)
+
+
+--- PAGE 23 (TEXT) ---
+23
+INSTALLATION
+ENGLISH
+2 
+While the door is lifted, have an assistant 
+insert the snap ring on the middle hinge. The 
+snap ring may differ depending on the model.
+• Snap ring type A
+Use pliers to insert the snap ring on the 
+middle hinge of the inner door section as 
+shown. Insert additional snap rings until the 
+right door is aligned.
+• Snap ring type B
+Insert only one snap ring on the middle 
+hinge of the inner door section as shown.
+- If a snap ring is already inserted on the 
+middle hinge, remove the snap ring 
+before inserting a new snap ring.
+CAUTION
+• The door is heavy. To avoid injury, use two or 
+more people to lift and align the refrigerator 
+door.
+• Small parts are a swallowing hazard for small 
+children. Keep snap rings out of the reach of 
+children.
+• Do not insert the snap ring on the hinge of the 
+outer door section.
+NOTE
+• The number of freezer drawers may vary 
+depending on the model.
+Turning on the Power
+• After installing, plug the refrigerator’s power 
+cord into a 3-prong grounded outlet and push 
+the refrigerator into the final position.
+CAUTION
+• Connect to a rated power outlet.
+• Have a certified electrician check the wall outlet 
+and wiring for proper grounding.
+• Do not damage or cut off the ground terminal of 
+the power plug.
+Position the Refrigerator
+• If the refrigerator is connected to water, arrange 
+the coil of tubing so that it does not vibrate 
+against the back of the refrigerator or against 
+the wall. Push the refrigerator back toward the 
+wall, leaving adequate clearance.
+
+
+--- PAGE 24 (TEXT) ---
+24
+OPERATION
+OPERATION
+Before Use
+Checklist
+Clean the refrigerator.
+Clean the refrigerator thoroughly and wipe off all dust that accumulated 
+during shipping.
+CAUTION
+• Do not scratch the refrigerator with a sharp object or use a detergent that 
+contains alcohol, a flammable liquid or an abrasive when removing any 
+tape or adhesive from the refrigerator. Remove adhesive residue by wiping 
+it off with your thumb or dish detergent.
+• Do not peel off the model or serial number label or the technical 
+information on the rear surface of the refrigerator.
+Open refrigerator doors and freezer drawers to ventilate the 
+interior.
+The inside of the refrigerator may smell like plastic at first. Remove any 
+adhesive tape from inside the refrigerator and open the refrigerator doors 
+and the freezer drawers for ventilation.
+Connect the power supply.
+Check if the power supply is connected before use.
+Turn off the icemaker.
+Turn off the icemaker if the refrigerator is not yet connected to the water 
+supply.
+NOTE
+• The icemaker water valve may buzz if the icemaker is turned on while the 
+refrigerator is not connected to the water supply.
+Wait for the refrigerator to cool.
+After the refrigerator is connected to power, it will take time to cool. The 
+duration depends on the model and ambient conditions. In summer, it may 
+take longer for the interior to cool down. Keep the refrigerator doors closed 
+to allow it to cool down quickly.
+• Don’t add food before the appliance has cooled. Food may spoil or odors 
+may linger.
+• To reach the set temperature quickly, keep the refrigerator doors closed 
+after placing food inside.
+The refrigerator makes a loud noise after initial operation.
+This is normal. The volume will decrease as the temperature decreases.
+
+
+--- PAGE 25 (TEXT) ---
+25
+OPERATION
+ENGLISH
+Control Panel
+Depending on the model, some of the following functions may not be available.
+The actual control panel may differ from model to model.
+Control Panel Features
+† This feature is only available on some models.
+Type A
+Type B
+a Freezer
+Indicates the set temperature of the freezer compartment in Celsius (°C) or Fahrenheit (°F). The default 
+freezer temperature is 0°F (-18 °C). Press the Freezer button repeatedly to select a new set 
+temperature from - 7 °F to 5 °F (-23 °C to -15 °C).
+b Refrigerator
+Indicates the set temperature of the refrigerator compartment in Celsius (°C) or Fahrenheit (°F). The 
+default refrigerator temperature is 37 °F (3 °C). Press the Refrigerator button repeatedly to select a 
+new set temperature from 33 °F to 43 °F (1 °C to 7 °C).
+NOTE
+• To change the temperature mode from °F to °C (or vice versa) press and hold the Refrigerator and 
+Freezer buttons simultaneously for approximately five seconds. The temperature indicator on the 
+display window switches between Celsius and Fahrenheit.
+• The displayed temperature is the target temperature, and not the actual temperature of the refrigerator. 
+The actual refrigerator temperature depends on the food inside the refrigerator.
+c Water Filter†
+Replace the water filter when Replace lights up. After replacing the water filter, press and hold the 
+Water Filter button for three seconds to turn the Replace light off. Replace the water filter 
+approximately every six months.
+d Ice Plus / Express Frz.
+Models with automatic icemaker: This function increases both ice making and freezing capabilities.
+Models without automatic icemaker: This function increases freezing capabilities.
+Press the Ice Plus / Express Frz. button to illuminate the icon and activate the function for 24 hours. 
+The function automatically shuts off after 24 hours. Stop the function manually by pressing the button 
+once more.
+NOTE
+Display Mode (For Store Use Only)
+
+
+--- PAGE 26 (TEXT) ---
+26
+OPERATION
+NOTE
+• The Display Mode disables all cooling in the refrigerator and freezer sections to conserve energy while 
+on display in a retail store. When activated, OFF is displayed on the control panel and the display remains 
+on for 20 seconds.
+• To deactivate / activate:
+- With either refrigerator door opened, press the Ice Plus / Express Frz. button 3 times consecutively 
+while pressing the Refrigerator button. The control panel beeps and the temperature settings display 
+to confirm that Display Mode is deactivated. Use the same procedure to activate Display Mode.
+• When the refrigerator is in the Power Saving Mode, the display remains off until a door is opened or a 
+button is pressed. Once on, the display remains on for 20 seconds.
+Sabbath Mode
+This feature is only available on some models.
+Using the Sabbath Mode
+Sabbath mode is used on the Jewish Sabbath and 
+Holidays.
+• To turn Sabbath mode on, touch the display to 
+activate it, then press and hold the Freezer and 
+Water Filter buttons for 3 seconds until sb 
+appears in the display.
+• To turn Sabbath mode off manually, press and 
+hold the Freezer and Water Filter buttons for 3 
+seconds.
+NOTE
+• Sabbath mode automatically turns off after 96 
+hours.
+• Once turned on, Sabbath mode is maintained 
+even after a power outage.
+• Selecting Sabbath mode automatically turns off 
+the Alarm functions.
+• The dispenser or InstaView is disabled in 
+Sabbath Mode, on applicable models.
+Automatic Icemaker
+This feature is only available on some models.
+WARNING
+• DO NOT place fingers in the automatic icemaker 
+when the refrigerator is plugged in.
+• Avoid contact with any moving parts of the 
+ejector mechanism or with the heater that 
+releases the ice cubes.
+Before Using the Freezer Icemaker
+This feature is only available on some models.
+The feature may vary depending on model 
+purchased.
+NOTE
+• Throw away the first bin full of ice after 
+installation. This is also necessary if the 
+refrigerator has not been used for a long time.
+• The icemaker begins producing ice 
+approximately 48 hours after the appliance is 
+initially installed.
+• The sound of ice dropping into the ice bin is 
+normal.
+• If the ice bin is completely filled with ice, ice 
+production will stop.
+• The amount and shape of ice may vary according 
+to the environment (ambient temperature 
+around the appliance, frequency of the door 
+being opened, amount of food stored in the 
+appliance, water pressure, etc.).
+• In the event of a power outage, throw away the 
+ice stored in the ice bin.
+Freezer Icemaker (Cubed Ice)
+This feature is only available on some models.
+a Feeler Arm
+b Power Switch
+
+
+--- PAGE 27 (TEXT) ---
+27
+OPERATION
+ENGLISH
+NOTE
+• This automatic freezer icemaker produces 12 
+cubes at a time, 50-110 pieces within a 24 hour 
+period if conditions are favorable. This amount 
+may vary according to the environment (ambient 
+temperature around the appliance, frequency of 
+the door being opened, amount of food stored 
+in the appliance, etc.).
+• Ice cubes that are stored in the ice bin for a 
+long time may clump together and be difficult to 
+separate. If this happens, empty the ice bin 
+completely and clean it before reinstalling it.
+Turning the Icemaker On/Off
+To turn the automatic icemaker On/Off, press the 
+power switch on the icemaker to the ON ( | ) or 
+OFF (O) position.
+Normal Sounds You May Hear
+• Keeping the power turned on to the icemaker 
+before the water line is connected can damage 
+the icemaker.
+• The icemaker water valve buzzes as the 
+icemaker fills with water. If the icemaker power 
+button is in the ON position, it will buzz even if it 
+has not yet been hooked up to water. To stop the 
+buzzing, press the icemaker power button to 
+turn it off.
+• You will hear the sound of ice dropping into the 
+bin and water running in the pipes as the 
+icemaker refills.
+Preparing for Vacation
+Set the icemaker power button to OFF and shut off 
+the water supply to the refrigerator.
+NOTE
+• The ice bin should be emptied any time the 
+icemaker power button is turned to the OFF 
+position.
+If the ambient temperature will drop below 
+freezing, have a qualified technician drain the 
+water supply system to prevent serious property 
+damage due to flooding caused by ruptured water 
+lines or connections.
+Storing Food
+NOTE
+• If you are leaving home for a short period, like a 
+short vacation, the refrigerator should be left on. 
+Refrigerated foods that are able to be frozen will 
+stay preserved longer if stored in the freezer.
+• If you are leaving the refrigerator turned off for 
+an extended period, remove all food and unplug 
+the power cord. Clean the interior, and leave the 
+door open to prevent fungi from growing in the 
+refrigerator.
+• If doors are opened or closed too often, warm 
+air may penetrate the refrigerator and raise its 
+temperature. This can increase the running costs 
+of the unit.
+Food Storage Tips
+Wrap or store food in the refrigerator in airtight 
+and moisture-proof material unless otherwise 
+noted. This prevents food odor and taste transfer 
+throughout the refrigerator. For dated products, 
+check date code to ensure freshness.
+CAUTION
+• Do not overfill or pack items too tightly into door 
+bins. Doing so may cause damage to the bin or 
+personal injury if items are removed with 
+excessive force.
+• Do not store glass containers in the freezer. 
+Contents may expand when frozen, break the 
+container and cause injury.
+How to Store Food
+• Butter or Margarine
+- Keep opened butter in covered dish or closed 
+compartment. When storing an extra supply, 
+wrap in freezer packaging and freeze.
+• Cheese
+- Store in original wrapping until used. Once 
+opened, rewrap tightly in plastic wrap or 
+aluminum foil.
+• Milk
+- Wipe milk cartons. For coldest milk, place 
+containers on an interior shelf.
+• Eggs
+- Store in original carton on interior shelf, not on 
+door shelf.
+
+
+--- PAGE 28 (TEXT) ---
+28
+OPERATION
+• Fruit
+- Do not wash or hull fruit until it is ready to be 
+used. Sort and keep fruit in original container 
+in a crisper, or store in completely closed 
+paper bag on refrigerator shelf.
+• Leafy Vegetables
+- Remove store wrapping, trim or tear off 
+bruised and discolored areas, wash in cold 
+water, and drain. Place in plastic bag or plastic 
+container and store in crisper.
+• Vegetables with skins (carrots, peppers)
+- Place in plastic bags or plastic container and 
+store in crisper.
+• Fish
+- Freeze fresh fish and shellfish if they are not 
+being eaten the same day purchased. Eating 
+fresh fish and shellfish the same day 
+purchased is recommended.
+• Leftovers
+- Cover leftovers with plastic wrap or aluminum 
+foil, or store in plastic containers with tight 
+lids.
+NOTE
+• Do not store food with high moisture content 
+towards the top of the refrigerator. The moisture 
+could come into direct contact with the cold air 
+and freeze.
+• Wash food before storing it in the refrigerator. 
+Vegetables should be washed, and food 
+packaging should be wiped down to prevent 
+adjacent foods from being contaminated.
+• If the refrigerator is kept in a hot and humid 
+place, frequent opening of the door or storing a 
+lot of vegetables in the refrigerator may cause 
+condensation to form. Wipe off the 
+condensation with a clean cloth or a paper towel.
+Storing Frozen Food
+Check a freezer guide or a reliable cookbook for 
+further information about preparing food for 
+freezing or food storage times.
+Freezing
+Your freezer will not quick-freeze a large quantity 
+of food. Do not put more unfrozen food into the 
+freezer than will freeze within 24 hours (no more 
+than 2 to 3 pounds of food per cubic foot of freezer 
+space). Leave enough space in the freezer for air to 
+circulate around packages. Be careful to leave 
+enough room at the front so the door can close 
+tightly.
+Storage times will vary according to the quality 
+and type of food, the type of packaging or wrap 
+used (how airtight and moisture-proof) and the 
+storage temperature. Ice crystals inside a sealed 
+package are normal. This simply means that 
+moisture in the food and air inside the package 
+have condensed, creating ice crystals.
+NOTE
+• Allow hot foods to cool at room temperature for 
+30 minutes, and then package and freeze. 
+Cooling hot foods before freezing saves energy.
+Packaging
+Successful freezing depends on correct packaging. 
+When you close and seal the package, it must not 
+allow air or moisture in or out. If it does, you could 
+have food odor and taste transfer throughout the 
+refrigerator and could also dry out frozen food.
+Packaging Recommendations
+• Rigid plastic containers with tight-fitting lids
+• Straight-sided canning/freezing jars
+• Heavy-duty aluminum foil
+• Plastic-coated paper
+• Non-permeable plastic wraps
+• Specified freezer-grade self-sealing plastic bags
+Follow package or container instructions for 
+proper freezing methods.
+Do not use
+• Bread wrappers
+• Non-polyethylene plastic containers
+• Containers without tight lids
+• Wax paper or wax-coated freezer wrap
+• Thin, semi-permeable wrap
+Crisper Drawers
+Using the Humidity Controlled 
+Crispers
+This feature is only available on some models.
+The crispers provide fresher tasting fruit and 
+vegetables by letting you easily control humidity 
+inside the drawer.
+You can control the amount of humidity in the 
+moisture-sealed crispers by adjusting the control 
+to any setting between Vegetables and Fruit.
+• Vegetables keeps moist air in the crisper for 
+best storage of fresh, leafy vegetables.
+
+
+--- PAGE 29 (TEXT) ---
+29
+OPERATION
+ENGLISH
+• Fruit lets moist air out of the crisper for best 
+storage of fruit.
+Removing/Assembling the 
+Humidity Controlled Crispers
+1 
+Open the doors completely and remove the 
+contents of the Door-in-Door case. Lift up and 
+pull out the Door-in-Door case.
+NOTE
+• The Door-in-Door feature is only available on 
+some models.
+2 
+Pull out the crisper to full extension, lift the 
+front up, and pull straight out.
+3 
+Lift the front of the cover up with both hands 
+until it detaches from the back wall of the 
+cabinet, then pull it out.
+4 
+To reassemble, insert the cover into the 
+refrigerator with both hands and lower it onto 
+the guides.
+5 
+Slightly tilt up the front of the crisper, insert it 
+into the frame and push it back into place.
+6 
+Line up the tabs on the Door-in-Door case 
+with the slots on the door and push down 
+until it snaps into place.
+NOTE
+• The Door-in-Door feature is only available on 
+some models.
+
+
+--- PAGE 30 (TEXT) ---
+30
+OPERATION
+Glide‘N’Serve
+Using the Pantry Drawer
+This drawer can be used for large party trays, deli 
+items and beverages. This drawer should not be 
+used to store vegetables that require high 
+humidity.
+CAUTION
+• Do not place any items on the Pantry Drawer 
+cover.
+Detaching/Assembling the 
+Glide‘N’Serve
+1 
+To remove the Glide‘N’Serve, pull out the 
+drawer until it stops, lift the front up, and pull 
+straight out.
+2 
+To assemble, slightly tilt up the front, insert 
+the drawer into the frame and push it back 
+into place.
+Refrigerator Shelves
+The shelves in the refrigerator are adjustable to 
+meet individual storage needs.
+Adjusting the shelves to fit items of different 
+heights will make finding the exact item you want 
+easier.
+Detaching/Assembling Shelves
+CAUTION
+• Do not clean glass shelves with warm water 
+while they are cold. Shelves may break if 
+exposed to sudden temperature changes or 
+impact.
+1 
+To detach a shelf, hold the adjoining shelf so 
+that it does not move.
+2 
+Pull the two shelves apart in the middle and 
+tilt up the front of the shelf you want to 
+remove until it's free from the other shelf.
+3 
+Support the shelf from the bottom and lift it 
+straight up.
+4 
+Pull the shelf out.
+
+
+--- PAGE 31 (TEXT) ---
+31
+OPERATION
+ENGLISH
+5 
+To assemble, tilt the front of the shelf up and 
+guide the shelf hooks into the slots at a 
+desired height.
+6 
+Lower the front of the shelf so that the hooks 
+drop into the slots.
+CAUTION
+• Make sure that shelves are level from one side to 
+the other. Failure to do so may result in the shelf 
+falling or spilled food.
+Door Bins
+Detaching/Assembling Door Bins
+The door bins are removable for easy cleaning and 
+adjustment.
+1 
+To remove the bin, simply lift the bin up and 
+pull straight out.
+2 
+To assemble the bin, slide it in above the 
+desired support and push down until it snaps 
+into place.
+CAUTION
+• Regularly detach and wash the storage bins and 
+shelves; they can become easily contaminated 
+by food.
+• Do not apply excessive force while detaching or 
+assembling the storage bins.
+• Do not use the dishwasher to clean the storage 
+bins and shelves.
+Durabase
+Using the Durabase
+The Durabase divider allows you to organize the 
+Durabase area into 2 sections. It can be adjusted 
+from side to side to accommodate items of 
+different sizes.
+The Durabase may differ depending on the model.
+WARNING
+• If the Durabase divider is removed, there is 
+enough open space for children or pets to crawl 
+inside. To prevent accidental child and pet 
+entrapment or suffocation risk, DO NOT allow 
+children or pets to touch or go near the drawer.
+CAUTION
+• The front and back of the Durabase are labeled 
+on the top. Make sure to install it so that the side 
+with the rubber drawer stops on the top is 
+toward the inside of the freezer.
+
+
+--- PAGE 32 (TEXT) ---
+32
+SMART FUNCTIONS
+SMART FUNCTIONS
+LG ThinQ Application
+This feature is only available on some models.
+The LG ThinQ application allows you to 
+communicate with the appliance using a 
+smartphone.
+Installing the LG ThinQ Application
+Search for the LG ThinQ application from the 
+Google Play Store or Apple App Store on a smart 
+phone. Follow instructions to download and install 
+the application.
+LG ThinQ Application Feature
+Smart DiagnosisTM
+This function provides useful information for 
+diagnosing and solving issues with the appliance 
+based on the pattern of use.
+NOTE
+• This information is current at the time of 
+publication. The application is subject to change 
+for product improvement purposes without 
+notice to users.
+Smart DiagnosisTM Feature
+This feature is only available on some models.
+Use this feature to help you diagnose and solve 
+problems with your appliance.
+NOTE
+• For reasons not attributable to LGE’s negligence, 
+the service may not operate due to external 
+factors such as, but not limited to, Wi-Fi 
+unavailability, Wi-Fi disconnection, local app 
+store policy, or app unavailability.
+• The feature may be subject to change without 
+prior notice and may have a different form 
+depending on where you are located.
+Using Audible Diagnosis to 
+Diagnose Issues
+Follow the instructions below to use the audible 
+diagnosis method.
+• Launch the LG ThinQ application and select the 
+Smart Diagnosis feature in the menu. Follow 
+the instructions for audible diagnosis provided 
+in the LG ThinQ application.
+1 
+Open the right refrigerator door.
+2 
+Hold the mouthpiece of your phone in front of 
+the speaker that is located on the right hinge 
+of the refrigerator door.
+3 
+Press and hold the Freezer button for three 
+seconds while continuing to hold your phone 
+to the speaker.
+4 
+After you hear three beeps, release the 
+Freezer button.
+5 
+Keep the phone in place until the tone 
+transmission has finished. The display will 
+count down the time. Once the countdown is 
+over and the tones have stopped, the 
+diagnosis will be displayed in the application.
+NOTE
+• For best results, do not move the phone while 
+the tones are being transmitted.
+
+
+--- PAGE 33 (TEXT) ---
+33
+MAINTENANCE
+ENGLISH
+MAINTENANCE
+Cleaning
+WARNING
+• Use non-flammable cleaner. Failure to do so can 
+result in fire, explosion, or death.
+CAUTION
+• Do not use an abrasive cloth or sponge when 
+cleaning the interior and exterior of the 
+refrigerator.
+• Do not place your hand on the bottom surface of 
+the refrigerator when opening and closing the 
+doors.
+General Cleaning Tips
+• Both the refrigerator and freezer sections 
+defrost automatically; however, clean both 
+sections once a month to prevent odors.
+• Wipe up spills immediately.
+• Unplug the refrigerator or disconnect power 
+before cleaning.
+• Remove all removable parts, such as shelves.
+• Use a clean sponge or soft cloth and a mild 
+detergent in warm water. Do not use abrasive or 
+harsh cleaners.
+• Hand wash, rinse and dry all surfaces 
+thoroughly.
+Exterior
+For products with black stainless steel exterior, 
+spray glass cleaner on a clean microfiber cloth and 
+rub in direction of grain. Do not spray glass 
+cleaner directly at the display panel. Do not use 
+harsh or abrasive cleaners.
+For products with a standard stainless steel 
+exterior, use a damp microfiber cloth and rub in 
+the direction of the grain. Dry with a paper towel 
+to avoid streaks. For stubborn stains and 
+fingerprints, use a few drops of liquid dish soap in 
+water, and rinse with hot water before drying. Do 
+not use abrasive or harsh cleaners.
+To clean products with a mirrored glass door, use 
+the microfiber cloth that came with the product. To 
+remove stains more easily, spray the cloth with a 
+glass cleaner and wipe the surface.
+Inside Walls
+• Allow the freezer to warm up so the cloth will not 
+stick.
+To help remove odors, wash the inside of the 
+refrigerator with a mixture of baking soda and 
+warm water. Mix 2 tablespoons of baking soda to 1 
+quart of water (26 g soda to 1 liter water.) Be sure 
+the baking soda is completely dissolved so it does 
+not scratch the surfaces of the refrigerator.
+Door Liners and Gaskets
+Use a clean sponge or soft cloth and a mild 
+detergent in warm water. Do not use cleaning 
+waxes, concentrated detergents, bleaches, or 
+cleaners containing petroleum on plastic 
+refrigerator parts.
+Plastic Parts (Covers and Panels)
+Use a clean sponge or soft cloth and a mild 
+detergent in warm water. Do not use glass 
+cleaners, abrasive cleansers, or flammable fluids. 
+These can scratch or damage the material.
+Condenser Coils
+Use a vacuum cleaner with a brush or crevice 
+attachment to clean the condenser cover and 
+vents. Do not remove the panel covering the 
+condenser coil area.
+Water Filter
+This feature is only available on some models.
+Before Replacing the Water Filter
+
+
+--- PAGE 34 (TEXT) ---
+34
+MAINTENANCE
+WARNING
+• To reduce the risk associated with choking, do 
+not allow children under 3 years of age to have 
+access to small parts during the installation of 
+this product.
+• To reduce the risk associated with the ingestion 
+of contaminants, do not use with water that is 
+microbiologically unsafe or of unknown quality 
+without adequate disinfection before or after the 
+system.
+• Use of unauthorized water filters may result in 
+product malfunction, water leakage or water 
+quality issues, which will not be covered under 
+the product warranty.
+CAUTION
+• Read and follow Use Instructions before 
+installation and use of this system.
+• Installation and use MUST comply with all state 
+and local plumbing codes.
+• Do not install if water pressure exceeds 120 psi 
+(827 kPa). If your water pressure exceeds 80 psi, 
+you must install a pressure limiting valve. 
+Contact a plumber if uncertain how to check 
+your water pressure.
+• Do not install where water hammer conditions 
+may occur. If water hammer conditions exist you 
+must install a water hammer arrester. Contact a 
+plumbing professional if you are uncertain how 
+to check for this condition.
+• Do not install on hot water supply lines. The 
+maximum operating water temperature of this 
+filter system is 100 8 (37.8 7).
+• Protect filter from freezing. Drain filter when 
+temperatures drop below 40 8 (4.4 7).
+• The disposable filter cartridge MUST be replaced 
+every 6 months, at the rated capacity or if a 
+noticeable reduction in flow rate occurs.
+• To protect it from freezing, remove filter 
+cartridge when temperatures are expected to 
+drop below 33 8 ( 0 7).
+• Do not install systems in areas where ambient 
+temperatures may go above 110 8 (43.3 7).
+• Where a backflow prevention device is installed 
+on a water system, a device for controlling 
+pressure due to thermal expansion must be 
+installed.
+• Ensure all tubing and fittings are secure and free 
+from leaks.
+Replacing the Water Filter
+• Replace the water filter:
+- Approximately every six months.
+- When the Replace Filter h icon or the 
+indicator light turns on.
+- When the water dispenser output decreases.
+- When the rated gallons of water have been 
+dispensed.
+• To purchase a genuine replacement water filter:
+- Visit your local dealer or distributor
+- Search using "water filter" on lg.com
+- Use replacement cartridge: LT1000P, 
+LT1000P*, LT1000PC, LT1000PCS or 
+ADQ747935**
+1 
+If the top shelf, located below the water filter, 
+is in the highest position, it will need to be 
+removed prior to replacing the water filter.
+• To remove any shelf, tilt up the front of the 
+shelf and lift it. Pull the shelf out.
+2 
+Pinch the sides to open the water filter cover.
+3 
+Pull the water filter downward and turn it 
+counterclockwise before pulling it out.
+• Make sure to rotate the filter down 
+completely before pulling it out of the 
+manifold hole.
+NOTE
+• Replacing the water filter causes a small amount 
+of water (around 1 oz. or 25 cc) to drain.
+
+
+--- PAGE 35 (TEXT) ---
+35
+MAINTENANCE
+ENGLISH
+• Wrap a cloth around the front end of the water 
+filter cover to collect any leaking water. Hold the 
+water filter upright, once it is removed, to 
+prevent any remaining water from spilling out of 
+the water filter.
+4 
+Replace with a new water filter.
+• Take the new water filter out of its packing 
+and remove the protective cover from the o-
+rings. With the water filter tabs in the 
+horizontal position, push the new water 
+filter into the manifold hole and turn it 
+clockwise until it stops.
+5 
+Close the water filter cover. The cover will click 
+when closed correctly.
+6 
+After the water filter is replaced,
+• Models with water dispenser: dispense 2.5 
+gallons (10 liters) of water (flush for 
+approximately 5 minutes) to remove 
+trapped air and contaminants from the 
+system.
+NOTE
+• Do not dispense the entire 2.5 gallon (10 liters) 
+amount continuously. Press and release the 
+dispenser pad for cycles of 30 seconds ON and 
+60 seconds OFF.
+• Models without water dispenser: dispose of 
+the first full bin of ice produced.
+7 
+After changing the filter, press and hold the 
+Water Filter button for three seconds to reset 
+the indicator light.
+CAUTION
+• LG strongly recommends that you use LG-
+authorized water filters to prevent water quality 
+issues, water leakage and appliance 
+malfunction.
+• For further assistance, call:
+- 1-800-243-0000 (USA)
+- 1-888-542-2623 (Canada)
+
+
+--- PAGE 36 (TEXT) ---
+36
+MAINTENANCE
+Performance Data Sheet
+Model: LT1000P, LT1000PC, LT1000PCS
+NSF System Trade Name Code: MDJ64844601
+The concentration of the indicated substances in water entering the system was reduced to a 
+concentration less than or equal to the permissible limit for water leaving the system as specified in NSF/
+ANSI Standard 42, Standard 53 and Standard 401.
+System tested and certified by NSF International against NSF/ANSI Standard 42, Standard 53 and 
+Standard 401 for the reduction of substances listed below.
+Substance 
+Reduction
+Average 
+Influent 
+Challenge
+NSF Specified 
+Challenge 
+Concentration
+Avg % 
+Reduction
+Average 
+Product Water 
+Concentration
+Max 
+Permissible 
+Product Water 
+Concentration
+NSF Reduction 
+Requirements
+Chlorine Taste and 
+Odor
+2.0 μg/L
+2.0 μg/L± 10 %
+>97.5 %
+0.050 μg/L
+N/A
+2 50.00 %
+Nominal Particulate 
+Class I, , 2 0.5 to < 
+1.0 μm
+12,000,000 
+pts/mL
+At least 10,000 
+particles/mL
+99.80 %
+24,000 pts/ml
+N/A
+2 85.00 %
+Asbestos
+180 MFL
+107 to 108 MFL; 
+fibers greater than 
+10 μg/Lin length
+>99.00 %
+< 1 MFL
+N/A
+2 99.00 %
+Atrazine
+8.5 μg/L
+9.0 μg/L ± 10 %
+>94.10 %
+0.500 μg/L
+3.0 μg/L
+NA
+Benzene
+15.0 μg/L
+15.0 μg/L ± 10 %
+>96.60 %
+0.510 μg/L
+5.0 μg/L
+NA
+Carbofuran
+74.0 μg/L
+80.0 μg/L ± 10 %
+98.30 %
+1.258 μg/L
+40 μg/L
+NA
+Lindane
+1.9 μg/L
+2.0 μg/L ± 10 %
+>99.00 %
+0.019 μg/L
+0.2 μg/L
+NA
+P-Dichlorobenzene
+230.0 μg/L
+225.0 μg/L ± 10 %
+>99.80 %
+0.460 μg/L
+75.0 μg/L
+NA
+2,4-D
+210.0 μg/L
+210.0 μg/L ± 10 %
+>99.90 %
+0.210 μg/L
+70.0 μg/L
+NA
+Lead pH @6.5
+140.0 μg/L
+150.0 μg/L ± 10 %
+99.60 %
+0.560 μg/L
+10.0 μg/L
+NA
+Lead pH @8.5
+150.0 μg/L
+150.0 μg/L ± 10 %
+>99.70 %
+<0.500 μg/L
+10.0 μg/L
+NA
+Mercury @ pH6.5
+5.9 μg/L
+6.0 μg/L ± 10 %
+91.00 %
+0.531 μg/L
+2.0 μg/L
+NA
+Mercury @ pH8.5
+5.6 μg/L
+6.0 μg/L ± 10 %
+92.5 %
+0.420 μg/L
+2.0 μg/L
+NA
+Cyst*
+100,000 
+cysts/L
+Minimum 50,000 
+cysts/L
+>99.99 %
+10 cysts/L
+N/A
+2 99.95 %
+Atenolol
+240 ng/L
+200 ± 40 % ng/L
+>95.50 %
+10.80 ng/L
+30 ng/L
+NA
+Carbamazepine
+1600 ng/L
+1400 ± 40 % ng/L
+98.40 %
+25.60 ng/L
+200 ng/L
+NA
+DEET
+1600 ng/L
+1400 ± 40 % ng/L
+97.10 %
+46.40 ng/L
+200 ng/L
+NA
+Trimethoprim
+170 ng/L
+140 ± 40 % ng/L
+>96.80 %
+5.44 ng/L
+20 ng/L
+NA
+Linuron
+160 ng/L
+140 ± 40 % ng/L
+>96.60 %
+5.44 ng/L
+20 ng/L
+NA
+Phenytoin
+200 ng/L
+200 ± 40 % ng/L
+>94.80 %
+10.40 ng/L
+30 ng/L
+NA
+Ibuprofen
+400 ng/L
+400 ± 40 % ng/L
+>94.50 %
+22.00 ng/L
+60 ng/L
+NA
+Naproxen
+140 ng/L
+140 ± 40 % ng/L
+>96.10 %
+5.46 ng/L
+20 ng/L
+NA
+Estrone
+120 ng/L
+140 ± 40 % ng/L
+>96.10 %
+4.68 ng/L
+20 ng/L
+NA
+Bisphenol A
+2000 ng/L
+2000 ± 40 % ng/L
+>98.90 %
+22.00 ng/L
+300 ng/L
+NA
+Nonyl Phenol
+1600 ng/L
+1400 ± 40 % ng/L
+>97.10 %
+46.40 ng/L
+200 ng/L
+NA
+
+
+--- PAGE 37 (TEXT) ---
+37
+MAINTENANCE
+ENGLISH
+* Based on the use of Cryptosporidium parvum oocysts.
+It is essential that the manufacturer’s recommended installation, maintenance and filter replacement 
+requirements be carried out for the product to perform as advertised.
+NOTE
+• While the testing was performed under standard laboratory conditions, actual performance may vary.
+For replacement filters, visit your local dealer or distributor or search under "water filters" on the lg.com 
+website.
+For further assistance, contact the LG Electronics Customer Information Center.
+USA: 1-800-243-0000
+Canada: 1-888-542-2623
+LG is a trademark of LG Corp.
+NSF is a trademark of NSF International.
+Manufactured by LG Electronics, INC:
+170, Sungsanpaechoungro, Seongsan-gu, Gyeongsangnam-do, THE REPUBLIC OF KOREA
+Guidelines for Application / Water Supply Parameters
+Service Flow
+0.5 gpm (1.9 lpm)
+Water Supply
+Community or Private Well - Potable Water
+Water Pressure
+20 – 120 psi (138 – 827 kPa)
+Water Temperature
+33 °F – 100 °F (0.6 °C – 37.8 °C)
+Capacity
+200 gallons (757 liters)
+
+
+--- PAGE 38 (TEXT) ---
+38
+TROUBLESHOOTING
+TROUBLESHOOTING
+FAQs
+Frequently Asked Questions
+Q:
+What are the best temperature settings for my refrigerator and freezer?
+A:
+The default setting for the refrigerator is 37° Fahrenheit (3° Celsius). The default setting for the 
+freezer is 0° Fahrenheit (-18° Celsius). Adjust these settings as necessary to keep food at desired 
+temperatures. Milk should be cold when stored on the inner shelf of the refrigerator. Ice cream 
+should be firm and ice cubes should not melt in the freezer. To switch the display from Fahrenheit to 
+Celsius, press and hold the Freezer and Refrigerator buttons until you hear a beep and the settings 
+in the display change.
+Q:
+How do I set the refrigerator and freezer temperatures?
+A:
+Continually press the Refrigerator or Freezer button on the control panel until the desired 
+temperature appears. The numbers will cycle from highest to lowest and then return to the highest 
+again with continuous pressing.
+Q:
+Why do I hear a buzzing noise from my refrigerator periodically?
+A:
+This may happen if you do not have a water source attached to your refrigerator and the icemaker is 
+turned on. If you do not have a water source attached to the back of the refrigerator you should turn 
+the icemaker off.
+Q:
+Why does the icemaker tray look crooked?
+A:
+This is a normal part of the icemaker cycle. The icemaker tray may appear level or with a slight tilt. 
+The change in position is to assist in the freezing process.
+Q:
+My refrigerator is powered on and the controls are working, but it’s not cooling and the display 
+shows “OFF” (see below). What is wrong?
+A:
+The refrigerator is in Display Mode. The Display Mode disables all cooling in the refrigerator and 
+freezer sections to conserve energy while on display in a retail store. When activated, OFF is displayed 
+on the control panel and the display remains on for 20 seconds. With either refrigerator door opened, 
+press the Ice Plus button 3 times consecutively while pressing the Refrigerator button. The control 
+panel beeps and the temperature settings display to confirm that Display Mode is deactivated. Use 
+the same procedure to activate Display Mode.
+Q:
+My refrigerator is on and is cooling, but none of the lights are on and the buttons don't work. 
+The display shows "Sb".
+A:
+The Sabbath mode is activated. (Only included on some models.) To turn it off, see the Sabbath Mode 
+section.
+
+
+--- PAGE 39 (TEXT) ---
+39
+TROUBLESHOOTING
+ENGLISH
+Before Calling for Service
+Review this section before calling for service; doing so will save you both time and money.
+For detailed information or videos, visit www.lg.com for the troubleshooting page.
+Cooling
+Problem
+Possible Cause & Solution
+Refrigerator is not 
+cooling or has no 
+power.
+The refrigerator control is set to OFF (some models).
+• Turn the control ON. Refer to the Setting the Controls section for proper temperature 
+settings.
+Refrigerator is set to Demo Mode.
+• Demo Mode allows the lights and control display to work normally while disabling cooling, 
+to save energy while the refrigerator is on the showroom floor. See the FAQs section of 
+this manual for instructions on how to disable Demo Mode.
+Refrigerator is in the defrost cycle.
+• During the defrost cycle, the temperature of each compartment may rise slightly. Wait 30 
+minutes and confirm the proper temperature has been restored once the defrost cycle has 
+completed.
+Refrigerator was recently installed.
+• It may take up to 24 hours for each compartment to reach the desired temperature.
+Refrigerator was recently relocated.
+• If the refrigerator was stored for a long period of time or moved on its side, it is necessary 
+for the refrigerator to stand upright for 24 hours before connecting it to power.
+Cooling system runs 
+too much.
+Refrigerator is replacing an older model.
+• Modern refrigerators require more operating time but use less energy due to more 
+efficient technology.
+Refrigerator was recently plugged in or power restored.
+• The refrigerator will take up to 24 hours to cool completely.
+The door is opened often or a large amount of food / hot food was added.
+• Adding food and opening the door warms the refrigerator, requiring the compressor to 
+run longer in order to cool the refrigerator back down. In order to conserve energy, try to 
+get everything you need out of the refrigerator at once, keep food organized so it is easy 
+to find, and close the door as soon as the food is removed. (Refer to the Food Storage 
+Guide.)
+Doors are not closed completely.
+• Firmly push the doors shut. If they will not shut all the way, the "Doors will not close 
+correctly or pop open" section in Troubleshooting.
+Refrigerator is installed in a hot location.
+• The compressor will run longer under warm conditions. At normal room temperatures (70 
+°F or 21 °C) expect your compressor to run about 40 % to 80 % of the time. Under warmer 
+conditions, expect it to run even more often. The refrigerator should not be operated 
+above 110 °F (43 °C).
+Condenser / back cover is clogged.
+• Use a vacuum cleaner with an attachment to clean the condenser cover and vents. Do not 
+remove the panel covering the condenser coil area.
+Interior moisture 
+buildup.
+Doors are opened often or for long periods of time.
+• When the doors are opened often or for long periods of time, warm, humid air enters the 
+compartment. This raises the temperature and moisture level within the compartment. To 
+lessen the effect, reduce the frequency and duration of door openings.
+
+
+--- PAGE 40 (TEXT) ---
+40
+TROUBLESHOOTING
+Interior moisture 
+buildup.
+Doors are not closed correctly.
+• See the "Doors will not close correctly or pop open" section.
+Weather is humid.
+• Humid weather allows additional moisture to enter the compartments when the doors are 
+opened leading to condensation or frost. Maintaining a reasonable level of humidity in the 
+home will help to control the amount of moisture that can enter the compartments.
+Defrost cycle recently completed.
+• During the defrost cycle, the temperature of each compartment may rise slightly and 
+condensation may form on the back wall. Wait 30 minutes and confirm that the proper 
+temperature has been restored once the defrost cycle has completed.
+Food is not packaged correctly.
+• Food stored uncovered or unwrapped, and damp containers can lead to moisture 
+accumulation within each compartment. Wipe all containers dry and store food in sealed 
+packaging to prevent condensation and frost.
+Food is freezing in 
+the refrigerator 
+compartment.
+Food with high water content was placed near an air vent.
+• Rearrange items with high water content away from air vents.
+Refrigerator temperature control is set incorrectly.
+• If the temperature is too cold, adjust the control one increment at a time and wait for the 
+temperature to stabilize. Refer to the Control Panel section for more information.
+Refrigerator is installed in a cold location.
+• When the refrigerator is operated in temperature below 41 °F (5 °C), food can freeze in the 
+refrigerator compartment. The refrigerator should not be operated in temperature below 
+55 °F (13 °C).
+Refrigerator or 
+Freezer section is too 
+cold.
+Incorrect temperature control settings.
+• If the temperature is too cold, adjust the control one increment at a time and wait for the 
+temperature to stabilize. Refer to the Control Panel for more information.
+Frost or ice crystals 
+form on frozen food 
+(inside of sealed 
+package).
+Condensation from food with a high water content has frozen inside of the food 
+package.
+• This is normal for food items with a high water content.
+Food has been left in the freezer for a long period of time.
+• Do not store food items with high water content in the freezer for a long period of time.
+Frost or ice crystals 
+form on frozen food 
+(outside of package).
+Door is opened frequently or for long periods of time.
+• When the doors are opened often or for long periods of time, warm, humid air enters the 
+compartment. This raises the temperature and moisture level within the compartment. 
+Increased moisture will lead to frost and condensation. To lessen the effect, reduce the 
+frequency and duration of door openings.
+Door is not closing properly.
+• Refer to the "Doors will not close correctly or pop open" section in the Troubleshooting.
+Refrigerator or 
+Freezer section is too 
+warm.
+Refrigerator was recently installed.
+• It may take up to 24 hours for each compartment to reach the desired temperature.
+The air vents are blocked. Cold air circulates from the freezer to the fresh food section 
+and back again through air vents in the wall dividing the two sections.
+• Locate air vents by using your hand to sense airflow and move all packages that block 
+vents and restrict airflow. Rearrange items to allow air to flow throughout the 
+compartment.
+Problem
+Possible Cause & Solution
+
+
+--- PAGE 41 (TEXT) ---
+41
+TROUBLESHOOTING
+ENGLISH
+Ice
+Refrigerator or 
+Freezer section is too 
+warm.
+Doors are opened often or for long periods of time.
+• When the doors are opened often or for long periods of time, warm, humid air enters the 
+compartment. This raises the temperature and moisture level within the compartment. To 
+lessen the effect, reduce the frequency and duration of door openings.
+Unit is installed in a hot location.
+• The refrigerator should not be operated in temperatures above 110 °F (43 °C).
+A large amount of food or hot food was added to either compartment.
+• Adding food warms the compartment requiring the cooling system to run. Allowing hot 
+food to cool to room temperature before putting it in the refrigerator will reduce this 
+effect.
+Doors are not closed correctly.
+• See the "Doors will not close correctly or pop open" section in the Troubleshooting.
+Temperature control is not set correctly.
+• If the temperature is too warm, adjust the control one increment at a time and wait for the 
+temperature to stabilize.
+Defrost cycle has recently completed.
+• During the defrost cycle, the temperature of each compartment may rise slightly and 
+condensation may form on the back wall. Wait 30 minutes and confirm the proper 
+temperature has been restored once the defrost cycle has completed.
+Problem
+Possible Cause & Solution
+Icemaker is not 
+making enough ice.
+Demand exceeds ice production capacity.
+• Refer to the Automatic Icemaker section for ice production capacity to check the amount 
+of ice produced in a 24 hour period.
+House water supply is not connected, valve is not turned on fully, or valve is clogged.
+• Connect the refrigerator to a cold water supply with adequate pressure and turn the water 
+shutoff valve fully open. If the problem persists, it may be necessary to contact a plumber.
+Water filter has been exhausted.
+• Replacing the water filter is recommended:
+- Approximately every six months.
+- When the water filter indicator turns on.
+- When the water dispenser output decreases.
+- When the ice cubes are smaller than normal.
+Low house water supply pressure.
+• The water pressure must be between 20 and 120 psi (138 and 827 kPa) on models without 
+a water filter and between 40 and 120 psi (276 and 827 kPa) on models with a water filter. 
+If the problem persists, it may be necessary to contact a plumber.
+Reverse osmosis filtration system is used.
+• Reverse osmosis filtration systems can reduce the water pressure below the minimum 
+amount and result in icemaker issues. (Refer to the Connecting the Water Line section.)
+Tubing connecting refrigerator to house supply valve is kinked.
+• The tubing can kink when the refrigerator is moved during installation or cleaning 
+resulting in reduced water flow. Straighten or repair the water supply line and arrange it to 
+prevent future kinks.
+Problem
+Possible Cause & Solution
+
+
+--- PAGE 42 (TEXT) ---
+42
+TROUBLESHOOTING
+Icemaker is not 
+making enough ice.
+Doors are opened often or for long periods of time.
+• If the doors of the unit are opened often, ambient air will warm the refrigerator which will 
+prevent the unit from maintaining the set temperature. Lowering the refrigerator 
+temperature can help, as well as not opening the doors as frequently.
+Doors are not closed completely.
+• If the doors are not properly closed, ice production will be affected. See the "Doors will not 
+close correctly or pop open" section in Parts & Features Troubleshooting for more 
+information.
+The temperature setting for the freezer is too warm.
+• The recommended temperature for the freezer compartment for normal ice production is 
+0 °F (-18 °C). If the freezer temperature is warmer, ice production will be affected.
+Icemaker is not 
+making ice
+Refrigerator was recently installed or icemaker recently connected.
+• It may take up to 24 hours for each compartment to reach the desired temperature and 
+for the icemaker to begin making ice.
+Icemaker is not turned on.
+• Locate the icemaker ON/OFF and confirm that it is turned on.
+The ice detecting sensor is obstructed.
+• Foreign substances or frost on the ice-detecting sensor can interrupt ice production. Make 
+sure that the sensor area is clean at all times for proper operation.
+The refrigerator is not connected to a water supply or the supply shutoff valve is not 
+turned on.
+• Connect the refrigerator to the water supply and turn the water shutoff valve fully open.
+Icemaker shutoff (arm or sensor) obstructed.
+• If your icemaker is equipped with an ice shutoff arm, make sure that the arm moves freely. 
+If your icemaker is equipped with the electronic ice shutoff sensor, make sure that there is 
+a clear path between the two sensors.
+Reverse osmosis water filtration system is connected to your cold water supply.
+• Reverse osmosis filtration systems can reduce the water pressure below the minimum 
+amount and result in icemaker issues. (Refer to the Connecting the Water Line section.)
+Ice has bad taste or 
+odor.
+Water supply contains minerals such as sulfur.
+• A water filter may need to be installed to eliminate taste and odor problems. NOTE: In 
+some cases, a filter may not help. It may not be possible to remove all minerals/odor/taste 
+in all water supplies.
+Icemaker was recently installed.
+• Ice that has been stored for too long will shrink, become cloudy, and may develop a stale 
+taste. Throw away old ice and make a new supply.
+The food has not been stored properly in either compartment.
+• Rewrap the food. Odors may migrate to the ice if food is not wrapped properly.
+The interior of the refrigerator needs to be cleaned.
+• See the Maintenance section for more information.
+The ice storage bin needs to be cleaned.
+• Empty and wash the bin (discard old cubes). Make sure that the bin is completely dry 
+before reinstalling it.
+Icemaker is making 
+too much ice.
+Icemaker shutoff (arm/ sensor) is obstructed.
+• Empty the ice bin. If your icemaker is equipped with an ice shutoff arm, make sure that the 
+arm moves freely. If your icemaker is equipped with the electronic ice shutoff sensor, 
+make sure that there is a clear path between the two sensors. Reinstall the ice bin and wait 
+24 hours to confirm proper operation.
+Problem
+Possible Cause & Solution
+
+
+--- PAGE 43 (TEXT) ---
+43
+TROUBLESHOOTING
+ENGLISH
+Water
+Ice is not dispensing.
+Unable to hear the sound of ice coming out?
+• In the control panel, select the modes for cubed ice and crushed ice alternately to dispense 
+the ice.
+Doors are not closed completely.
+• Ice will not dispense if any of the refrigerator doors are left open.
+Infrequent use of the dispenser.
+• Infrequent use of the ice dispenser will cause the cubes to stick together over time, which 
+will prevent them from properly dispensing. Check the ice bin for ice cubes clumping/
+sticking together. If they are, break up the ice cubes to allow for proper operation.
+The delivery chute is clogged with frost or ice fragments.
+• Eliminate the frost or ice fragments by removing the ice bin and clearing the chute with a 
+plastic utensil. Dispensing cubed ice can also help prevent frost or ice fragment buildup.
+The dispenser display is locked.
+• Press and hold the Lock button for three seconds to unlock the control panel and 
+dispenser.
+Ice bin is empty.
+• It may take up to 24 hours for each compartment to reach the desired temperature and 
+for the icemaker to begin making ice. Make sure that the shutoff (arm/sensor) is not 
+obstructed. Once the ice supply in the bin has been completely exhausted, it may take up 
+to 90 minutes before additional ice is available, and approximately 24 hours to completely 
+refill the bin.
+Problem
+Possible Cause & Solution
+Water is dispensing 
+slowly.
+Water filter has been exhausted.
+• Replacing the water filter is recommended:
+- Approximately every six months.
+- When the water filter indicator turns on.
+- When the water dispenser output decreases.
+- When the ice cubes are smaller than normal.
+Reverse osmosis filtration system is used.
+• Reverse osmosis filtration systems can reduce the water pressure below the minimum 
+amount and result in icemaker issues. If the problem persists, it may be necessary to 
+contact a plumber.
+Low house water supply pressure.
+• The water pressure must be between 20 and 120 psi on models without a water filter and 
+between 40 and 120 psi on models with a water filter. If the problem persists, it may be 
+necessary to contact a plumber.
+Water is not 
+dispensing.
+New installation or water line recently connected.
+• Dispense 2.5 gallons (10 liters) of water (flush for approximately 5 minutes) to remove 
+trapped air and contaminants from the system. Do not dispense the entire 2.5 gallon (10 
+liters) amount continuously. Depress and release the dispenser pad for cycles of 30 
+seconds ON and 60 seconds OFF.
+The dispenser panel is locked.
+• Press and hold the Lock button for three seconds to unlock the control panel and 
+dispenser.
+Problem
+Possible Cause & Solution
+
+
+--- PAGE 44 (TEXT) ---
+44
+TROUBLESHOOTING
+Water is not 
+dispensing.
+The dispenser is not set for water dispensing.
+• The dispenser can be set for ice or water. Make certain that the control panel is set for the 
+proper operation. Press the Water button on the control panel to dispense water.
+Refrigerator or freezer doors are not closed properly.
+• Water will not dispense if any of the refrigerator doors are left open.
+Water filter has been recently removed or replaced.
+• After the water filter is replaced, dispense 2.5 gallons (10 liters) of water (flush for 
+approximately five minutes) to remove trapped air and contaminants from the system. Do 
+not dispense the entire 2.5 gallon (10 liters) amount continuously. Depress and release the 
+dispenser pad for cycles of 30 seconds ON and 60 seconds OFF.
+Tubing connecting refrigerator to house supply valve is kinked.
+• The tubing can kink when the refrigerator is moved during installation or cleaning. 
+Resulting in reduced water flow. Straighten or repair the water supply line and arrange it 
+to prevent future kinks.
+The house water supply is not connected, the valve is not turned on fully, or the valve is 
+clogged.
+• Connect the refrigerator to the water supply and turn the water shutoff valve fully open. If 
+the problem persists, it may be necessary to contact a plumber.
+Dispensing warm 
+water.
+Refrigerator was recently installed.
+• Allow 24 hours after installation for the water storage tank to cool completely.
+The water dispenser has been used recently and the storage tank was exhausted.
+• Depending on your specific model, the water storage capacity will range from 
+approximately 20 to 30 oz (600 to 900 ml).
+Dispenser has not been used for several hours.
+• If the dispenser has not been used for several hours, the first glass dispensed may be 
+warm. Discard the first 10 oz (300 ml).
+Refrigerator is connected to the hot water supply.
+• Make sure that the refrigerator is connected to a cold water pipe.
+WARNING
+• Connecting the refrigerator to a hot water line may damage the icemaker.
+Water has bad taste 
+or odor.
+Water supply contains minerals such as sulfur.
+• A water filter may need to be installed to eliminate taste and odor problems.
+Water filter has been exhausted.
+• Replacing the water filter is recommended:
+- Approximately every six months.
+- When the water filter indicator turns on.
+- When the water dispenser output decreases.
+- When the ice cubes are smaller than normal.
+Refrigerator was recently installed.
+• Dispense 2.5 gallons (10 liters) of water (flush for approximately 5 minutes) to remove 
+trapped air and contaminants from the system. Do not dispense the entire 2.5 gallon (10 
+liters) amount continuously. Depress and release the dispenser pad for cycles of 30 
+seconds ON and 60 seconds OFF.
+Problem
+Possible Cause & Solution
+
+
+--- PAGE 45 (TEXT) ---
+45
+TROUBLESHOOTING
+ENGLISH
+Parts & Features
+Problem
+Possible Cause & Solution
+Doors will not close 
+correctly or pop 
+open.
+Food packages are blocking the door open.
+• Rearrange food containers to clear the door and door shelves.
+Ice bin, crisper cover, pans, shelves, door bins, or baskets are out of position.
+• Push bins all the way in and put crisper cover, pans, shelves and baskets into their correct 
+positions. See the Operation section for more information.
+The doors were removed during product installation and not properly replaced.
+• Remove and replace the doors according to the Removing and Replacing Refrigerator 
+Handles and Doors section.
+Refrigerator is not leveled properly.
+• See Door Alignment in the Refrigeration Installation section to level refrigerator.
+Doors are difficult to 
+open.
+The gaskets are dirty or sticky.
+• Clean the gaskets and the surfaces that they touch. Rub a thin coat of appliance polish or 
+kitchen wax on the gaskets after cleaning.
+Door was recently closed.
+• When you open the door, warmer air enters the refrigerator. As the warm air cools, it can 
+create a vacuum. If the door is hard to open, wait one minute to allow the air pressure to 
+equalize, then see if it opens more easily.
+Refrigerator wobbles 
+or seems unstable
+Leveling legs are not adjusted properly.
+• Refer to the Leveling and Door Alignment section.
+Floor is not level.
+• It may be necessary to add shims under the leveling legs or rollers to complete installation.
+Lights do not work.
+LED interior lighting failure.
+• The refrigerator compartment lamp is LED interior lighting, and service should be 
+performed by a qualified technician.
+LED door lighting failure (on some models).
+• The proximity sensor is located in the center of the door, and may not sense activity to the 
+side of the door. The proximity sensor must detect a person before it will operate the LED 
+Lighting.
+If the flooring material is highly reflective, or if there are highly reflective objects in front of 
+the product, the proximity sensor which controls the LED door lighting may not function 
+properly.
+• It may take 30 seconds to work normally after the refrigerator is initially installed.
+Refrigerator has an 
+unusual odor.
+The Air Filter may need to be set to the MAX setting or replaced.
+• Set the Air Filter to the MAX setting. If the odor does not go away within 24 hours, the filter 
+may need to be replaced. See the Replacing the Air Filter section for replacement 
+instructions.
+The interior of the 
+refrigerator is 
+covered with dust or 
+soot.
+The refrigerator is located near a fire source, such as a fireplace, chimney, or candle.
+• Make sure that the refrigerator is not located near a fire source, such as a fireplace, 
+chimney or candle.
+
+
+--- PAGE 46 (TEXT) ---
+46
+TROUBLESHOOTING
+Noises
+Problem
+Possible Cause & Solution
+Clicking
+The defrost control will click when the automatic defrost cycle begins and ends. The 
+thermostat control (or refrigerator control on some models) will also click when cycling 
+on and off.
+• Normal Operation
+Rattling
+Rattling noises may come from the flow of refrigerant, the water line on the back of 
+the unit, or items stored on top of or around the refrigerator.
+• Normal Operation
+Refrigerator is not resting solidly on the floor.
+• Floor is weak or uneven or leveling legs need to be adjusted. See the Leveling and Door 
+Alignment section.
+Refrigerator with linear compressor was jarred while running.
+• Normal Operation
+Whooshing
+Evaporator fan motor is circulating air through the refrigerator and freezer 
+compartments.
+• Normal Operation
+Air is being forced over the condenser by the condenser fan.
+• Normal Operation
+Gurgling
+Refrigerant flowing through the cooling system.
+• Normal Operation
+Popping
+Contraction and expansion of the inside walls due to changes in temperature.
+• Normal Operation
+Sizzling
+Water dripping on the defrost heater during a defrost cycle.
+• Normal Operation
+Vibrating
+If the side or back of the refrigerator is touching a cabinet or wall, some of the normal 
+vibrations may make an audible sound.
+• To eliminate the noise, make sure that the sides and back cannot vibrate against any wall 
+or cabinet.
+Dripping
+Water running into the drain pan during the defrost cycle.
+• Normal Operation
+Pulsating or high- 
+pitched sound
+Your refrigerator is designed to run more efficiently to keep your food items at the 
+desired temperature. The high efficiency compressor may cause your new refrigerator 
+to run longer than your old one, but it is still more energy efficient than previous 
+models. While the refrigerator is running, it is normal to hear a pulsating or high-
+pitched sound.
+• Normal Operation
+
+
+--- PAGE 47 (TEXT) ---
+47
+LIMITED WARRANTY
+ENGLISH
+LIMITED WARRANTY
+USA
+TERMS AND CONDITIONS
+ARBITRATION NOTICE: THIS LIMITED WARRANTY CONTAINS AN ARBITRATION PROVISION THAT 
+REQUIRES YOU AND LG ELECTRONICS (“LG”) TO RESOLVE DISPUTES BY BINDING ARBITRATION 
+INSTEAD OF IN COURT, UNLESS YOU CHOOSE TO OPT OUT. IN ARBITRATION, CLASS ACTIONS AND 
+JURY TRIALS ARE NOT PERMITTED. PLEASE SEE THE SECTION TITLED “PROCEDURE FOR RESOLVING 
+DISPUTES” BELOW.
+Should your LG Refrigerator ("Product") fail due to a defect in materials or workmanship under normal and 
+proper use, during the warranty period set forth below, LG will, at its option, repair or replace the Product. 
+This limited warranty is valid only to the original retail purchaser of the Product ("You") and applies only 
+when purchased lawfully and used within the United States including U.S. Territories.
+• Replacement Products and parts are warranted for the remaining portion of the original warranty period 
+or ninety (90) days, whichever is greater.
+• Replacement Products and parts may be new, reconditioned, refurbished, or otherwise factory 
+remanufactured.
+• Replaced Product or part(s) will be the property of LG.
+• Proof of original retail purchase specifying the Product model and date of purchase is required to obtain 
+warranty service under this limited warranty.
+EXCEPT TO THE EXTENT PROHIBITED BY APPLICABLE LAW, ANY IMPLIED WARRANTY OF 
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE ON THE PRODUCT IS LIMITED IN 
+DURATION TO THE DURATION OF THE ABOVE LIMITED WARRANTY. UNDER NO CIRCUMSTANCES 
+SHALL LG OR ITS U.S. DISTRIBUTORS/DEALERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, 
+CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING, WITHOUT LIMITATION, LOST 
+GOODWILL, LOST REVENUES OR PROFITS, WORK STOPPAGE, IMPAIRMENT OF OTHER GOODS, COST OF 
+REMOVAL AND REINSTALLATION OF THE PRODUCT, LOSS OF USE, OR ANY OTHER DAMAGES WHETHER 
+BASED IN CONTRACT, TORT, OR OTHERWISE. LG’S TOTAL LIABILITY, IF ANY, SHALL NOT EXCEED THE 
+PURCHASE PRICE PAID BY YOU FOR THE PRODUCT.
+SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL 
+DAMAGES OR LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE 
+EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU. THIS LIMITED WARRANTY GIVES YOU 
+SPECIFIC LEGAL RIGHTS AND YOU MAY ALSO HAVE OTHER RIGHTS THAT VARY FROM STATE TO STATE.
+WARRANTY PERIOD
+Refrigerator/Freezer
+Sealed System 
+(Condenser, Dryer, 
+Connecting Tube and 
+Evaporator)
+Compressor
+One (1) year from the 
+date of original retail 
+purchase, or from the 
+date of delivery as per 
+applicable law
+Five (5) years from the 
+date of original retail 
+purchase, or from the 
+date of delivery as per 
+applicable law
+Five (5) years from the 
+date of original retail 
+purchase, or from the 
+date of delivery as per 
+applicable law
+Linear / Inverter 
+Compressor Only : Parts 
+Only for years 6-10 from 
+the date of original retail 
+purchase, or from the 
+date of delivery as per 
+applicable law (You will 
+be charged for labor.)
+Parts and Labor (internal/ 
+functional parts only)
+Parts and Labor
+Parts and Labor
+
+
+--- PAGE 48 (TEXT) ---
+48
+LIMITED WARRANTY
+THIS LIMITED WARRANTY DOES NOT COVER:
+• Service trips to deliver, pick up, or install, educate how to operate, correct wiring, or correct 
+unauthorized repairs.
+• Damage or failure of the Product to perform during power failures and interrupted or inadequate 
+electrical service.
+• Damage or failure of the Product caused by leaky or broken water pipes, frozen water pipes, restricted 
+drain lines, inadequate or interrupted water supply or inadequate supply of air.
+• Damage or failure of the Product resulting from operating the Product in a corrosive atmosphere or 
+contrary to the Product owner’s manual.
+• Damage or failure of the Product caused by accidents, pests and vermin, lightning, wind, fire, floods, acts 
+of nature, or any other causes beyond the control of LG.
+• Damage or failure of the Product caused by unauthorized modification or alteration, or if the Product is 
+used for other than the intended purpose, or any water leakage where the Product was not properly 
+installed.
+• Damage or failure of the Product caused by incorrect electrical current, voltage, or plumbing codes.
+• Damage or failure of the Product caused by transportation, storage, and/or handling, including 
+scratches, dents, chips, and/or other damage to the finish of the Product, unless such damage is 
+reported within one (1) week of delivery.
+• Damage or failure of the Product resulting from misuse, abuse, improper installation, repair, or 
+maintenance. Improper repair includes the use of parts not authorized by LG. Improper installation or 
+maintenance includes installation or maintenance contrary to the Product owner’s manual.
+• Damage or failure of the Product caused by the use of parts, components, accessories, consumable 
+cleaning products, or any other products or services that were not authorized by LG.
+• Damage or missing items to any display or open box Product.
+• Refurbished Product or any Product sold “As Is”, “Where Is”, “With all Faults”, or similar disclaimer.
+• Products with original serial numbers that have been removed, altered, or cannot be readily determined.
+• Increases in utility costs and additional utility expenses.
+• Any noises associated with normal operation.
+• Products used for other than normal and proper household use (e.g., commercial or industrial use) or 
+contrary to the Product owner’s manual.
+• Costs associated with removal and reinstallation of the Product for repairs, or the removal and 
+reinstallation of the Product if it is installed in an inaccessible location or not installed in accordance with 
+the Product Owner's manual.
+• Accessories, removable components, or consumable parts (e.g. Shelves, door bins, drawers, water/air 
+filters, racks, light bulbs, batteries, etc., as applicable), except for internal/functional parts covered under 
+this limited warranty.
+The cost of repair or replacement under these excluded circumstances shall be borne by You.
+TO OBTAIN WARRANTY SERVICE AND ADDITIONAL INFORMATION
+Call 1-800-243-0000 and select the appropriate option from the menu.
+Or visit our website at http://www.lg.com
+Or by mail: LG Electronics Customer Service P.O. Box 240007 Huntsville, AL 35813 ATTN: CIC
+PROCEDURE FOR RESOLVING DISPUTES:
+ALL DISPUTES BETWEEN YOU AND LG ARISING OUT OF OR RELATING IN ANY WAY TO THIS LIMITED 
+WARRANTY OR THE PRODUCT SHALL BE RESOLVED EXCLUSIVELY THROUGH BINDING ARBITRATION, AND 
+NOT IN A COURT OF GENERAL JURISDICTION. BINDING ARBITRATION MEANS THAT YOU AND LG ARE EACH 
+WAIVING THE RIGHT TO A JURY TRIAL AND TO BRING OR PARTICIPATE IN A CLASS ACTION.
+Definitions. For the purposes of this section, references to “LG” mean LG Electronics U.S.A., Inc., its 
+parents, subsidiaries and affiliates, and each of their officers, directors, employees, agents, beneficiaries, 
+
+
+--- PAGE 49 (TEXT) ---
+49
+LIMITED WARRANTY
+ENGLISH
+predecessors in interest, successors, assigns and suppliers; references to “dispute” or “claim” shall include 
+any dispute, claim or controversy of any kind whatsoever (whether based in contract, tort, statute, 
+regulation, ordinance, fraud, misrepresentation or any other legal or equitable theory) arising out of or 
+relating in any way to the sale, condition or performance of the product or this Limited Warranty.
+Notice of Dispute. In the event you intend to commence an arbitration proceeding, you must first notify 
+LG in writing at least 30 days in advance of initiating the arbitration by sending a letter to LG at LG 
+Electronics, USA, Inc. Attn: Legal Department- Arbitration 111 Sylvan Avenue, Englewood Cliffs, NJ 07632. 
+You and LG agree to engage in good faith discussions in an attempt to amicably resolve your claim. The 
+notice must provide your name, address, and telephone number; identify the product that is the subject of 
+the claim; and describe the nature of the claim and the relief being sought. If you and LG are unable to 
+resolve the dispute within 30 days, either party may proceed to file a claim for arbitration.
+Agreement to Binding Arbitration and Class Action Waiver. Upon failure to resolve the dispute during 
+the 30 day period after sending written notice to LG, you and LG agree to resolve any claims between us 
+only by binding arbitration on an individual basis, unless you opt out as provided below. Any dispute 
+between you and LG shall not be combined or consolidated with a dispute involving any other person’s or 
+entity’s product or claim. More specifically, without limitation of the foregoing, any dispute between you 
+and LG shall not under any circumstances proceed as part of a class or representative action. Instead of 
+arbitration, either party may bring an individual action in small claims court, but that small claims court 
+action may not be brought on a class or representative basis.
+Arbitration Rules and Procedures. To begin arbitration of a claim, either you or LG must make a written 
+demand for arbitration. The arbitration will be administered by the American Arbitration Association 
+(“AAA”) and will be conducted before a single arbitrator under the AAA’s Consumer Arbitration Rules that 
+are in effect at the time the arbitration is initiated (referred to as the “AAA Rules”) and under the 
+procedures set forth in this section. The AAA Rules are available online at www.adr.org/consumer. Send a 
+copy of your written demand for arbitration, as well as a copy of this provision, to the AAA in the manner 
+described in the AAA Rules. You must also send a copy of your written demand to LG at LG Electronics, 
+USA, Inc. Attn: Legal Department- Arbitration 111 Sylvan Avenue, Englewood Cliffs, NJ 07632. If there is a 
+conflict between the AAA Rules and the rules set forth in this section, the rules set forth in this section will 
+govern. This arbitration provision is governed by the Federal Arbitration Act. Judgment may be entered on 
+the arbitrator’s award in any court of competent jurisdiction. All issues are for the arbitrator to decide, 
+except that issues relating to the scope and enforceability of the arbitration provision and to the 
+arbitrability of the dispute are for the court to decide. The arbitrator is bound by the terms of this 
+provision.
+Governing Law. The law of the state of your residence shall govern this Limited Warranty and any 
+disputes between us except to the extent that such law is preempted by or inconsistent with applicable 
+federal law.
+Fees/Costs. You do not need to pay any fee to begin an arbitration. Upon receipt of your written demand 
+for arbitration, LG will promptly pay all arbitration filing fees to the AAA unless you seek more than $25,000 
+in damages, in which case the payment of these fees will be governed by the AAA Rules. Except as 
+otherwise provided for herein, LG will pay all AAA filing, administration and arbitrator fees for any 
+arbitration initiated in accordance with the AAA Rules and this arbitration provision. If you prevail in the 
+arbitration, LG will pay your attorneys’ fees and expenses as long as they are reasonable, by considering 
+factors including, but not limited to, the purchase amount and claim amount. Notwithstanding the 
+foregoing, if applicable law allows for an award of reasonable attorneys’ fees and expenses, an arbitrator 
+can award them to the same extent that a court would. If the arbitrator finds either the substance of your 
+claim or the relief sought in the demand is frivolous or brought for an improper purpose (as measured by 
+the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all arbitration fees will 
+be governed by the AAA Rules. In such a situation, you agree to reimburse LG for all monies previously 
+disbursed by it that are otherwise your obligation to pay under the AAA Rules. Except as otherwise 
+provided for, LG waives any rights it may have to seek attorneys’ fees and expenses from you if LG prevails 
+in the arbitration.
+Hearings and Location. If your claim is for $25,000 or less, you may choose to have the arbitration 
+conducted solely on the basis of (1) documents submitted to the arbitrator, (2) through a telephonic 
+hearing, or (3) by an in-person hearing as established by the AAA Rules. If your claim exceeds $25,000, the 
+right to a hearing will be determined by the AAA Rules. Any in-person arbitration hearings will be held at a 
+location within the federal judicial district in which you reside unless we both agree to another location or 
+we agree to a telephonic arbitration.
+
+
+--- PAGE 50 (TEXT) ---
+50
+LIMITED WARRANTY
+Opt Out. You may opt out of this dispute resolution procedure. If you opt out, neither you nor LG can 
+require the other to participate in an arbitration proceeding. To opt out, you must send notice to LG no 
+later than 30 calendar days from the date of the first consumer purchaser’s purchase of the product by 
+either: (i) sending an e-mail to optout@lge.com, with the subject line: “Arbitration Opt Out” or (ii) calling 1-
+800-980-2973. You must include in the opt out e-mail or provide by telephone: (a) your name and address; 
+(b) the date on which the product was purchased; (c) the product model name or model number; and (d) 
+the serial number (the serial number can be found (i) on the product; or (ii) online by accessing https://
+www.lg.com/us/support and clicking on “How do I find my model number?”).
+You may only opt out of the dispute resolution procedure in the manner described above (that is, by e-mail 
+or telephone); no other form of notice will be effective to opt out of this dispute resolution procedure. 
+Opting out of this dispute resolution procedure will not affect the coverage of the Limited Warranty in any 
+way, and you will continue to enjoy the full benefits of the Limited Warranty. If you keep this product and 
+do not opt out, then you accept all terms and conditions of the arbitration provision described above.
+
+
+--- PAGE 51 (TEXT) ---
+51
+LIMITED WARRANTY
+ENGLISH
+Canada
+TERMS AND CONDITIONS
+ARBITRATION NOTICE: THIS LIMITED WARRANTY CONTAINS AN ARBITRATION PROVISION THAT 
+REQUIRES YOU AND LG TO RESOLVE DISPUTES BY BINDING ARBITRATION INSTEAD OF IN COURT, 
+UNLESS THE LAWS OF YOUR PROVINCE OR TERRITORY DO NOT PERMIT THAT, OR, IN OTHER 
+JURISDICTIONS, IF YOU CHOOSE TO OPT OUT. FOR FURTHER CLARITY, THIS ARBITRATION PROVISION 
+IS NOT APPLICABLE TO CONSUMERS RESIDING IN ONTARIO AND QUÉBEC. IN ARBITRATION, CLASS 
+ACTIONS AND JURY TRIALS ARE NOT PERMITTED. PLEASE SEE THE SECTION TITLED “PROCEDURE FOR 
+RESOLVING DISPUTES” BELOW.
+Should your LG Refrigerator ("Product") fail due to a defect in materials or workmanship under normal and 
+proper use, during the warranty period set forth below, LG Electronics Canada, Inc. ("LGECI") will, at its 
+option, repair, replace or pro rate the Product upon receipt of proof of the original retail purchase. This 
+limited warranty is valid only to the original retail purchaser of the Product and applies only to a Product 
+distributed, purchased from an authorized retailer and used within Canada, as determined at the sole 
+discretion of LGECI.
+• Replacement products and parts are warranted for the remaining portion of the original warranty period 
+or ninety (90) days, whichever is greater.
+• Replacement products and parts may be new, reconditioned, refurbished, or otherwise factory 
+remanufactured, all at the sole discretion of LGECI.
+• Proof of original retail purchase specifying the Product model and date of purchase is required to obtain 
+warranty service under this Limited Warranty.
+DISCLAIMER:
+IF YOU ARE A CONSUMER SUBJECT TO QUÉBEC AND ONTARIO’S CONSUMER PROTECTION ACT, THE 
+EXCLUSION OF WARRANTIES CONTAINED IN THIS SECTION DO NOT EXCLUDE OR LIMIT THE RIGHTS AND 
+REMEDIES THAT YOU MAY HAVE UNDER SUCH ACT, INCLUDING THE RIGHT TO MAKE A CLAIM UNDER ANY 
+OF THE STATUTORY WARRANTIES PROVIDED THEREUNDER.
+LGECI’S SOLE LIABILITY IS LIMITED TO THE LIMITED WARRANTY SET OUT ABOVE, UNLESS SUCH 
+LIMITATION IS PROHIBITED BY THE LAWS OF THE PROVINCE IN WHICH YOU RESIDE. EXCEPT AS 
+EXPRESSLY PROVIDED ABOVE, OR IF OTHERWISE PROHIBITED BY THE LAW OF THE PROVINCE IN 
+WHICH YOU RESIDE, LGECI DOES NOT MAKE ANY OTHER WARRANTIES OR CONDITIONS RESPECTING 
+THE PRODUCT, AND HEREBY DISCLAIMS, ALL OTHER WARRANTIES AND CONDITIONS RESPECTING 
+THE PRODUCT, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, ANY IMPLIED 
+WARRANTY OR CONDITION OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, AND 
+NO REPRESENTATIONS SHALL BE BINDING ON LGECI. LGECI DOES NOT AUTHORIZE ANY PERSON TO 
+CREATE OR ASSUME FOR IT ANY OTHER WARRANTY OBLIGATION OR LIABILITY IN CONNECTION 
+WITH THE PRODUCT. TO THE EXTENT THAT ANY WARRANTY OR CONDITION IS IMPLIED BY LAW, IT IS 
+LIMITED TO THE WARRANTY PERIOD SET OUT ABOVE. UNDER NO CIRCUMSTANCES SHALL LGECI, THE 
+MANUFACTURER OR DISTRIBUTOR OF THE PRODUCT, BE LIABLE FOR ANY INCIDENTAL, 
+CONSEQUENTIAL, SPECIAL, DIRECT, INDIRECT, PUNITIVE OR EXEMPLARY DAMAGES, INCLUDING, 
+WITHOUT LIMITATION, LOSS OF GOODWILL, LOST PROFITS, LOSS OF ANTICIPATED PROFITS, LOST 
+REVENUE, LOSS OF USE, OR ANY OTHER DAMAGE, WHETHER ARISING DIRECTLY OR INDIRECTLY FROM 
+WARRANTY PERIOD (Note: If the original date of purchase cannot be verified, the warranty will 
+begin sixty (60) days from the date of manufacture)
+Refrigerator
+Sealed System (Condenser, Dryer, Connecting 
+Tube and Evaporator)
+Linear / Inverter 
+Compressor
+One (1) year from the 
+date of original retail 
+purchase
+One (1) year from the 
+date of original retail 
+purchase
+Seven (7) years from the 
+date of original retail 
+purchase
+Ten (10) years from the 
+date of original retail 
+purchase
+Parts and Labor (internal/ 
+functional parts only)
+Parts and Labor
+Parts only (Consumer will 
+be charged for labor)
+Part only (Consumer will 
+be charged for labor)
+
+
+--- PAGE 52 (TEXT) ---
+52
+LIMITED WARRANTY
+ANY CONTRACTUAL BREACH, FUNDAMENTAL BREACH, TORT OR OTHERWISE, OR FROM ANY ACTS OR 
+OMISSIONS. LGECI’S TOTAL LIABILITY, IF ANY, SHALL NOT EXCEED THE PURCHASE PRICE PAID BY YOU 
+FOR THE PRODUCT.
+This Limited Warranty gives you specific legal rights. You may also have other rights that vary from 
+province to province depending on applicable provincial laws. Any term of this Limited Warranty that 
+negates or varies any implied condition or warranty under provincial law is severable where it conflicts 
+with such provincial law without affecting the remainder of this warranty’s terms.
+THIS LIMITED WARRANTY DOES NOT COVER:
+• Service trips to i) deliver, pick up, or install or; educate on how to operate the Product; ii) correct wiring or 
+plumbing; or iii) correct unauthorized repairs or installations of the Product;
+• Damage or failure of the Product to perform during power failures and interrupted or inadequate 
+electrical service;
+• Damage or failure caused by leaky or broken water pipes, frozen water pipes, restricted drain lines, 
+inadequate or interrupted water supply or inadequate supply of air;
+• Damage or failure resulting from operating the Product in a corrosive atmosphere or contrary to the 
+instructions outlined in the Product’s owner’s manual;
+• Damage or failure to the Product caused by accidents, pests and vermin, lightning, wind, fire, floods, acts 
+of God, or any other causes beyond the control of LGECI or the manufacturer;
+• Damage or failure resulting from misuse, abuse, improper installation, repair, or maintenance of the 
+Product. Improper repair includes use of parts not authorized or specified by LGECI. Improper 
+installation or maintenance includes installation or maintenance contrary to the Product’s owner’s 
+manual;.
+• Damage or failure caused by unauthorized modification or alteration of the Product, or if used for other 
+than the intended household purpose/use of the Product, or damage or failure resulting from any water 
+leakage due to improper installation of the Product;
+• Damage or failure caused by incorrect electrical current, voltage or plumbing codes;
+• Damage or failure caused by use that is other than normal household use, including, without limitation, 
+commercial or industrial use, including use in commercial offices or recreational facilities, or as 
+otherwise outlined in the Product’s owner’s manual;
+• Damage or failure caused by the use of any accessories, components or cleaning products, including, 
+without limitation, water filters, that are not approved/authorized by LGECI;
+• Replacement of the water filter cartridge due to water pressure that is outside the specified operating 
+range or due to excessive sediment in the water supply;
+• Damage or failure caused by transportation and handling, including scratches, dents, chips and/or other 
+damage to the finish of the Product, unless such damage results from defects in materials or 
+workmanship and is reported to LGECI within one (1) week of delivery of the Products;
+• Damage or missing items to any display, open box, refurbished or discounted Product;
+• Refurbished Product or any Product sold “As Is”, “Where Is”, “With all Faults”, or any similar disclaimer;
+• Products with original serial numbers that have been removed, altered or cannot be readily determined 
+at the discretion of LGECI;
+• Increases in utility costs and additional utility expenses in any way associated with the Product;
+• Any noises associated with normal operation of the Product;
+• Replacement of light bulbs, filters, fuses or any other consumable parts;
+• Replacement of any part that was not originally included with the Product;
+• Costs associated with removal and/or reinstallation of the Product for repairs; and
+• Shelves, door bins, drawers, handle and accessories to the Product, except for internal/functional parts 
+covered under this Limited Warranty.
+• Coverage for "in Home" repairs, for products in-warranty, will be provided if the Product is within a 150 
+km radius from the nearest authorized service center (ASC), as determined by LG Canada. If your Product 
+
+
+--- PAGE 53 (TEXT) ---
+53
+LIMITED WARRANTY
+ENGLISH
+is located outside a 150 km radius from a ASC, as determined by LG Canada, it will be your responsibility 
+to bring the Product, at your sole expense, to the ASC for in-warranty repair.
+All costs and expenses associated with the above excluded circumstances, listed under the heading, 
+This Limited Warranty Does Not Cover, shall be borne by the consumer.
+TO OBTAIN WARRANTY SERVICE AND ADDITIONAL INFORMATION, PLEASE CALL OR VISIT OUR WEBSITE:
+Call 1-888-542-2623 (8 am - 9 pm EST, 365 days) and select the appropriate option from the menu, or visit 
+our website at http://www.lg.com
+PROCEDURE FOR RESOLVING DISPUTES:
+EXCEPT WHERE PROHIBITED AT LAW (INCLUDING WITH RESPECT TO QUÉBEC AND ONTARIO 
+CONSUMERS), ALL DISPUTES BETWEEN YOU AND LG ARISING OUT OF OR RELATING IN ANY WAY TO THIS 
+LIMITED WARRANTY OR THE PRODUCT SHALL BE RESOLVED EXCLUSIVELY THROUGH BINDING 
+ARBITRATION, AND NOT IN A COURT OF GENERAL JURISDICTION. EXCEPT WHERE PROHIBITED AT LAW 
+(INCLUDING WITH RESPECT TO QUÉBEC AND ONTARIO CONSUMERS), YOU AND LG BOTH IRREVOCABLY 
+AGREE TO WAIVE THE RIGHT TO A JURY TRIAL AND TO BRING OR PARTICIPATE IN A CLASS ACTION.
+Definitions. For the purposes of this section, references to “LG” mean LG Electronics Canada, Inc., its 
+parents, subsidiaries and affiliates, and each of their officers, directors, employees, agents, beneficiaries, 
+predecessors in interest, successors, assigns and suppliers; references to “dispute” or “claim” shall include 
+any dispute, claim or controversy of any kind whatsoever (whether based in contract, tort, statute, 
+regulation, ordinance, fraud, misrepresentation or any other legal or equitable theory) arising out of or 
+relating in any way to the sale, condition or performance of the product or this Limited Warranty.
+Notice of Dispute. In the event you intend to commence an arbitration proceeding, you must first notify 
+LG in writing at least 30 days in advance of initiating the arbitration by sending a letter to LGECI Legal 
+Team at 20 Norelco Drive, North York, Ontario, Canada M9L 2X6 (the “Notice of Dispute”). You and LG 
+agree to engage in good faith discussions in an attempt to amicably resolve your claim. The notice must 
+provide your name, address, and telephone number; identify the product that is the subject of the claim; 
+and describe the nature of the claim and the relief being sought. If you and LG are unable to resolve the 
+dispute within 30 days of LG’s receipt of the Notice of Dispute, the dispute shall be resolved by binding 
+arbitration in accordance with the procedure set out herein. You and LG both agree that, during the 
+arbitration proceeding, the terms (including any amount) of any settlement offer made by either you or LG 
+will not be disclosed to the arbitrator until the arbitrator determines the dispute.
+Agreement to Binding Arbitration and Class Action Waiver. Upon failure to resolve the dispute during 
+the 30 day period after LG’s receipt of the Notice of Dispute, you and LG agree to resolve any claims 
+between you and LG only by binding arbitration on an individual basis, unless you opt out as provided 
+below, or you reside in a jurisdiction that prevents full application of this clause in the circumstances of the 
+claims at issue (in which case if you are a consumer, this clause will only apply if you expressly agree to the 
+arbitration). To the extent permitted by applicable law, any dispute between you and LG shall not be 
+combined or consolidated with a dispute involving any other person’s or entity’s product or claim. More 
+specifically, without limitation of the foregoing, except to the extent such a prohibition is not permitted at 
+law, any dispute between you and LG shall not under any circumstances proceed as part of a class or 
+representative action. Instead of arbitration, either party may bring an individual action in small claims 
+court, but that small claims court action may not be brought on a class or representative basis except to 
+the extent this prohibition is not permitted at law in your province or territory of jurisdiction as it relates to 
+the claims at issue between you and LG. This does not apply to consumers in Ontario and Québec. In 
+accordance with provincial legislation, the consumer and LG may agree to resolve the dispute using any 
+procedure available, including commencing the action before the competent courts of those provinces.
+Arbitration Rules and Procedures. To begin arbitration of a claim, either you or LG must make a written 
+demand for arbitration. The arbitration will be private and confidential, and conducted on a simplified and 
+expedited basis before a single arbitrator chosen by the parties under the provincial or territorial 
+commercial arbitration law and rules of the province or territory of your residence. You must also send a 
+copy of your written demand to LG at LG Electronics, Canada, Inc., Attn: Legal Department- Arbitration, 20 
+Norelco Drive, North York, Ontario M9L 2X6. This arbitration provision is governed by your applicable 
+provincial or territorial commercial arbitration legislation. For consumers in Ontario and Québec, the 
+applicable arbitration legislation only applies if consumers agree to submit the dispute to arbitration. 
+Judgment may be entered on the arbitrator’s award in any court of competent jurisdiction. All issues are 
+
+
+--- PAGE 54 (TEXT) ---
+54
+LIMITED WARRANTY
+for the arbitrator to decide, except that, issues relating to the scope and enforceability of the arbitration 
+provision and to the arbitrability of the dispute are for the court to decide. The arbitrator is bound by the 
+terms of this provision.
+Governing Law. The law of the province or territory of your purchase shall govern this Limited Warranty 
+and any disputes between you and LG except to the extent that such law is preempted by or inconsistent 
+with applicable federal or provincial/territorial law. Should arbitration not be permitted for any claim, 
+action, dispute or controversy between you and LG, you and LG attorn to the exclusive jurisdiction of the 
+courts of the province or territory of your purchase for the resolution of the claim, action, dispute or 
+controversy between you and LG.
+Fees/Costs. You do not need to pay any fee to begin an arbitration. Upon receipt of your written demand 
+for arbitration, LG will promptly pay all arbitration filing fees unless you seek more than $25,000 in 
+damages, in which case the payment of these fees will be governed by the applicable arbitration rules. 
+Except as otherwise provided for herein, LG will pay all filing, administration and arbitrator fees for any 
+arbitration initiated in accordance with the applicable arbitration rules and this arbitration provision. If you 
+prevail in the arbitration, LG will pay your attorneys’ fees and expenses as long as they are reasonable, by 
+considering factors including, but not limited to, the purchase amount and claim amount. Notwithstanding 
+the foregoing, if applicable law allows for an award of reasonable attorneys’ fees and expenses, an 
+arbitrator can award them to the same extent that a court would. If the arbitrator finds either the 
+substance of your claim or the relief sought in the demand is frivolous or brought for an improper purpose 
+(as measured by the applicable laws), then the payment of all arbitration fees will be governed by the 
+applicable arbitration rules. In such a situation, you agree to reimburse LG for all monies previously 
+disbursed by it that are otherwise your obligation to pay under the applicable arbitration rules. Except as 
+otherwise provided for, LG waives any rights it may have to seek attorneys’ fees and expenses from you if 
+LG prevails in the arbitration.
+Hearings and Location. If your claim is for $25,000 or less, you may choose to have the arbitration 
+conducted solely (1) on the basis of documents submitted to the arbitrator, (2) through a telephonic 
+hearing, or (3) by an in-person hearing as established by the applicable arbitration rules. If your claim 
+exceeds $25,000, the right to a hearing will be determined by the applicable arbitration rules. Any in-
+person arbitration hearings will be held at the nearest, most mutually-convenient arbitration location 
+available within the province or territory in which you reside unless you and LG both agree to another 
+location or agree to a telephonic arbitration.
+Severability and Waiver. If any portion of this Limited Warranty (including these arbitration procedures) 
+is unenforceable, the remaining provisions will continue in full force and effect to the maximum extent 
+permitted by applicable law. Should LG fail to enforce strict performance of any provision of this Limited 
+Warranty (including these arbitration procedures), it does not mean that LG intends to waive or has waived 
+any provision or part of this Limited Warranty.
+Opt Out. The arbitration provision requires you and LG to resolve disputes by binding arbitration instead 
+of court, unless the laws of your province or territory do not permit that, or, in other jurisdictions, if you 
+choose to opt out. The arbitration provision does not apply to consumers in Ontario and Québec.
+For individuals that fall within the binding arbitration provisions, you may opt out of this dispute resolution 
+procedure. If you opt out, neither you nor LG can require the other to participate in an arbitration 
+proceeding. To opt out, you must send notice to LG no later than 30 calendar days from the date of the 
+first consumer purchaser’s purchase of the product by either (i) sending an e-mail to optout@lge.com, with 
+the subject line: “Arbitration Opt Out;” or (ii) calling 1- 800-980-2973. You must include in the opt out e-mail 
+or provide by telephone: (a) your name and address; (b) the date on which the product was purchased; (c) 
+the product model name or model number; and (d) the serial number (the serial number can be found (i) 
+on the product; or (ii) online by accessing https://www.lg.com/ca_en/findmodel_serial/).
+In the event that you “Opt Out”, the law of the province or territory of your residence shall govern this 
+Limited Warranty and any disputes between you and LG except to the extent that such law is preempted 
+by or inconsistent with applicable federal or provincial/territorial law. Should arbitration not be permitted 
+for any claim, action, dispute or controversy between you and LG, you and LG agree to attorn to the 
+exclusive jurisdiction of the courts of the province or territory of your residence for the resolution of the 
+claim, action, dispute or controversy between you and LG.
+You may only opt out of the dispute resolution procedure in the manner described above (that is, by e-mail 
+or telephone); no other form of notice will be effective to opt out of this dispute resolution procedure. 
+Opting out of this dispute resolution procedure will not affect the coverage of the Limited Warranty in any 
+
+
+--- PAGE 55 (TEXT) ---
+55
+LIMITED WARRANTY
+ENGLISH
+way, and you will continue to enjoy the full benefits of the Limited Warranty. If you keep this product and 
+do not opt out, then you accept all terms and conditions of the arbitration provision described above.
+Conflict of Terms. In the event of a conflict or inconsistency between the terms of this Limited Warranty 
+and the End User License Agreement (“EULA”) in regards to dispute resolution, the terms of this Limited 
+Warranty shall control and govern the rights and obligations of the parties and shall take precedence over 
+the EULA.
+
+
+--- PAGE 56 (TEXT) ---
+LG Customer Information Center
+Register your product Online!
+www.lg.com
+For inquiries or comments,
+visit www.lg.com or call:
+1-800-243-0000    U.S.A.
+1-888-542-2623    CANADA
+Centro de Información al Cliente LG
+¡Registre su producto en línea!
+www.lg.com
+Para consultas o comentarios, visite 
+www.lg.com o llame por teléfono:
+    
+1-800-243-0000 EE.UU.
+    
+1-888-542-2623 CANADÁ
+Centre de Service à la Clientèle de LG
+Enregistrez votre produit en ligne!
+Pour des questions ou des commentaires, 
+visitez www.lg.com/ca_fr ou appelez :
+    
+1-800-243-0000 ÉTATS-UNIS
+    
+1-888-542-2623 CANADA
+www.lg.com/ca_fr
+

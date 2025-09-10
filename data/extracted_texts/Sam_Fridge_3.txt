@@ -1,0 +1,4633 @@
+
+--- PAGE 1 (TEXT) ---
+Refrigerator
+User manual
+Free Standing Appliance
+Untitled-2   1
+8/16/2017   5:24:12 PM
+
+
+--- PAGE 2 (TEXT) ---
+English
+2 
+Contents
+Contents
+Safety information	
+3
+Important safety symbols and precautions:	
+4
+Severe warning signs for transportation and site	
+4
+Critical installation warnings	
+5
+Installation cautions	
+7
+Critical usage warnings	
+7
+Usage cautions	
+10
+Cleaning cautions	
+12
+Critical disposal warnings	
+13
+Additional tips for proper usage	
+14
+Saving Energy Tips	
+15
+This appliance is intended to be used in household and similar applications such as	
+15
+Instructions about the WEEE	
+16
+Installation	
+17
+Refrigerator at a glance	
+17
+Step-by-step installation	
+20
+Door removal for entrance	
+29
+Operations	
+35
+Feature panel	
+35
+Samsung Smart Home (applicable models only)	
+39
+Temperature settings	
+43
+Special features	
+44
+Maintenance	
+52
+Handle and care	
+52
+Cleaning	
+56
+Replacement	
+57
+Troubleshooting	
+59
+General	
+59
+Samsung Smart Home	
+62
+Untitled-2   2
+8/16/2017   5:24:12 PM
+
+
+--- PAGE 3 (TEXT) ---
+English  3 
+Safety information
+•	 Before using your new Samsung Refrigerator, please read this manual thoroughly 
+to ensure that you know how to operate the features and functions that your new 
+appliance offers safely and efficiently.
+•	 This appliance is not intended for use by persons (including children) with reduced 
+physical, sensory, or mental capabilities, or those who lack experience and knowledge, 
+unless they have been given supervision or instruction concerning the use of the 
+appliance by a person responsible for their safety.
+•	 This appliance can be used by children aged from 8 years and above and persons with 
+reduced physical, sensory or mental capabilities or lack of experience and knowledge 
+if they have been given supervision or instruction concerning use of the appliance in a 
+safe way and understand the hazards involved.
+Children shall not play with the appliance. Cleaning and user maintenance shall not be 
+made by children without supervision.
+•	 Warnings and Important Safety Instructions in this manual do not cover all possible 
+conditions and situations that may occur.
+It is your responsibility to use common sense, caution, and care when installing, 
+maintaining, and operating your appliance.
+•	 Because these following operating instructions cover various models, the 
+characteristics of your refrigerator may differ slightly from those described in this 
+manual and not all warning signs may be applicable. If you have any questions or 
+concerns, contact your nearest service center or find help and information online at 
+www.samsung.com.
+•	 R-600a or R-134a is used as a refrigerant. Check the compressor label on the rear of 
+the appliance or the rating label inside the fridge to see which refrigerant is used for 
+your refrigerator. When this product contains flammable gas (Refrigerant R-600a), 
+contact your local authority in regard to safe disposal of this product.
+•	 In order to avoid the creation of a flammable gas-air mixture if a leak in the 
+refrigerating circuit occurs, the size of the room in which the appliance may be sited 
+depends on the amount of refrigerant used.
+•	 Never start up an appliance showing any signs of damage. If in doubt, consult your 
+dealer. The room must be 1 m³ in size for every 8 g of R-600a refrigerant inside the 
+appliance.
+The amount of refrigerant in your particular appliance is shown on the identification 
+plate inside the appliance.
+•	 Refrigerant squirting out of the pipes could ignite or cause an eye injury. When 
+refrigerant leaks from the pipe, avoid any naked flames and move anything flammable 
+away from the product and ventilate the room immediately.
+-	 Failing to do so may result in fire or explosion.
+Safety information
+Untitled-2   3
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 4 (TEXT) ---
+Safety information
+English
+4 
+Safety information
+Important safety symbols and precautions:
+Please follow all safety instructions in this manual. This manual uses the following safety 
+symbols.
+WARNING
+Hazards or unsafe practices that may result in severe personal injury, property damage, 
+and/or death.
+CAUTION
+Hazards or unsafe practices that may result in severe personal injury and/or property 
+damage.
+NOTE
+Useful information that helps users understand or benefit from the refrigerator.
+These warning signs are here to prevent injury to you and others.
+Please follow them carefully.
+After reading this section, keep it in a safe place for future reference.
+Severe warning signs for transportation and site
+WARNING
+•	 When transporting and installing the appliance,care should be taken to ensure that no 
+parts of the refrigerating circuit are damaged.
+-	 Refrigerant leaking from the pipe work could ignite or cause an eye injury. If a leak 
+is detected, avoid any naked flames or potential sources of ignition and air the room 
+in which the appliance is standing for several minutes.
+-	 This appliance contains a small amount of isobutane refrigerant (R-600a), a natural 
+gas with high environmental compatibility that is, however, also combustible. When 
+transporting and installing the appliance, care should be taken to ensure that no 
+parts of the refrigerating circuit are damaged.
+•	 When transporting and installing the refrigerator, do not touch the water hose on the 
+back side of the refrigerator.
+-	 This may damage the refrigerator and as a result the water dispenser can not be 
+used.
+Untitled-2   4
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 5 (TEXT) ---
+English  5 
+Safety information
+Critical installation warnings
+WARNING
+•	 Do not install the refrigerator in a damp location or place where it may come in contact 
+with water.
+-	 Deteriorated insulation on electrical parts may cause an electric shock or fire.
+•	 Do not place this refrigerator in direct sunlight or expose it to the heat from stoves, 
+room heaters, or other appliances.
+•	 Do not plug several appliances into the same multiple power strip. The refrigerator 
+should always be plugged into its own individual electrical outlet which has a voltage 
+rating that matches the voltage listed on the refrigerator’s rating plate.
+-	 This provides the best performance and also prevents overloading of house wiring 
+circuits, which could cause a fire hazard from overheated wires.
+•	 If the wall socket is loose, do not insert the power plug.
+-	 There is a risk of electric shock of fire.
+•	 Do not use a power cord that has cracks or abrasion damage along its length or at 
+either end.
+•	 Do not bend the power cord excessively or place heavy objects on it.
+•	 Do not pull or excessively bend the power cord.
+•	 Do not twist or tie the power cord.
+•	 Do not hook the power cord over a metal object, place a heavy object on the power 
+cord, insert the power cord between objects, or push the power cord into the space 
+behind the appliance.
+•	 When moving the refrigerator, be careful not to roll over or damage the power cord.
+-	 This may result in an electric shock or fire.
+•	 Never unplug your refrigerator by pulling on the power cord. Always grip the plug 
+firmly and pull straight out from the outlet.
+-	 Damage to the cord may cause a short-circuit, fire, and/or electric shock.
+•	 Do not use aerosols near the refrigerator.
+-	 Using aerosols near the refrigerator may cause an explosion or fire.
+•	 Do not install this appliance near a heater or inflammable material.
+•	 Do not install this appliance in a location where gas may leak.
+-	 This may result in an electric shock or fire.
+•	 This refrigerator must be properly located and installed in accordance with the 
+instructions in this manual before you use it.
+•	 Connect the power plug in the proper position with the cord hanging down.
+-	 If you connect the power plug upside down, the wire can get cut off and cause a fire 
+or electric shock.
+Untitled-2   5
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 6 (TEXT) ---
+Safety information
+English
+6 
+Safety information
+•	 Make sure that the power plug is not crushed or damaged by the back of the 
+refrigerator.
+•	 Keep the packing materials out of reach of children.
+-	 There is a risk of death from suffocation if a child puts the packing materials on his 
+or her head.
+•	 The appliance must be positioned so that the plug is accessible after installation.
+-	 Failing to do so may result in an electric shock or fire due to electric leakage.
+•	 Do not install this appliance in a humid, oily or dusty location, in a location exposed to 
+direct sunlight and water (rain drops).
+-	 Deteriorated insulation of electrical parts may cause an electric shock or fire.
+•	 If any dust or water is in the refrigerator, pull out power plug and contact your 
+Samsung Electronics service center.
+-	 Otherwise there is a risk of fire.
+•	 Do not stand on top of the appliance or place objects (such as laundry, lighted candles, 
+lighted cigarettes, dishes, chemicals, metal objects, etc.) on the appliance.
+-	 This may result in an electric shock, fire, problems with the product, or injury.
+•	 You need to remove all the protective plastic film before you initially plug the product 
+in.
+•	 Children should be supervised to ensure that they do not play with the snap rings used 
+for door adjustment or the water tube clips.
+-	 There is risk of death by suffocation if a child swallows a snap ring or water tube 
+clip. Keep the snap rings and water tube clips out of children’s reach.
+•	 The refrigerator must be safely grounded.
+-	 Always make sure that you have grounded the refrigerator before attempting to 
+investigate or repair any part of the appliance. Power leakages can cause severe 
+electric shock.
+•	 Never use gas pipes, telephone lines, or other potential lightning attractors as an 
+electrical ground.
+-	 You must ground the refrigerator to prevent any power leakages or electric shocks 
+caused by current leakage from the refrigerator.
+-	 This may result in an electric shock, fire, explosion, or problems with the product.
+•	 Plug the power plug into the wall socket firmly. Do not use a damaged power plug, 
+damaged power cord, or loose wall socket.
+-	 This may result in an electric shock or fire.
+•	 If the power cord is damaged, have it replaced immediately by the manufacturer or 
+one of its service agents.
+•	 The fuse on the refrigerator must be changed by a qualified technician or service 
+company.
+-	 Failing to do so may result in an electric shock or personal injury.
+Untitled-2   6
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 7 (TEXT) ---
+English  7 
+Safety information
+Installation cautions
+CAUTION
+•	 Allow sufficient space around the refrigerator and install it on a flat surface.
+-	 If your refrigerator is not level, cooling efficiency and durability can be declined.
+-	 Keep the ventilation space in the appliance enclosure or mounting structure clear of 
+obstructions.
+•	 Allow the appliance to stand for 2 hours before loading foods after installation and 
+turning on.
+•	 We strongly recommend you have a qualified technician or service company install the 
+refrigerator.
+-	 Failing to do so may result in an electric shock, fire, explosion, problems with the 
+product, or injury.
+Critical usage warnings
+WARNING
+•	 Do not insert the power plug into a wall socket with wet hands.
+-	 This may result in an electric shock.
+•	 Do not store articles on the top of the appliance.
+-	 When you open or close the door, the articles may fall and cause personal injury 
+and/or material damage.
+•	 Do not insert hands, feet or metal objects (such as chopsticks, etc.) into the bottom or 
+the back of the refrigerator.
+-	 This may result in an electric shock or injury.
+-	 Any sharp edges may cause a personal injury.
+•	 Do not touch the inside walls of the freezer or products stored in the freezer with wet 
+hands.
+-	 This may cause frostbite.
+•	 Do not put a container filled with water on the refrigerator.
+-	 If spilled, there is a risk of fire or electric shock.
+•	 Do not keep volatile or flammable objects or substances (benzene, thinner, propane 
+gas, alcohol, ether, LP gas, and other such products) in the refrigerator.
+-	 This refrigerator is for storing food only.
+-	 This may result in fire or explosion.
+•	 Children should be supervised to ensure that they do not play with the appliance.
+-	 Keep fingers out of “pinch point” areas. Clearances between the doors and cabinet 
+are necessarily small. Be careful when you open the doors if children are in the area.
+•	 Do not let children hang on the door or door bins. A serious injury may occur.
+Untitled-2   7
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 8 (TEXT) ---
+Safety information
+English
+8 
+Safety information
+•	 Do not let children go inside the refrigerator. They could become trapped.
+•	 Do not insert your hands into the bottom area under the appliance.
+-	 Any sharp edges may cause personal injury.
+•	 Do not store pharmaceutical products, scientific materials, or temperature sensitive 
+products in the refrigerator.
+-	 Products that require strict temperature controls must not be stored in the 
+refrigerator.
+•	 Do not place or use electrical appliance inside the refrigerator/freezer, unless they are 
+of a type recommended by the manufacturer.
+•	 If you smell pharmaceutical or smoke, pull out power plug immediately and contact 
+your Samsung Electronics service center.
+•	 If any dust or water is in Refrigerator, pull out power plug and contact your Samsung 
+Electronics service center.
+-	 Otherwise there is a risk of fire.
+•	 Do not let children step on a drawer.
+-	 The drawer may break and cause them to slip.
+•	 Do not leave the doors of the refrigerator open while the refrigerator is unattended 
+and do not let children enter inside the refrigerator.
+•	 Do not allow babies or children go inside the drawer.
+-	 It can cause death from suffocation by entrapment or personal injury.
+•	 Do not overfill the refrigerator with food.
+-	 When you open the door, an item may fall out and cause personal injury or material 
+damage.
+•	 Do not spray volatile material such as insecticide onto the surface of the appliance.
+-	 As well as being harmful to humans, it may also result in an electric shock, fire, or 
+problems with the product.
+•	 Never put fingers or other objects into the water dispenser hole, ice chute and ice 
+maker bucket.
+-	 It may cause a personal injury or material damage.
+•	 Do not use or place any substances sensitive to temperature such as flammable sprays, 
+flammable objects, dry ice, medicine, or chemicals near or inside of the refrigerator.
+•	 Do not use a hair dryer to dry the inside of the refrigerator. Do not place a lighted 
+candle in the refrigerator for removing bad odours.
+-	 This may result in an electric shock or fire.
+•	 Fill the water tank, ice tray and water cubes only with potable water (mineral water or 
+purified water).
+-	 Do not fill the tank with tea, juice or sports drink, this may damage the refrigerator.
+Untitled-2   8
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 9 (TEXT) ---
+English  9 
+Safety information
+•	 Do not stand on top of the appliance or place objects (such as laundry, lighted candles, 
+lighted cigarettes, dishes, chemicals, metal objects, etc.) on the appliance. This may 
+result in an electric shock, fire, problems with the product, or injury. Do not put a 
+container filled with water on the appliance.
+-	 If spilled, there is a risk of fire or electric shock.
+•	 Do not use mechanical devices or any other means to accelerate the defrosting process, 
+other than those recommended by the manufacturer.
+•	 Do not damage the refrigerant circuit.
+•	 Never stare directly at the UV LED lamp for long periods of time.
+-	 This may result in eye strain due to the ultraviolet rays.
+•	 Do not put fridge shelf in upside down. Shelf stopper could not work.
+-	 It may cause a personal injury because of glass shelf drop.
+•	 Keep fingers out of “pinch point” areas. Clearances between the doors and cabinet are 
+necessarily small. Be careful when you open the doors if children are in the area.
+•	 If a gas leak is detected, avoid any naked flames or potential sources of ignition, and 
+air the room in which the appliance is standing for several minutes.
+-	 Do not touch the appliance or power cord.
+-	 Do not use a ventilating fan.
+-	 A spark may result in explosion or fire.
+•	 Use only the LED Lamps provided by the manufacturer or its service agents.
+•	 Bottles should be stored tightly together so that they do not fall out.
+•	 This product is intended only for the storage of food in a domestic environment.
+•	 Never put fingers or other objects into the water dispenser hole, ice chute and ice 
+maker bucket.
+-	 It may cause a personal injury or material damage.
+•	 Do not attempt to repair, disassemble, or modify the refrigerator yourself.
+•	 Do not use any fuse (such as cooper, steel wire, etc.) other than a standard fuse.
+•	 If your refrigerator needs to be repaired or reinstalled, contact your nearest service 
+center.
+-	 Failing to do so may result in an electric shock, fire, problems with the product, or 
+injury.
+•	 If the interior or exterior LED lamp has gone out, contact your nearest service center.
+•	 If the refrigerator emits a burning smell or smoke, unplug the refrigerator immediately 
+and contact your Samsung Electronics service center.
+-	 Failing to do so may result in an electric or fire hazards.
+•	 Pull the power plug out of the socket before changing the interior lamps of the 
+refrigerator.
+-	 Otherwise, there is a risk of electric shock.
+Untitled-2   9
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 10 (TEXT) ---
+Safety information
+English
+10 
+Safety information
+•	 If you experience difficulty changing a non-LED light, contact a Samsung service 
+center.
+•	 If the product is equipped with LED lamps, do not disassemble the Lamp Covers and 
+LED lamps yourself.
+-	 Contact a Samsung service center.
+•	 Plug the power plug into the wall socket firmly.
+•	 Do not use a damaged power plug, damaged power cord or loose wall socket.
+-	 This may result in an electric shock or fire.
+Usage cautions
+CAUTION
+•	 Do not re-freeze frozen foods that have thawed completely. Do not place carbonated 
+or fizzy drinks in the freezer compartment. Do not put bottles or glass containers in the 
+freezer.
+-	 When the contents freeze, the glass may break and cause personal injury.
+•	 Use only the ice maker provided with the refrigerator.
+•	 Have the refrigerator’s water supply connected only to a potable water supply. To 
+operate the ice maker properly, water pressure of 20 ~ 125 psi (138 ~ 862 kPa) is 
+required. If you will be away from home for a long period of time (on vacation, for 
+example) and won’t be using the water or ice dispensers, close the water valve.
+-	 Otherwise, water leakage may occur.
+•	 If you won’t be using the refrigerator for a very long period of time, (3 weeks or more) 
+empty the refrigerator including the icemaker bucket, unplug it, close the water valve, 
+wipe excess moisture from the inside walls, and leave the doors open to prevent odors 
+and mold.
+•	 To get the best performance from the product:
+-	 Do not place food too close to the vents at the rear of the refrigerator as this can 
+obstruct free air circulation in the refrigerator compartment.
+-	 Wrap food up properly or place it in airtight containers before putting it into the 
+refrigerator.
+-	 Do not place glass bottles or carbonated beverages into the freezer. They can freeze 
+and break. Broken beverage containers can cause injury.
+-	 Please observe maximum storage times and expiration dates of frozen goods.
+-	 There is no need to disconnect the refrigerator from the power supply if you will be 
+away for less than three weeks. However, if you will be away for more than three 
+weeks, remove all the food and ice in the ice bucket, unplug the refrigerator, close 
+the water valve, wipe excess moisture from the inside walls, and leave the doors 
+open to prevent odors and mold.
+Untitled-2   10
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 11 (TEXT) ---
+English  11 
+Safety information
+•	 Do not place glass or bottles or carbonated beverages into the freezer.
+-	 The container may freeze and break, and this may result in injury.
+•	 Do not place carbonated or fizzy drinks in the freezer compartment. Do not put bottles 
+or glass containers in the freezer.
+-	 When the contents freeze, the glass may break and cause personal injury and 
+property damage.
+•	 Service Warranty and Modification.
+-	 Any changes or modifications performed by a 3rd party on this finished appliance 
+are not covered under Samsung warranty service, nor is Samsung responsible for 
+safety issues that result from 3rd party modifications.
+•	 Do not block the air vents inside the refrigerator.
+-	 If the air vents are blocked, especially with a plastic bag, the refrigerator can be 
+over cooled. If a cooling period lasts too long, the water filter may break and cause 
+water leakage.
+•	 Use only the ice-maker provided with the refrigerator.
+•	 Wipe excess moisture from the inside and leave the doors open.
+-	 Otherwise, odor and mold may develop.
+•	 If the refrigerator is disconnected from the power supply, you should wait for at least 
+five minutes before plugging it back in.
+•	 If you have a long vacation planned or do not intend to use the refrigerator for a long 
+period of time, (3 weeks or more) empty the refrigerator including the ice bucket, pull 
+out the power plug, close the water valve, wipe excess moisture from the inside walls, 
+and leave the doors open to prevent odors and mold.
+•	 When the refrigerator got wet by water, pull out the power plug and contact your 
+Samsung Electronics service center.
+•	 Do not strike or apply excessive force to any glass surface.
+-	 Broken glass may result in a personal injury and/or property damage.
+•	 Fill the water tank and ice cube trays with potable water only (tap water, mineral 
+water, or purified water).
+-	 Do not fill the tank with tea or a sports drink. This may damage the refrigerator.
+•	 Be careful that your fingers are not caught in.
+•	 If the refrigerator is flooded, make sure to contact your nearest service center.
+-	 There is a risk of electric shock or fire.
+•	 Do not keep vegetable oil in your refrigerator’s door bins. The oil can solidify, making it 
+foul-tasting and difficult to use. In addition, the open container can leak and the leaked 
+oil can cause the door bin to crack. After opening an oil container, it is best to keep the 
+container in a cool and shaded place such as a cupboard or pantry.
+-	 Examples of vegetable oil: olive oil, corn oil, grape-seed oil, etc. 
+Untitled-2   11
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 12 (TEXT) ---
+Safety information
+English
+12 
+Safety information
+Cleaning cautions
+CAUTION
+•	 Do not spray water directly on the inside or outside the refrigerator.
+-	 There is a risk of fire or electric shock.
+•	 Do not use a hair dryer to dry the inside of the refrigerator.
+•	 Do not place a lighted candle in the refrigerator to remove bad odors.
+-	 This may result in an electric shock or fire.
+•	 Do not spray cleaning products directly on the display.
+-	 Printed letters on the display may come off.
+•	 If any foreign substance such as water has entered the appliance, unplug the power 
+plug and contact your nearest service center.
+-	 Failing to do so may result in an electric shock or fire.
+•	 Use a clean, dry cloth to remove any foreign matter or dust from the power plug 
+blades. Do not use a wet or damp cloth when cleaning the plug.
+-	 Otherwise, there is a risk of fire or electric shock.
+•	 Do not clean the appliance by spraying water directly onto it.
+•	 Do not use benzene, thinner, or Clorox, Chloride for cleaning.
+-	 They may damage the surface of the appliance and may cause a fire.
+•	 Never put fingers or other objects into the dispenser hole.
+-	 It may cause a personal injury or material damage.
+•	 Before cleaning or performing maintenance, unplug the appliance from the wall socket.
+-	 Failing to do so may result in an electric shock or fire.
+•	 Use a clean sponge or soft cloth and a mild detergent in warm water to clean the 
+refrigerator.
+•	 Do not use abrasive or harsh cleansers such as window sprays, scouring cleansers, 
+flammable fluids, muriatic acid, cleaning waxes, concentrated detergents, bleaches, 
+or cleansers containing petroleum products on exterior surfaces (doors and cabinet), 
+plastic parts, door and interior liners, and gaskets. 
+-	 These can scratch or damage the material.
+•	 Do not clean glass shelves or covers with warm water when they are cold. Glass 
+shelves and covers may break if exposed to sudden temperature changes or impacts 
+such as bumping or dropping.
+Untitled-2   12
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 13 (TEXT) ---
+English  13 
+Safety information
+Critical disposal warnings
+WARNING
+•	 Please dispose of the packaging material from this product in an environmentally 
+friendly manner.
+•	 Ensure that none of the pipes on the back of the refrigerator are damaged prior to 
+disposal.
+•	 R-600a or R-134a is used as a refrigerant. Check the compressor label on the rear of 
+the appliance or the rating label inside the fridge to see which refrigerant is used for 
+your refrigerator. If this refrigerator contains flammable gas (Refrigerant R-600a), 
+contact your local authority in regard to safe disposal of this product.
+•	 When disposing of this refrigerator, remove the door/door seals and door latch so that 
+small children or animals cannot become trapped inside. Children should be supervised 
+to ensure that they do not play with the appliance. If trapped inside, a child may get 
+hurt or suffocate to death.
+-	 If trapped inside, the child may become injury and suffocate to death.
+•	 Cyclopentane is used in the insulation. The gases in the insulation material require 
+a special disposal procedure. Please contact your local authorities in regard to the 
+environmentally safe disposal of this product.
+•	 Keep all packaging materials well out of the reach of children, as packaging materials 
+can be dangerous to children.
+-	 If a child places a bag over his or her head, the child could suffocate.
+Untitled-2   13
+8/16/2017   5:24:13 PM
+
+
+--- PAGE 14 (TEXT) ---
+Safety information
+English
+14 
+Safety information
+Additional tips for proper usage
+•	 In the event of a power failure, call the local office of your electric company and ask 
+how long the failure is going to last.
+-	 Most power failures that are corrected in an hour or two will not affect your 
+refrigerator temperatures. However, you should minimize the number of door 
+openings while the power is off.
+-	 Should the power failure last more than 24 hours, remove and discard all frozen 
+food.
+•	 The refrigerator might not operate consistently (frozen contents can thaw or 
+temperatures can become too warm in the frozen food compartment) if sited for an 
+extended period of time in a location where ambient air temperatures are constantly 
+below the temperatures for which the appliance is designed.
+•	 In case of particular foods, keeping it under refrigeration can have a bad effect on 
+preservation due to its properties.
+•	 Your appliance is frost free, which means there is no need to manually defrost your 
+appliance. This will be carried out automatically.
+•	 Temperature rise during defrosting complies with ISO requirements. If you want to 
+prevent an undue rise in the temperature of frozen food while the appliance defrosts, 
+wrap the frozen food in several layers of newspaper.
+•	 Do not re-freeze frozen foods that have thawed completely.
+•	 The temperature of two star section (sections) or compartment (compartments) 
+which have two star symbol (
+) is slightly higher than other freezer compartment 
+(compartments).
+The two star section (sections) or compartment (compartments) is (are) based on the 
+instruction and/or the condition as delivered.
+Untitled-2   14
+8/16/2017   5:24:14 PM
+
+
+--- PAGE 15 (TEXT) ---
+English  15 
+Safety information
+Saving Energy Tips
+•	 Install the appliance in a cool, dry room with adequate ventilation. Ensure that it is not 
+exposed to direct sunlight and never put it near a direct source of heat (a radiator, for 
+example).
+•	 Not to block any vents and grilles is recommended for energy efficiency.
+•	 Allow warm food to cool down before placing it in the appliance.
+•	 Put frozen food in the refrigerator to thaw. You can then use the low temperatures of 
+the frozen products to cool food in the refrigerator.
+•	 Do not keep the door of the refrigerator open for too long when putting food in or 
+taking food out. The shorter the time the door is open, the less frost build-up you’ll 
+have in the freezer.
+•	 It is recommended to install the refrigerator with clearance to the back and sides. This 
+will help reduce power consumption and keep your energy bills lower.
+•	 For the most efficient use of energy, please keep the all inner fittings such as baskets, 
+drawers, shelves on the position supplied by manufacturer.
+This appliance is intended to be used in household and similar applications 
+such as
+•	 staff kitchen areas in shops, offices and other working environments;
+•	 farm houses and by clients in hotels, motels and other residential type environments;
+•	 bed and breakfast type environments;
+•	 catering and similar non-retail applications.
+Untitled-2   15
+8/16/2017   5:24:14 PM
+
+
+--- PAGE 16 (TEXT) ---
+Safety information
+English
+16 
+Safety information
+Instructions about the WEEE
+Correct Disposal of This Product (Waste Electrical & Electronic 
+Equipment)
+(Applicable in countries with separate collection systems)
+This marking on the product, accessories or literature indicates 
+that the product and its electronic accessories (e.g. charger, 
+headset, USB cable) should not be disposed of with other 
+household waste at the end of their working life. To prevent 
+possible harm to the environment or human health from 
+uncontrolled waste disposal, please separate these items from 
+other types of waste and recycle them responsibly to promote the 
+sustainable reuse of material resources.
+For more information on safe disposal and recycling visit our 
+website www.samsung.com/in/support or contact our Helpline 
+numbers - 1800 40 SAMSUNG (1800 40 7267864).
+Untitled-2   16
+8/16/2017   5:24:14 PM
+
+
+--- PAGE 17 (TEXT) ---
+English  17 
+Installation
+Follow these instructions carefully to ensure a proper installation of this refrigerator and 
+to prevent accidents before using it.
+WARNING
+•	 Use the refrigerator only for its intended purpose as described in this manual.
+•	 Any servicing must be performed by a qualified technician.
+•	 Dispose of the product packaging material in compliance with the local regulations.
+•	 To prevent electric shock, unplug the power cord before servicing or replacements.
+Refrigerator at a glance
+The actual appearance of your refrigerator may differ, depending on the model and the 
+country.
+RH58*
+11
+01
+02
+03
+08
+09
+07
+15
+05
+06
+10
+12
+14
+04
+Installation
+Untitled-2   17
+8/16/2017   5:24:14 PM
+
+
+--- PAGE 18 (TEXT) ---
+Installation
+English
+18 
+Installation
+RH62*
+14
+12
+04
+13
+05
+07
+10
+06
+03
+01
+16
+02
+01	Freezer shelves
+02	Multipurpose freezer 
+guard
+03	Dried food and meat 
+storage bin
+04	Cheese case
+05	Sauce case
+06	Refrigerator shelves
+07	Drink case
+08	Vegetable bin
+09	Multipurpose bin
+10	Egg container *
+11	Ice maker bucket **
+12	Moving tray *
+13	Elevation guard *
+14	Anti-bacteria filter *
+15	Water filter **
+16	Ice tray *
+* Applicable models only
+** Dispenser models only
+NOTE
+The design of the egg container may differ with the model.
+Untitled-2   18
+8/16/2017   5:24:15 PM
+
+
+--- PAGE 19 (TEXT) ---
+English  19 
+Installation
+CAUTION
+•	 Do not put the moving tray in the freezer when filled with water. Water freezes and 
+the moving tray breaks.
+•	 When the inner case is open, do not open the show case. The show case is likely to be 
+pushed back and may be damaged.
+Untitled-2   19
+8/16/2017   5:24:15 PM
+
+
+--- PAGE 20 (TEXT) ---
+Installation
+English
+20 
+Installation
+Step-by-step installation
+STEP  1  Select a site
+Site requirements:
+•	 Solid, level surface without carpeting or flooring that may obstruct ventilation
+•	 Away from direct sunlight
+•	 Adequate room for opening and closing the door
+•	 Away from a heat source
+•	 Room for maintenance and servicing
+•	 Temperature range: between 5 °C and 43 °C
+Effective temperature range
+The refrigerator is designed to operate normally in the temperature range specified by its 
+class rating.
+Class
+Symbol
+Ambient Temperature range (°C)
+IEC 62552 (ISO 15502)
+ISO 8561
+Extended Temperate
+SN
++10 to +32
++10 to +32
+Temperate
+N
++16 to +32
++16 to +32
+Subtropical
+ST
++16 to +38
++18 to +38
+Tropical
+T
++16 to +43
++18 to +43
+NOTE
+The cooling performance and power consumption of the refrigerator may be affected 
+by the ambient temperature, the door-opening frequency, and the location of the 
+refrigerator. We recommend adjusting the temperature settings as appropriate.
+Untitled-2   20
+8/16/2017   5:24:15 PM
+
+
+--- PAGE 21 (TEXT) ---
+English  21 
+Installation
+Clearance
+See the pictures and table below for space requirements for installation.
+A
+B
+C
+E
+D
+Depth “A”
+718
+Width “B”
+908
+Height “C”
+1796
+Overall Height “D”
+1825
+Depth “E”
+721
+(unit: mm)
+01
+02
+02
+04
+05
+06
+07
+08
+09
+03
+01	50 mm
+02	165°
+03	468 mm
+04	1725 mm
+05	610 mm
+06	908 mm
+07	34 mm
+08	31 mm
+09	1170 mm
+NOTE
+The measurements in the above table may differ, depending on the measuring method.
+Untitled-2   21
+8/16/2017   5:24:15 PM
+
+
+--- PAGE 22 (TEXT) ---
+Installation
+English
+22 
+Installation
+STEP  2  WiFi connection
+You can control the refrigerator remotely using the Smart Home Dongle that is sold 
+separately. To purchase the Smart Home Dongle, visit www.samsung.com and follow the 
+product information about the dongle.
+CAUTION
+•	 The Samsung Smart Home Dongle comes in two types: one that is dedicated to 
+Samsung smart TVs, and the other one that is dedicated to Samsung home appliances.
+•	 You must purchase the Samsung Smart Home Dongle dedicated to home appliances. 
+Any other dongles may cause system failure.
+1.	 Press to unlock the arrow area of the 
+dongle cover.
+2.	 Open up the dongle cover.
+3.	 Insert the Smart Home Dongle into the 
+dongle port in the correct direction.
+Untitled-2   22
+8/16/2017   5:24:16 PM
+
+
+--- PAGE 23 (TEXT) ---
+English  23 
+Installation
+4.	 Insert the upper area of the dongle 
+cover first, and then close to lock as 
+shown.
+NOTE
+The marked area is the cover of the 
+optional dongle, not a crack or defect.
+STEP  3  Flooring
+•	 The surface to install the refrigerator 
+must support a fully loaded refrigerator.
+•	 To protect the floor, put a large piece 
+of cardboard on each leg of the 
+refrigerator.
+•	 Once the refrigerator is in its final 
+position, do not move it unless 
+necessary to protect the floor. If you 
+have to, use a thick paper or cloth such 
+as old carpets along the movement 
+path.
+NOTE
+If the refrigerator cannot pass through the entrance due to its size, see the Door removal 
+for entrance section in the Maintenance chapter.
+Untitled-2   23
+8/16/2017   5:24:16 PM
+
+
+--- PAGE 24 (TEXT) ---
+Installation
+English
+24 
+Installation
+STEP  4  Adjust the levelling feet
+CAUTION
+•	 The refrigerator must be levelled on a flat, solid floor. Failing to do so can cause 
+damage to the refrigerator or physical injury.
+•	 Levelling must be performed with an empty refrigerator. Make sure no food items 
+remain inside the refrigerator.
+•	 For safety reasons, adjust the front side a little higher than the rear side.
+The refrigerator can be levelled using the front legs that have a special screw (leveller) for 
+levelling purposes. Use a flat-head screwdriver for levelling.
+To adjust the height of the freezer side:
+Insert a flat-head screwdriver into the 
+leveller of the freezer-side front leg. Turn 
+the leveller clockwise to raise, or turn it 
+counter clockwise to lower.
+To adjust the height of the fridge side:
+Insert a flat-head screwdriver into the 
+leveller of the fridge-side front leg. Turn 
+the leveller clockwise to raise, or turn it 
+counter clockwise to lower.
+Untitled-2   24
+8/16/2017   5:24:17 PM
+
+
+--- PAGE 25 (TEXT) ---
+English  25 
+Installation
+STEP  5  Adjust the door height as well as the door gap
+To adjust the height of a door
+The height of a door can be adjusted using the clamp nut and the height nut on the front 
+bottom of each door.
+B
+A
+1.	 Open the door to adjust, and locate the 
+two nuts (A) and (B) on the front bottom 
+of the door.
+A
+2.	 With the provided spanner, turn the 
+clamp nut (A) clockwise to loosen. Then, 
+open the door, and do the following 
+inside the door.
+-	 To raise the door, turn the height nut 
+(B) counter clockwise.
+-	 To lower the door, turn the height 
+nut (B) clockwise.
+A
+3.	 When complete, tighten the clamp nut 
+(A) by turning it counter clockwise.
+Untitled-2   25
+8/16/2017   5:24:17 PM
+
+
+--- PAGE 26 (TEXT) ---
+Installation
+English
+26 
+Installation
+To correct the gap between a door and the refrigerator unit
+The gap can be adjusted manually using 
+the gap bolt on the top rear side of each 
+door.
+A
+1.	 To adjust the gap, do the following:
+-	 To widen the gap, turn the gap bolt 
+(A) clockwise.
+-	 To narrow the gap, turn the gap bolt 
+(A) counter clockwise.
+B
+2.	 When the gap is corrected, tighten the 
+locking nut (B) by turning it clockwise.
+Untitled-2   26
+8/16/2017   5:24:18 PM
+
+
+--- PAGE 27 (TEXT) ---
+English  27 
+Installation
+STEP  6  Connect to a water source
+CAUTION
+•	 The water line must be connected by a qualified technician.
+•	 The warranty for your refrigerator does not cover the water line installation. The 
+water line installation will be performed at your own costs unless the installation fee is 
+included in the retailer’s price.
+•	 Samsung takes no responsibility for the water line installation. If water leaks occur, 
+contact the installer of the water line.
+To connect the cold water pipe to the water filtering hose
+CAUTION
+•	 Make sure the water filtering hose is connected to a cold, potable water source pipe. 
+Connecting to the hot water pipe may cause the purifier to malfunction.
+1
+A
+B
+A
+A.	 Close Main Water pipe
+B.	 No gap
+1.	 Shut off the water supply by closing the 
+main water valve.
+2.	 Locate the cold, potable water pipe (1).
+3.	 Follow the Water Line Installation to 
+connect to the water pipe.
+4.	 When connection is complete, open the 
+main water valve and dispense about 
+3 liters of water. This is to remove 
+impurities inside the pipe.
+Untitled-2   27
+8/16/2017   5:24:18 PM
+
+
+--- PAGE 28 (TEXT) ---
+Installation
+English
+28 
+Installation
+To connect the water filtering hose to the water line
+Remove cap
+a
+a
+A
+B
+03
+a
+A.	 Water Line from unit
+B.	 Water Line from Kit
+1.	 Loosen and remove the compression 
+nut (a) from the water line of the 
+refrigerator, and insert it to the water 
+filtering hose.
+2.	 Tighten up the compression nut (a) to 
+connect the water filtering hose and the 
+water line.
+3.	 Open the main water valve and check 
+for any leaks.
+4.	 If there are no leaks, dispense about a 
+3 liters of water before actually using 
+the refrigerator to remove impurities 
+inside the water filtering system.
+To repair the water line
+CAUTION
+The waterline must be repaired by a qualified professional. If you encounter a water leak, 
+contact a local Samsung service centre or the installer of the waterline.
+STEP  7  Initial settings
+By completing the following steps, the refrigerator should be fully functioning.
+1.	 Plug the power cord into the wall socket to turn the refrigerator on.
+2.	 Open the door, and check if the interior light lights up.
+3.	 Set the temperature to the coldest, and wait for about an hour. Then, the freezer will be 
+slightly chilled, and the motor will run smoothly.
+4.	 Wait until the refrigerator reaches the set temperature. Now the refrigerator is ready 
+for use.
+STEP  8  Final check
+When installation is complete, confirm that:
+•	 The refrigerator is plugged into an electrical outlet and grounded properly.
+•	 The refrigerator is installed on a flat, level surface with a reasonable clearance from the 
+wall or the cabinet.
+•	 The refrigerator is level and is sitting firmly on the floor.
+•	 The door opens and closes freely, and the interior light turns on automatically when 
+you open the door.
+Untitled-2   28
+8/16/2017   5:24:18 PM
+
+
+--- PAGE 29 (TEXT) ---
+English  29 
+Installation
+Door removal for entrance
+If the refrigerator cannot pass through the entrance due to its size, follow these 
+instructions:
+Tools required (not provided)
+These tools are used for removing the doors.
+Philips screwdriver
+Flat-heat 
+screwdriver
+Socket spanner 
+(10 mm)
+Allen spanner 
+(5 mm)
+Disconnect the water line
+1.	 From the bottom rear side of the 
+refrigerator, pull out the water line to 
+the front.
+NOTE
+The refrigerator’s water line is a water 
+circulation line that connects between the 
+water pipe from the water source and the 
+hoses from the water filtering system of 
+the refrigerator.
+B
+A
+2.	 To disconnect the hoses, press and hold 
+the transparent coupler (A) and detach 
+the water hose (B).
+CAUTION
+Do not apply excessive force to the 
+coupler. It may break.
+Untitled-2   29
+8/16/2017   5:24:19 PM
+
+
+--- PAGE 30 (TEXT) ---
+Installation
+English
+30 
+Installation
+Detach the doors
+CAUTION
+The door may fall off or over and damage itself during any of these steps. To prevent an 
+accident, use extreme caution when performing these steps.
+A
+A
+1.	 Use a Philips screwdriver to unscrew 
+the hinge covers (A) on the top of each 
+door.
+2.	 Open the doors to loosen the hinges 
+and remove the hinge covers. Once the 
+covers are removed, close the doors.
+3.	 Disconnect the electrical harness.
+B
+C
+4.	 Unscrew the hinge screws (B) counter 
+clockwise, and remove the upper hinge 
+(C). Be careful as the door can fall on 
+you, causing physical injury.
+Untitled-2   30
+8/16/2017   5:24:20 PM
+
+
+--- PAGE 31 (TEXT) ---
+English  31 
+Installation
+C
+5.	 Remove the hinges (C) on both sides.
+6.	 Gently lift up the doors one by one to 
+remove. Use caution as the door may 
+fall off or over.
+Detach the showcase (applicable models only)
+1.	 Follow the steps 1 through 2 in the 
+Detach the doors section.
+2.	 Disconnect the housing connector in the 
+opposing directions, which is located on 
+the top of the showcase.
+3.	 Unscrew the 3 screws on the top hinge 
+of the showcase.
+Untitled-2   31
+8/16/2017   5:24:20 PM
+
+
+--- PAGE 32 (TEXT) ---
+Installation
+English
+32 
+Installation
+4.	 Grab both sides of the showcase, and 
+then gently pull out to the front.
+CAUTION
+To prevent damage to the wires or tangled 
+wires, use the wire clip on the side of the 
+hinge.
+Reconnect the water hoses
+Once the refrigerator has passed through the entrance, reconnect the water hoses and 
+insert the provided clips (x2) to tighten the coupler.
+A
+B
+A.	 Center of transparent coupler
+B.	 Clip A (1/4”) (6.35 mm)
+CAUTION
+•	 Make sure the water hoses are 
+connected with matching colours.
+•	 To prevent water leaks, each water 
+hose must be inserted fully to the 
+centre of the transparent coupler and 
+then must be clipped.
+Untitled-2   32
+8/16/2017   5:24:21 PM
+
+
+--- PAGE 33 (TEXT) ---
+English  33 
+Installation
+Reattach the doors
+CAUTION
+•	 Before reattaching the doors, make sure all the electrical connectors are properly 
+connected.
+•	 The freezer door must be reattached before the fridge door.
+1.	 Hold the freezer door and hook to the 
+hinge at the bottom of the refrigerator.
+A
+2.	 On the top side, insert the hinge (A) into 
+the hinge slot.
+B
+C
+D
+3.	 Insert the upper hinge shaft (B) into 
+the hinge hole (C). Make sure the hinge 
+shaft is straight so that all screw holes 
+are fully revealed. Then, tighten the 
+hinge screws (D) clockwise.
+Untitled-2   33
+8/16/2017   5:24:21 PM
+
+
+--- PAGE 34 (TEXT) ---
+Installation
+English
+34 
+Installation
+4.	 Connect the electrical harness.
+5.	 Insert the hinge covers with the front 
+sides first, and then tighten the screws. 
+Use a Philips screwdriver for this step.
+Untitled-2   34
+8/16/2017   5:24:21 PM
+
+
+--- PAGE 35 (TEXT) ---
+English  35 
+Operations
+Feature panel
+01
+04
+03
+07
+10
+01
+04
+05
+02
+03
+07
+08
+09
+10
+06
+01
+04
+05
+02
+03
+07
+08
+09
+10
+01	Freezer / Power Freezer
+02	Lighting / °C  °F
+03	Vacation
+04	Fridge / Power Cool
+05	Door Alarm
+06	Filter *
+07	Control Lock
+08	Water / Filter Reset*
+09	Cube/Crushed Ice / Ice 
+Maker Off
+10	Network connection *
+* Applicable models only
+Operations
+Untitled-2   35
+8/16/2017   5:24:21 PM
+
+
+--- PAGE 36 (TEXT) ---
+Operations
+English
+36 
+Operations
+01 Freezer / Power Freeze (3 sec)
+Freezer
+The Freezer button can be used to set the freezer temperature, or to 
+activate Power Freeze. Available temperatures are between -15 °C 
+(5 °F) and -23 °C (-8 °F).
+Power Freeze
+Power Freeze speeds up the freezing process at maximum fan speed. 
+The freezer keeps running at full speed for several hours and then 
+returns to the previous temperature.
+•	 To activate Power Freeze, press and hold Freezer for 3 seconds. 
+The corresponding indicator ( 
+ ) lights up, and the refrigerator will 
+speed up the freezing process for you.
+•	 To deactivate, press and hold Freezer for 3 seconds again. The 
+freezer returns to the previous temperature setting.
+•	 To freeze large amounts of food, activate Power Freeze for at least 
+24 hours before putting food in the freezer.
+NOTE
+Using Power Freeze increases power consumption. Make sure you turn 
+it off and return to the previous temperature if you do not intend to 
+use it.
+02 Lighting / °C  °F (3 sec)
+The Lighting button can be used to switch the temperature scale between Celsius and 
+Fahrenheit. To switch the temperature scale, press and hold Lighting for 3 seconds to 
+change the current temperature scale.
+03 Vacation
+Vacation
+The Vacation button can be used to activate/deactivate Vacation mode.
+If you are going on vacation or a business trip, or if you do not intend 
+to use the refrigerator for an extended time, use the Vacation feature. 
+Press and hold Vacation for 3 seconds to turn off the fridge operation 
+with the Vacation indicator (  ) on.
+NOTE
+It is strongly recommended to empty the fridge compartment and 
+make sure the door is closed.
+Untitled-2   36
+8/16/2017   5:24:22 PM
+
+
+--- PAGE 37 (TEXT) ---
+English  37 
+Operations
+04 Fridge / Power Cool (3 sec)
+The Fridge button can be used to set the fridge temperature, or to activate/deactivate 
+Power Cool.
+Fridge
+You can manually adjust the cooling temperature for the fridge. Keep 
+pressing Fridge to cycle through the temperature bar, and select a 
+desired temperature between 1 °C (34 °F) and 7 °C (44 °F).
+Power Cool
+Power Cool speeds up the cooling process at maximum fan speed. 
+This is useful to quickly cool food that spoils quickly, or after the door 
+is left open for some time. The fridge keeps running at full speed for 
+several hours and then returns to the previous temperature.
+Press and hold Power Cool for 3 seconds.
+05 Door Alarm
+Door Alarm
+You can set the alarm for a reminder. If the door is left open for more 
+than 2 minutes, the alarm will sound with the alarm indicator ( 
+ ) 
+blinking. The alarm is enabled by factory default. To disable the alarm, 
+press Door Alarm. To enable, press Door Alarm again.
+06 Filter
+The filter lifecycle will be reset and the filter indicator turns off. The icon will blink red for 
+several seconds when you open or close the door.
+Untitled-2   37
+8/16/2017   5:24:22 PM
+
+
+--- PAGE 38 (TEXT) ---
+Operations
+English
+38 
+Operations
+07 Control Lock (3 sec)
+Control Lock
+To activate the Control Lock, press and hold Control Lock for 3 
+seconds. The controls on the display are disabled, and the dispenser 
+does not operate even if you push the lever. To deactivate, press and 
+hold again for 3 seconds.
+Device 
+authentication
+When connecting the refrigerator to Samsung Smart Home App or 
+Samsung smart devices such as Samsung Smart TVs, follow the app's 
+or device's onscreen instructions and press and hold Control Lock for 
+5 seconds. The temperature panel displays "on" for 5 seconds before 
+proceeding with the authentication procedure.
+Note that the Control Lock function will be no affected by this 
+authentication.
+08 Water / Filter Reset (3 sec)
+The Water button can be used to dispense water, or to reset the water filter.
+Dispensing
+Press Water to dispense water. In this mode, no ice will be dispensed.
+Filter Reset
+After about 6 months (approximately 300 gallons) of using the original 
+water filter, the Filter indicator turns red to remind you that the filter 
+needs to be replaced. If this happens, replace the filter, and press and 
+hold Filter Reset for 3 seconds.
+NOTE
+Some regional areas have relatively large amounts of lime contained 
+in the water. This may reduce the lifecycle of the filter. In these areas, 
+you will have to replace the water filter more often than specified 
+above.
+09 Cubed/Crushed Ice / Ice Maker Off (3 sec)
+Cubed/Crushed 
+Ice
+You can select an ice type. Press the button to toggle between the 
+cubed and crushed ice types. The corresponding indicator turns on.
+Ice Maker Off
+To disable ice making, press and hold for 3 seconds. In this mode, ice 
+making is disabled even if you press Cubed/Crushed Ice.
+Untitled-2   38
+8/16/2017   5:24:22 PM
+
+
+--- PAGE 39 (TEXT) ---
+English  39 
+Operations
+10 Network connection (applicable models only)
+You can use the optional Smart Home Dongle (sold separately) to control and monitor your 
+refrigerator through the Samsung Smart Home app. For more information about Samsung 
+Smart Home, see the Samsung Smart Home section.
+NOTE
+•	 Recommended encryption systems include WPA/TKIP and WPA2/AES. Any newer or 
+unstandardized Wi-Fi authentication protocols are not supported. 
+•	 Wireless networks may be affected by the surrounding wireless communication 
+environment.
+•	 If your Internet service provider has registered the MAC address of your PC or modem 
+for identification, your Samsung Smart Refrigerator may fail to connect to the Internet. 
+If this happens, contact your Internet service provider for technical assistance.
+•	 The firewall settings of your network system may prevent your Samsung Smart 
+Refrigerator from accessing the Internet. Contact your Internet service provider for 
+technical assistance. If this symptom continues, contact a local Samsung service center 
+or retailer.
+•	 To configure the wireless access point (AP) settings, see the user manual of the AP.
+•	 Samsung Smart Refrigerators featuring the Samsung Smart Home Dongle support 
+both Wi-Fi 2.4 GHz with IEEE 802.11 b/g/n and Soft-AP protocols (IEEE 802.11 n is 
+recommended).
+•	 Unauthorized Wi-Fi wireless routers may fail to connect to applicable Samsung Smart 
+Refrigerators.
+Samsung Smart Home (applicable models only)
+Installation
+Visit the Google Play Store, Galaxy Apps, or Apple App Store and search for “Samsung 
+Smart Home”. Download and install the Samsung Smart Home app provided by Samsung 
+Electronics to your smart device.
+NOTE
+•	 The Samsung Smart Home app is designed for Android 4.0 (ICS) or higher, or iOS 7.0 or 
+higher, and is optimized for Samsung smartphones (Galaxy S and Galaxy Note series). 
+On other smartphone models, some functions may operate differently. 
+•	 For improved performance, the Samsung Smart Home app is subject to change without 
+notice, or discontinued support according to the manufacturer’s policy.
+Samsung account
+You are required to register your Samsung account to use the app. If you don’t have a 
+Samsung account, follow the app’s onscreen instructions to create a free Samsung account.
+Untitled-2   39
+8/16/2017   5:24:22 PM
+
+
+--- PAGE 40 (TEXT) ---
+Operations
+English
+40 
+Operations
+Getting started
+1.	 Insert the Smart Home Dongle into the corresponding port of your refrigerator.
+2.	 Run the Samsung Smart Home app and log in with your Samsung account. iPhone users 
+are required to provide the login information each time they access the app.
+3.	 Access Device > the + icon, and then tap Refrigerator.
+4.	 Follow the onscreen instructions to provide the necessary information about the 
+router, and then tap Next.
+5.	 Press and hold Fridge for more than 5 seconds until the "AP" message appears on the 
+display. Your refrigerator will be registered with the app.
+6.	 When the device registration is complete, the refrigerator icon will appear on the 
+Samsung Smart Home app.
+7.	 Tap the refrigerator icon to open the refrigerator page.
+8.	 When a network connection is established, the Wi-Fi icon lights up on your refrigerator. 
+Refrigerator app
+Integrated control
+You can monitor and control your refrigerator at home as well as while on the move.
+•	 Tap the refrigerator icon on the Samsung Smart Home to open the refrigerator page.
+•	 Check the operation status or notification of your refrigerator, and change options or 
+settings if necessary.
+NOTE
+Some options or settings of the refrigerator may not be available for remote control.
+Untitled-2   40
+8/16/2017   5:24:22 PM
+
+
+--- PAGE 41 (TEXT) ---
+English  41 
+Operations
+Key features
+Register Samsung smart home appliances to the Samsung Smart Home server for remote 
+access.
+Menu overview
+•	 Tap Refrigerator to open the settings page of the refrigerator.
+•	 Swipe to move to the next page.
+Chat control
+You can control your Samsung smart home appliances remotely, 
+or check the operating status.
+Home view 
+(applicable models 
+only)
+By using the built-in camera of a Samsung Smart Home 
+appliance, you can monitor your living room. This is available 
+only with applicable models.
+Master key
+The master key is designed to control the locking system for 
+different user activities such as going out, coming home, going 
+to bed at night, and waking up in the morning. This is available 
+only with applicable models.
+Customer service
+The user manual is downloadable, and the contact information 
+for customer support is also provided.
+Settings
+•	 You can check the connected device as well as the software 
+information (version and open-source licenses), and add 
+devices or select a country.
+•	 You can simulate the operation of the current device for 
+demonstration purposes.
+Untitled-2   41
+8/16/2017   5:24:23 PM
+
+
+--- PAGE 42 (TEXT) ---
+Operations
+English
+42 
+Operations
+Refrigerator settings
+01
+A
+B
+02
+03
+04
+05
+06
+07
+A: Disabled (black)
+B: Enabled (blue)
+Fridge
+01	Displays the currently set fridge temperature.
+02	You can turn on or off Power Cool, and check the current 
+settings.
+Freezer
+03	Displays the currently set freezer temperature.
+04	You can turn on or off Power Freeze, and check the current 
+settings.
+Ice Maker
+05	Displays the current mode setting. 
+06	You can turn on or off Ice Maker, and check the ice making 
+status with the current settings.
+About Device
+07	Displays the product information including the current 
+version, tutorial, Self Check, and Help Desk. The user manual 
+is downloadable, and the contact information for customer 
+support is also provided.
+Self Check
+By referencing Self Check, you can check the diagnostic results 
+of your refrigerator. If you encounter an abnormal symptom, 
+Self Check displays an information that can be used for customer 
+service.
+Untitled-2   42
+8/16/2017   5:24:24 PM
+
+
+--- PAGE 43 (TEXT) ---
+English  43 
+Operations
+Temperature settings
+To ensure optimal performance, we recommend setting the temperature to -19 °C (-2 °F) 
+for the freezer, and 3 °C (37 °F) for the fridge. 
+Freezer
+The freezer temperature can be adjusted 
+between -23 °C (-9 °F) and -15 °C (5 °F).
+To change the temperature, keep pressing 
+Freezer until a desired temperature is 
+selected. The temperature changes by 
+1 scale unit.
+•	 Recommended: -19 °C (-2 °F)
+NOTE
+Ice cream may melt at -15 °C (5 °F).
+Fridge
+The fridge temperature can be adjusted 
+between 1 °C (34 °F) and 7 °C (44 °F).
+To change the temperature, keep pressing 
+Fridge until a desired temperature is 
+selected. The temperature changes by 
+1 scale unit.
+•	 Recommended: 3 °C (37 °F)
+The temperature of the freezer or fridge may rise if you open the door frequently, or a 
+large amount of food is put in the refrigerator. If this happens, the temperature display 
+blinks until the refrigerator returns to the specified temperature settings.
+NOTE
+If this blinking continues, disconnect the power cord and restart the refrigerator after 
+10 minutes.
+Untitled-2   43
+8/16/2017   5:24:24 PM
+
+
+--- PAGE 44 (TEXT) ---
+Operations
+English
+44 
+Operations
+Special features
+The refrigerator features user-oriented devices that you can use to benefit from.
+Water dispenser (applicable models only)
+With the water dispenser, you can dispense water without opening the fridge door.
+Water
+Cubed
+Crushed
+Ice Maker Off
+Basically, the water dispenser offers 
+3 options: chilled water, cubed ice, and 
+crushed ice. If you do not want to dispense 
+ice, press Ice Maker Off.
+With the Ice Maker enabled,
+1.	 Press to select the ice type.
+2.	 Put a water glass on the dispenser lever 
+and push it. Ice will be dispensed from 
+the dispenser.
+3.	 Press to select the water.
+4.	 Then, put the glass on the dispenser 
+lever and push it. Water will be 
+dispensed from the dispenser.
+NOTE
+•	 To prevent spills, wait 2 seconds before removing the glass after dispensing.
+•	 The dispenser will stop dispensing if you keep pushing the dispenser lever for about 
+1 minute. To dispense more water, release and push the lever again.
+•	 Make sure the glass is in line with the dispenser to prevent the dispensed water from 
+spilling out.
+•	 If you do not use the water dispenser for 2-3 days, the dispensed water may have an 
+abnormal smell or taste. This is not a system failure. Discard the first 1-2 glasses of 
+water. 
+Untitled-2   44
+8/16/2017   5:24:25 PM
+
+
+--- PAGE 45 (TEXT) ---
+English  45 
+Operations
+To fill the water tank
+For first-time use, clean the inner side of 
+the water tank and dry well.
+1.	 Hold both handgrips on the front of the 
+tank, and slide out as shown.
+A
+B
+2.	 Open the front lid (A) of the cover or 
+the entire cover (B) and fill the tank 
+with a max of 5 liters water.
+CAUTION
+Do not exceed the max line. Water 
+overflows.
+3.	 Reinsert the water tank and fit into the 
+dispenser mechanism. Make sure the 
+front side (with the front lid) of the tank 
+faces to the front.
+CAUTION
+•	 Make sure the water tank fits into the shelf. Otherwise, the water tank may not operate 
+properly.
+•	 Do not use the refrigerator without inserting the water tank. This may decrease the 
+cooling performance.
+•	 Fill the tank only with potable water such as mineral or purified water. Do not use 
+other liquid.
+•	 Use caution when moving a filled tank. Physical injury may occur if the tank is 
+dropped.
+•	 Do not try to disassemble the internal pump yourself. If the internal pump is damaged 
+or disconnected from the water tank, the dispenser does not operate.
+For first-time use
+•	 Push the dispenser lever for 10 seconds to emit air from the hoses of the water supply 
+system.
+•	 Discard the first six glasses of water to remove impurities in the water supply system.
+Untitled-2   45
+8/16/2017   5:24:25 PM
+
+
+--- PAGE 46 (TEXT) ---
+Operations
+English
+46 
+Operations
+To dispense water
+Put a glass under the water outlet, and gently push against the dispenser lever with the 
+glass.
+CAUTION
+•	 Make sure the glass is in line with the dispenser to prevent the dispensed water from 
+spilling out.
+•	 If you do not use the water dispenser for 2-3 days, the dispensed water may have an 
+abnormal smell or taste. This is not a system failure. Discard the first 1-2 glasses of 
+water.
+Ice making (applicable models only)
+The refrigerator has a built-in ice maker that automatically dispenses ice so that you can 
+enjoy filtered water with cubed or crushed ice to your preference.
+C
+B
+A
+If ice does not dispense, first check the ice 
+maker if it makes ice properly.
+To check the ice maker
+1.	 Gently hold the icemaker bucket (B) 
+with both hands and remove it from the 
+ice chute (A).
+2.	 Check the icemaker bucket if it contains 
+ice as appropriate.
+3.	 Then, hold the icemaker cover (C) and 
+slightly lift up to remove.
+D
+4.	 Press Test (D) on the side of the ice 
+maker. You will hear a chime (ding-
+dong) at the press of the button.
+5.	 You will hear another chime if the ice 
+maker operates properly.
+NOTE
+If this symptom continues, contact the 
+waterline installer or a local Samsung 
+service centre.
+CAUTION
+•	 Do not press the button repeatedly after the ice tray is filled with ice or water. Water 
+may overflow or ice may be jammed.
+Untitled-2   46
+8/16/2017   5:24:25 PM
+
+
+--- PAGE 47 (TEXT) ---
+English  47 
+Operations
+•	 When the refrigerator recovers power supply after a power failure, the icemaker 
+bucket may contain a mix of melted and jammed ice cubes, resulting in a system 
+failure. To prevent this, make sure to empty the icemaker bucket before using the 
+refrigerator.
+•	 To prevent dropping the icemaker bucket, make sure to use both hands when removing 
+or reinserting the icemaker bucket.
+•	 Do not let children hang on or play with the ice dispenser or the icemaker bucket. 
+Children may get hurt.
+•	 Do not put fingers or other objects into the dispenser hole or the ice chute. This may 
+cause physical injury or property damage.
+NOTE
+•	 If you remove the icemaker bucket, the Ice Maker Off indicator (  ) will blink.
+•	 Removal of the icemaker bucket does not affect the thermal and mechanical 
+performance of the refrigerator.
+•	 The declared freezer volume is based on use of the freezer guide after the ice maker, 
+snack bin, and upper drawer are removed.
+Untitled-2   47
+8/16/2017   5:24:26 PM
+
+
+--- PAGE 48 (TEXT) ---
+Operations
+English
+48 
+Operations
+To secure more storage space (applicable models only)
+A
+B
+C
+C
+If you do not use the ice maker and need 
+more storage space, remove the icemaker 
+bucket (A) and the snack bin. Then, insert 
+the freezer guide (B) into the icemaker 
+bucket’s place. To secure more room, 
+remove the freezer’s upper drawer (C).
+Icemaker bucket
+If you do not dispense ice for an extended 
+period, ice may form clumps inside the 
+bucket. If this happens, remove and empty 
+the icemaker bucket.
+1.	 To remove the icemaker bucket, gently 
+lift it up and pull out slowly while 
+holding the handgrips with both hands.
+2.	 Remove and empty the icemaker 
+bucket.
+Untitled-2   48
+8/16/2017   5:24:26 PM
+
+
+--- PAGE 49 (TEXT) ---
+English  49 
+Operations
+3.	 When done, turn the gear handle on the 
+rear of the bucket by 90°, and then put 
+the bucket back into position. Make sure 
+the bucket is inserted properly until you 
+hear a clicking sound.
+4.	 Press and hold Ice Maker Off for 3 
+seconds to reset the icemaker.
+CAUTION
+•	 Do not apply excessive force to the 
+bucket cover. The cover may break.
+•	 Do not close the door hard. Water may 
+spill over the ice maker.
+•	 To prevent injury, make sure to clean 
+up any ice or water that has fallen on 
+the floor.
+•	 To prevent accidents or injury, do 
+not let children play with the water 
+dispenser or the ice maker.
+•	 Do not put your hand or an object into 
+the ice chute. This may cause physical 
+injury or product damage.
+NOTE
+•	 If the Ice Maker Off indicator (  ) blinks, remove and reinsert the icemaker bucket. 
+Make sure it is reinserted properly.
+•	 Any sound from the ice maker is normal, which outputs during the ice making process.
+•	 While the door is open, neither the ice maker nor the water dispenser operates.
+Water pressure
+If you want to check how much water flows into the ice tray, follow these steps.
+Untitled-2   49
+8/16/2017   5:24:26 PM
+
+
+--- PAGE 50 (TEXT) ---
+Operations
+English
+50 
+Operations
+A
+B
+1.	 Gently lift up the icemaker cover (A) to 
+remove.
+2.	 Press Test (B) on the side of the 
+icemaker. Normally, the ice cube 
+container fills with water in a few 
+minutes.
+3.	 If the water level is lower than 
+expected, check the water pressure of 
+the water supply line from the water 
+source. This is not a system failure.
+CAUTION
+•	 Do not press Test repeatedly when the tray is filled with water. Water may overflow or 
+ice may be jammed.
+•	 Make sure the icemaker bucket is inserted properly. Otherwise, the ice maker will not 
+operate.
+Smart Eco (applicable models only)
+A
+B
+C
+The Smart Eco system intelligently 
+controls the refrigerator according to 
+the operating environment in order to 
+keep food fresh using 4 sensors that are 
+located on both the inner and outer sides 
+of the refrigerator. This smart system also 
+monitors usage patterns and the operating 
+status to save power consumption.
+A.	 External temperature sensor
+B.	 External humidity sensor
+C.	 Internal temperature sensors
+Untitled-2   50
+8/16/2017   5:24:27 PM
+
+
+--- PAGE 51 (TEXT) ---
+English  51 
+Operations
+Elevation guard (applicable models only)
+You can store food items in different heights by adjusting the vertical position of the 
+guard.
+CAUTION
+Before adjusting the height of the guard, make sure to empty the guard. Glass bottles or 
+beverage glass containers may drop and break when the guard is lowered, resulting in 
+physical injury.
+1.	 To adjust the vertical position of the 
+guard, hold the bottom of the guard 
+with both hands, and then raise the 
+position as appropriate.
+2.	 The vertical position can be adjusted in 
+4 different levels.
+NOTE
+To lower the guard once it is raised, make 
+sure you raise the guard to the top level 
+first, and then lower it in the original 
+position. 
+NOTE
+To remove the elevation guard, see page 53.
+Untitled-2   51
+8/16/2017   5:24:27 PM
+
+
+--- PAGE 52 (TEXT) ---
+English
+52 
+Maintenance
+Handle and care
+Shelves (fridge/freezer)
+Rear
+1
+•	 To remove a shelf, fully open the 
+corresponding door. Hold the front of 
+the shelf and gently lift up and slide 
+out.
+•	 If the door cannot fully open, slide out 
+the shelf half way to the front and turn 
+it over to remove.
+2
+3
+CAUTION
+•	 The shelf must be inserted correctly. Do 
+not insert upside down.
+•	 Glass containers may scratch the 
+surface of glass shelves.
+Moving tray shelf (fridge/freezer)
+•	 To remove the shelf, hold the bottom 
+side of the shelf and gently lift up and 
+pull out.
+NOTE
+Do not hold the front side of the shelf to 
+pull out. The shelf does not loosen on the 
+front side.
+Maintenance
+Untitled-2   52
+8/16/2017   5:24:27 PM
+
+
+--- PAGE 53 (TEXT) ---
+English  53 
+Maintenance
+Door guard
+To remove a door guard, hold the front 
+sides of the bin and gently lift up to 
+remove.
+Drawers
+Gently lift up the front of the drawer and 
+slide out.
+Elevation guard (applicable models only)
+To remove the elevation guard
+1.	 Open the inner case.
+2.	 Raise the guard to the top level to 
+reveal the levers of the guard rail.
+Untitled-2   53
+8/16/2017   5:24:28 PM
+
+
+--- PAGE 54 (TEXT) ---
+Maintenance
+English
+54 
+Maintenance
+3
+3
+4
+3.	 Turn both levers outward to unlock. 
+When the levers are unlocked, you will 
+hear a clicking sound.
+4.	 Gently lift up and pull out the guard.
+To reinsert the elevation guard
+1
+1
+2
+1.	 Turn both levers outward to unlock. 
+When the levers are unlocked, you will 
+hear a clicking sound.
+2.	 Put the guard in the guard rail. The 
+guard will be lowered and locked 
+automatically. 
+Untitled-2   54
+8/16/2017   5:24:28 PM
+
+
+--- PAGE 55 (TEXT) ---
+English  55 
+Maintenance
+Vegetable bin / Dry bins
+To remove the vegetable bin from the 
+fridge or the dry bin from the freezer.
+1.	 First, remove surrounding multipurpose 
+bins if necessary.
+A
+2.	 If your refrigerator is provided with 
+a cover (A) for the vegetable/dry bin, 
+remove the cover. For this, slide out the 
+cover while holding down the clips on 
+either side of the cover.
+3.	 Gently pull out the vegetable/dry bin.
+Icemaker bucket
+To remove the icemaker bucket, see the Diagnosis section on page 48.
+Untitled-2   55
+8/16/2017   5:24:29 PM
+
+
+--- PAGE 56 (TEXT) ---
+Maintenance
+English
+56 
+Maintenance
+Cleaning
+Interior and exterior
+WARNING
+•	 Do not use benzene, thinner, or home/car detergent such as Clorox™ for cleaning 
+purposes. They may damage the surface of the refrigerator and cause a fire.
+•	 Do not spray water onto the refrigerator. This may cause electric shock.
+•	 Do not put fingers or other objects into the dispenser hole.
+Regularly use a dry cloth to remove all foreign substances such as dust or water from the 
+power plug terminals and contact points.
+1.	 Unplug the power cord.
+2.	 Use a moistened, soft, lint-free cloth or paper towel to clean the refrigerator’s interior 
+and exterior.
+3.	 When done, use a dry cloth or paper towel to dry well.
+4.	 Plug in the power cord.
+Untitled-2   56
+8/16/2017   5:24:29 PM
+
+
+--- PAGE 57 (TEXT) ---
+English  57 
+Maintenance
+Replacement
+Water filter (applicable models only)
+WARNING
+•	 Do not use third-party water filters. Use only Samsung-provided or -approved filters.
+•	 Unapproved filters may leak and damage the refrigerator, causing electric shock. 
+Samsung holds no responsibility for any damage that may occur from use of third-
+party water filters.
+The filter indicator (  ) turns red as a reminder that lets you know it is time to replace the 
+water filter.
+1.	 Turn the knob of the filter cartridge 
+counter clockwise by 90 degrees. The 
+filter cartridge will be unlocked. 
+2.	 Pull out the cartridge.
+3.	 Insert a new filter cartridge. Use only 
+Samsung-provided or -approved filters.
+Untitled-2   57
+8/16/2017   5:24:29 PM
+
+
+--- PAGE 58 (TEXT) ---
+Maintenance
+English
+58 
+Maintenance
+4.	 Turn the cartridge knob clockwise to 
+lock into place.
+5.	 Press and hold Filter Reset on the 
+feature panel for 3 seconds to reset the 
+filter lifecycle. The filter indicator (  ) 
+turns off.
+6.	 When replacing is complete, flush 4 
+liters of water to remove impurities 
+from the water line. See the Flushing 
+section for more information.
+NOTE
+•	 A newly installed filter may cause the water dispenser to spurt water briefly. This is 
+because air has entered the waterline.
+•	 This replacement process may involve the refrigerator to drip water onto the floor. If 
+this happens, wipe up with dry cloths.
+Reverse osmosis water filtration system
+The water pressure of the water supply system to a reverse osmosis water filtration 
+system must be between 35 psi and 120 psi (241 kPa and 827 kPa).
+The water pressure of the reverse osmosis water filtration system to the refrigerator’s 
+cold water line must be at least 40 psi (276 kPa). If the water pressure is below the 
+specified:
+•	 Check to see whether the sediment filter in the reverse osmosis system is blocked. 
+Replace the filter if necessary.
+•	 Refill the water tank in the reverse osmosis system with water.
+•	 If your refrigerator has a water filter, it may further reduce the water pressure when 
+used in conjunction with a reverse osmosis system. Remove the water filter.
+For more information or servicing, contact a licensed plumbing professional.
+Ordering a new filter
+To purchase a new water filter, contact a local Samsung service centre.
+Lamps and anti-bacteria filter
+Neither lamps nor the anti-bacteria filter are user-serviceable. Do not attempt to replace 
+them yourself. To replace them, contact a local Samsung service centre.
+Untitled-2   58
+8/16/2017   5:24:29 PM
+
+
+--- PAGE 59 (TEXT) ---
+English  59 
+Troubleshooting
+If you encounter an abnormal situation with the refrigerator, first check the table below 
+and try the suggestions.
+General
+Symptom
+Action
+Does not operate or 
+cool.
+•	 Make sure the power cord is connected properly.
+•	 Make sure the temperature control is set correctly. Try 
+setting to a lower temperature.
+•	 Make sure to keep the refrigerator away from direct sunlight 
+or a heat source. Failing to do so may affect the cooling 
+performance.
+•	 Make sure the refrigerator has enough room from the rear 
+and side walls or the cabinet. Failing to do so may affect the 
+cooling performance.
+•	 Too much food may block the ventilation of the refrigerator. 
+To keep the refrigerator in normal operation, do not put too 
+much food inside.
+Food in the fridge 
+freezes.
+•	 Check if the temperature control is set to the lowest 
+temperature. If so, change to a higher or the optimal 
+temperature.
+•	 This happens if the ambient temperature is too low. Set the 
+temperature higher.
+•	 Check if food containing a high portion of water is put in the 
+coldest area of the fridge or near the cooling vent. If this 
+happens, move the food to other shelves in the fridge.
+Emits noises.
+•	 Make sure the refrigerator is installed on a stable, flat 
+surface.
+•	 Make sure the refrigerator has enough room from the rear 
+and side walls or the cabinet.
+•	 Make sure to keep the refrigerator from impurities or foreign 
+objects inside or underneath.
+•	 The refrigerator may produce a ticking sound from inside, 
+which occurs when the various accessories contract or 
+expand. This is not a system failure.
+Troubleshooting
+Untitled-2   59
+8/16/2017   5:24:29 PM
+
+
+--- PAGE 60 (TEXT) ---
+Troubleshooting
+English
+60 
+Troubleshooting
+Symptom
+Action
+The front corners 
+and sides become 
+warm and form 
+condensation.
+•	 To prevent condensation from forming, the refrigerator 
+has heat-proof piping in the front corners. If the ambient 
+temperature rises, this equipment may not work effectively. 
+This is not a system failure.
+•	 Make sure the door is closed properly. Condensation may 
+form if you leave the door open for some time.
+•	 Condensation may form on the exterior surface of the 
+refrigerator if humid air comes into contact with the cool 
+surface of the refrigerator.
+The ice maker does 
+not make ice.
+•	 You must wait for 12 hours until the refrigerator makes ice.
+•	 Make sure the ice maker is not stopped while making ice.
+•	 Make sure the water tank is filled with water.
+•	 Check if the icemaker bucket contains ice clumps. In this case, 
+empty the icemaker bucket and try again.
+The water dispenser 
+is not functioning.
+•	 Check if the water tank is frozen. If so, select a higher fridge 
+temperature.
+•	 Make sure the water tank is filled with water.
+•	 Make sure the water tank is installed properly.
+•	 Make sure the water filter is installed properly.
+Produces a bubbling 
+sound.
+•	 The refrigerator makes this sound during the cooling process, 
+which is normal.
+A bad smell comes 
+from inside the 
+refrigerator.
+•	 Check for any spoiled food. We recommend cleaning the 
+refrigerator on a regular basis and remove any spoiled or 
+suspect food items.
+•	 Make sure strong smelling food is wrapped up airtight.
+Frost forms on the 
+interior walls.
+•	 Make sure no food blocks the vents of the refrigerator. It is 
+also important to arrange food items evenly for ventilation.
+•	 Make sure the door is closed properly.
+Condensation forms 
+on the interior walls 
+or around vegetables.
+•	 This happens when food containing a high portion of water is 
+stored uncovered, or the door has been left open for a while.
+•	 Make sure food is covered or put in sealed containers.
+Untitled-2   60
+8/16/2017   5:24:29 PM
+
+
+--- PAGE 61 (TEXT) ---
+English  61 
+Troubleshooting
+Symptom
+Action
+Ice maker does not 
+supply Ice cubes.
+Check the following:
+•	 Push the water dispenser lever to check the water supply.
+•	 Push the ice dispenser lever to check the operation of the 
+auger motor in the ice maker assembly.
+•	 Check if there are any objects that obstruct the auger motor 
+from running. If found, remove the objects and clear the 
+motor area.
+•	 If the ice maker has not been used for an extended time, the 
+icemaker bucket may contain ice chunk that obstructs the 
+auger motor from running properly. In this case, remove and 
+empty the icemaker bucket, and try dispensing ice.
+Untitled-2   61
+8/16/2017   5:24:29 PM
+
+
+--- PAGE 62 (TEXT) ---
+Troubleshooting
+English
+62 
+Troubleshooting
+Samsung Smart Home
+Symptom
+Action
+Could not find 
+“Samsung Smart 
+Home” on the app 
+market.
+•	 The Samsung Smart Home app is available on smartphones 
+that run Android 4.0 (ICS) or higher, or iOS 7.0 or higher. 
+The Samsung Smart 
+Home app fails to 
+operate.
+•	 The Samsung Smart Home app is available on applicable 
+models only.
+•	 The old Samsung Smart Refrigerator app cannot connect with 
+Samsung Smart Home models.
+The Samsung Smart 
+Home app is installed 
+but is not connected 
+to my refrigerator.
+•	 You must log into your Samsung account to use the app.
+•	 Make sure that your router is operating normally.
+•	 Make sure that the Smart Home Dongle is inserted properly.
+•	 If the Wi-Fi icon on the refrigerator’s display is off, this 
+indicates that no network connection has been established 
+yet. In this case, use the Samsung Smart Home app to 
+connect and register your refrigerator to the access point 
+(AP) of your house.
+Could not log into the 
+app.
+•	 You must log into your Samsung account to use the app.
+•	 If you don’t have a Samsung account, follow the app’s 
+onscreen instructions to create one.
+An error message 
+appears when I 
+try to register my 
+refrigerator.
+•	 Easy Connection may fail due to the distance from your 
+access point (AP) or electrical interference from the 
+surrounding environment. Wait a moment and try again.
+The Samsung 
+Smart Home app 
+is successfully 
+connected to my 
+refrigerator but does 
+not run.
+•	 Exit and restart the Samsung Smart Home app, or disconnect 
+and reconnect the router.
+•	 Remove the Smart Home Dongle, and reconnect it properly. 
+Then, try again.
+Untitled-2   62
+8/16/2017   5:24:29 PM
+
+
+--- PAGE 63 (TEXT) ---
+Memo
+Untitled-2   63
+8/16/2017   5:24:30 PM
+
+
+--- PAGE 64 (TEXT) ---
+Contact SAMSUNG WORLD WIDE
+If you have any questions or comments relating to Samsung products, please contact the 
+SAMSUNG customer care center.
+Country
+Contact Center
+Web Site
+INDIA
+1800 40 SAMSUNG (1800 40 7267864) 
+(Toll-Free)
+www.samsung.com/in/support
+NEPAL
+18000910113
+www.samsung.com/in/support
+BANGLADESH
+09612300300
+08000300300 (Toll free)
+www.samsung.com/in/support
+SRI LANKA
+0117540540
+0115900000
+www.samsung.com/support
+This Product is RoHS compliant
+DA68-03412F-04
+Untitled-2   64
+8/16/2017   5:24:30 PM
+
+
+--- PAGE 65 (TEXT) ---
+रेफ़्रिजरेटर
+उपयोगकर्ता मार्गदर्शिका
+फ़्री स्टैंडिंग उपकरण
+Untitled-1   1
+8/16/2017   5:21:01 PM
+
+
+--- PAGE 66 (TEXT) ---
+हिंदी
+2 
+सामग्रिय
+सामग्रियाँ
+सुरक्षा जानकारी	
+3
+महत्वपूर्ण सुरक्षा प्रतीक और सावधानियाँ:	
+4
+परिवहन और साइट के लिए गंभीर चेतावनी चिह्न	
+4
+महत्वपूर्ण स्थापना चेतावनियाँ	
+5
+स्थापना सावधानियाँ	
+7
+महत्वपूर्ण उपयोग चेतावनियाँ	
+7
+उपयोग सावधानियाँ	
+10
+सफ़ाई सावधानियाँ	
+12
+महत्वपूर्ण निपटान चेतावनियाँ	
+13
+उचित उपयोग के लिए अतिरिक्त युक्तियाँ	
+14
+बिजली की बचत करने की युक्तियाँ	
+14
+यह उपकरण केवल घरेलू या इसी प्रकार के स्थानों पर उपयोग किए जाने के लिए बनाया गया है, जैसे कि	15
+WEEE के बारे में निर्देश	
+15
+स्थापना	
+16
+रेफ़्रिजरेटर एक नज़र में	
+16
+चरण-दर-चरण स्थापना	
+19
+प्रवेश के लिए दरवाजा निकालना	
+28
+परिचालन	
+34
+विशेषता पैनल	
+34
+Samsung Smart Home (केवल उपयुक्त मॉडल)	
+38
+तापमान सेटिंग	
+42
+विशेष सुविधाएँ	
+44
+रखरखाव	
+52
+प्रबंधन और देखभाल	
+52
+सफ़ाई	
+56
+प्रतिस्थापन	
+57
+समस्या-निवारण	
+60
+सामान्य	
+60
+Samsung Smart Home	
+63
+Untitled-1   2
+8/16/2017   5:21:02 PM
+
+
+--- PAGE 67 (TEXT) ---
+हिंदी  3 
+सुरक्षा जानकारी
+•	 अपना नया Samsung रेफ़्रिजरेटर का उपयोग करने के पहले, कृपया इस मैन्युअल को पूरी तरह पढ़ लें 
+ताकि यह सुनिश्चित हो सके कि आपको उन सुविधाओं और फ़ंक्शन के संचालन के बारे में पता है जो 
+आपका नया उपकरण सुरक्षित और दक्ष तरीके से पेश करता है।
+•	 यह उपकरण क्षीण शारीरिक, संवेदक या मानसिक क्षमता वाले व्यक्तियों (बच्चों सहित) के, या उन 
+व्यक्तियों के उपयोग हेतु नहीं बनाया गया है जिनमें अनुभव और ज्ञान की कमी हो, बशर्ते उन्हें उनकी 
+सुरक्षा के लिए किसी ज़िम्मेदार व्यक्ति द्वारा पर्यवेक्षण, या उपकरण के उपयोग संबंधी निर्देश प्रदान 
+किया गया हो।
+•	 इस उपकरण का उपयोग 8 साल या उससे बड़े बच्चों तथा क्षीण शारीरिक, संवेदक या मानसिक 
+क्षमताएँ या कम अनुभव एवं ज्ञान वाले व्यक्तियों द्वारा किया जा सकता है बशर्ते कि उन्हें उपकरण 
+को सुरक्षित तरीके से उपयोग से जुड़े पर्यवेक्षण या निर्देश प्रदान किए गए हैं और वे इससे उत्पन्न 
+ख़तरों को समझते हैं।
+बच्चों को उपकरण के साथ नहीं खेलने देना चाहिए। पर्यवेक्षण के बिना बच्चों को सफाई और 
+उपयोगकर्ता रखरखाव नहीं करना चाहिए।
+•	 इस नियम-पुस्तिका में चेतावनी एवं महत्वपूर्ण सुरक्षा निर्देशों में घटित हो सकने वाली सभी संभव 
+परिस्थितियाँ तथा स्थितियाँ नहीं शामिल हैं।
+यह आपकी जिम्मेदारी है कि आप स्थापित, रखरखाव, तथा अपने उपकरण का संचालन करते समय 
+सहज ज्ञान, सतर्कता एवं सावधानी का प्रयोग करें।
+•	 चूँकि ये निम्नलिखित संचालन निर्देश विभिन्न मॉडल पर लागू होते हैं, इसलिए आपके रेफ़्रिजरेटर की 
+विशेषताएँ इस मार्गदर्शिका में वर्णित विशेषताओं से थोड़ी भिन्न हो सकती हैं और हो सकता है सभी 
+चेतावनी चिह्न लागू न हों। अगर आपके कोई प्रश्न या शंकाएँ हैं, तो अपने निकटतम सर्विस सेंटर से 
+संपर्क करें या www.samsung.com पर ऑनलाइन सहायता और जानकारी प्राप्त करें।
+•	 रेफ़्रिजरेंट के रूप में R-600a या R-134a का उपयोग किया जाता है। आपके रेफ़्रिजरेटर के लिए 
+उपयोग किए गए प्रशीतक का पता लगाने के लिए उपकरण के पिछले हिस्से में कंप्रेशर लेबल या फ़्रिज 
+के अंदर रेटिंग लेबल देखें। चूँकि इस उत्पाद में ज्वलनशील गैस (रेफ़्रिजरेंट R-600a) मौजूद है, इसलिए 
+इस उत्पाद के सुरक्षित निपटान के संबंध में स्थानीय प्राधिकरण से संपर्क करें।
+•	 प्रशीतन सर्किट में रिसाव पाए जाने की स्थिति में ज्वलनशील गैस-वायु मिश्रण के निर्माण से बचने के 
+लिए, उपकरण वाले कमरे का आकार प्रयुक्त प्रशीतक की मात्रा पर निर्भर हो सकता है।
+•	 क्षति के लक्षण इंगित करने वाले उपकरण को कभी आरंभ न करें। अगर कोई शंका है, तो अपने डीलर 
+से परामर्श लें। उपकरण के भीतर स्थित R-600a रेफ़्रिजरेंट के प्रत्येक 8 ग्राम के लिए स्थान का 
+आकार 1 मी³ होना चाहिए।
+आपके व्यक्तिगत उपकरण में रेफ़्रिजरेंट की मात्रा उपकरण के भीतर लगी पहचान प्लेट पर दिखाई गई 
+है।
+•	 पाइपों से फुहार के रूप में बाहर छलकने वाले रेफ़्रिजरेंट के कारण आग लग सकती है या आँखों को 
+चोट पहुँच सकती है। जब पाइप से रेफ़्रिजरेंट रिस रहा हो, तो अनावृत ज्वाला से बचें और किसी भी 
+ज्वलनशील पदार्थ को उत्पाद से दूर ले जाएँ और कमरे में तुरंत हवा का संचार करें।
+-
+-
+ऐसा करने में विफल रहने पर आग लग सकती है या विस्फोट हो सकता है।
+सुरक्षा जानका
+Untitled-1   3
+8/16/2017   5:21:02 PM
+
+
+--- PAGE 68 (TEXT) ---
+सुरक्षा जानका
+हिंदी
+4 
+सुरक्षा जानका
+महत्वपूर्ण सुरक्षा प्रतीक और सावधानियाँ:
+कृपया इस मार्गदर्शिका के सभी सुरक्षा निर्देशों का पालन करें। यह मार्गदर्शिका निम्नलिखित सुरक्षा प्रतीकों 
+का उपयोग करती है।
+चेतावनी
+जोखिम भरे या असुरक्षित कार्यप्रणाली जिसके परिणामस्वरूप गंभीर व्यक्तिगत चोट, संपत्ति की क्षति, 
+और/या मृत्यु हो सकती है।
+सावधान
+खतरे या असुरक्षित व्यवहार जिनसे गंभीर निजी चोट लग सकती है और/या संपत्ति की क्षति हो सकती है।
+नोट
+उपयोगी जानकारी जो उपयोगकर्ताओं को रेफ़्रिजरेटर को समझने में या उसे लाभ उठाने में सहायता करता 
+है।
+ये चेतावनी संकेत आपको और दूसरों को चोट लगने से बचाने के लिए यहाँ मौजूद हैं।
+कृपया उनका सावधानी से पालन करें।
+इस खंड को पढ़ने के बाद, भावी संदर्भ के लिए उसे किसी सुरक्षित जगह पर रखें।
+परिवहन और साइट के लिए गंभीर चेतावनी चिह्न
+चेतावनी
+•	 उपकरण का परिवहन और स्थापना करते समय यह सुनिश्चित करने के लिए सावधानी बरती जानी 
+चाहिए कि प्रशीतन सर्किट का कोई भाग क्षतिग्रस्त तो नहीं है।
+-
+-
+पाइप से रिसने वाले रेफ़्रिजरेंट से आग लग सकती है या आँखों को चोट पहुँच सकती है। यदि 
+रिसाव का पता लगता है, तो अग्नि या प्रज्वलन के संभावित स्रोत से बचें और उपकरण वाले कमरे 
+में कुछ समय तक हवा आने दें।
+-
+-
+इस उपकरण में कम मात्रा में आइसोब्यूटेन रेफ़्रिजरेंट (R-600a) शामिल होने पर भी यह गैस 
+उच्च पर्यावरणीय संगतता वाली प्राकृतिक गैस है, यद्यपि यह ज्वलनशील भी होती है। उपकरण 
+के स्थानांतरण एवं स्थापना के दौरान प्रशीतन सर्किट के किसी भी भाग का क्षतिग्रस्त न होना 
+सुनिश्चित करने के लिए सावधानी बरतनी चाहिए।
+•	 रेफ़्रिजरेटर का परिवहन और स्थापना करते समय, रेफ़्रिजरेटर के पिछले हिस्से पर लगे पानी के होज़ 
+को स्पर्श न करें।
+-
+-
+इससे रेफ़्रिजरेटर को क्षति पहुँच सकती है और परिणामस्वरूप पानी के डिस्पेंसर का उपयोग नहीं 
+किया जा सकेगा।
+Untitled-1   4
+8/16/2017   5:21:02 PM
+
+
+--- PAGE 69 (TEXT) ---
+हिंदी  5 
+सुरक्षा जानका
+महत्वपूर्ण स्थापना चेतावनियाँ
+चेतावनी
+•	 रेफ़्रिजरेटर को आर्द्रता वाले स्थान पर या किसी ऐसे स्थान पर स्थापित न करें जहाँ यह पानी के संपर्क 
+में आ सकता हो।
+-
+-
+विद्युतीय हिस्सों पर खराब विद्युत-रोधन के कारण बिजली के झटके या आग लग सकती है।
+•	 इस रेफ़्रिजरेटर को सीधे सूर्यप्रकाश में न रखें या इसे स्टोव, रूम हीटर या अन्य उपकरणों की गर्मी से 
+दूर रखें।
+•	 एकाधिक पावर स्ट्रिप में अनेक उपकरणों के प्लग न लगाएँ। रेफ़्रिजरेटर का प्लग हमेशा अपने बिजली 
+के आउटलेट में लगा होना चाहिए जिसकी वोल्टेज रेटिंग रेफ़्रिजरेटर की रेटिंग प्लेट में सूचीबद्ध वोल्टेज 
+से मेल खाती हो।
+-
+-
+इससे सर्वश्रेष्ठ कार्य-निष्पादन मिलता है और इससे घर का वायरिंग सर्किट ओवरलोड होने से भी 
+बचता है, जिससे अत्यधिक गर्म तारों से आग का खतरा हो सकता है।
+•	 यदि दीवार का सॉकेट ढीला हो, तो उसमें पावर प्लग न लगाएँ।
+-
+-
+इससे बिजली के झटके या आग का जोखिम होता है।
+•	 ऐसे किसी बिजली की तार का उपयोग न करें जिसकी पूरी लंबाई या किसी छोर में दरारें या घर्षण 
+क्षति नजर आ रही हो।
+•	 बिजली के तार को अधिक न मोड़ें या इस पर भारी चीजें न रख दें।
+•	 बिजली के तार को खींचे या अधिक मोड़ें नहीं।
+•	 बिजली के तार को मरोड़ें या बाँधें नहीं।
+•	 बिजली के तार को धातु के पदार्थ पर न लटकाएँ, बिजली के तार पर कोई भारी पदार्थ न रखें, बिजली 
+के तार को पदार्थों के बीच न डालें या बिजली के तार को उपकरण के पिछले हिस्से में न खींचें।
+•	 रेफ़्रिजरेटर का स्थान बदलने के दौरान, बिजली के तार को क्षतिग्रस्त न होने दें।
+-
+-
+इसके कारण बिजली का झटका या आग लग सकती है।
+•	 अपने रेफ़्रिजरेटर को बिजली की तार खींच कर कभी भी अनप्लग न करें। प्लग को हमेशा सख्ती से 
+पकड़ें और आउटलेट से सीध में निकालें।
+-
+-
+तार में क्षति के कारण शॉर्ट-सर्किट हो सकता है, आग और/या बिजली का झटका लग सकता है।
+•	 रेफ़्रिजरेटर के पास ऐरोसॉल्स का उपयोग न करें।
+-
+-
+रेफ़्रिजरेटर के पास ऐयरोसोल्स का उपयोग करने से विस्फोट हो सकता है या आग लग सकती है।
+•	 इस उपकरण को किसी हीटर या ज्वलनशील सामग्री के पास स्थापित न करें।
+•	 इस उपकरण को किसी ऐसे स्थान पर स्थापित न करें जहाँ गैस रिस सकती हो।
+-
+-
+इसके कारण बिजली का झटका या आग लग सकती है।
+•	 यह रेफ़्रिजरेटर आपके द्वारा उपयोग होने के पहले इस पुस्तिका में दिए निर्देशों के अनुसार उचित 
+तरीके से अवस्थित और स्थापित होना चाहिए।
+•	 तार को नीचे लटकाकर बिजली के प्लग को उचित स्थिति में कनेक्ट करें।
+-
+-
+अगर आप बिजली के प्लग को उल्टा लगाते हैं, तो तार कट सकता है और आग या बिजली का 
+झटका लग सकता है।
+•	 रेफ़्रिजरेटर के पिछले हिस्से द्वारा बिजली के प्लग का कुचलना या क्षतिग्रस्त न होना सुनिश्चित करें।
+Untitled-1   5
+8/16/2017   5:21:02 PM
+
+
+--- PAGE 70 (TEXT) ---
+सुरक्षा जानका
+हिंदी
+6 
+सुरक्षा जानका
+•	 पैकिंग सामग्री को बच्चों की पहुँच से दूर रखें।
+-
+-
+यदि कोई बच्चा/बच्ची अपने सिर पर पैकिंग सामग्री रख लेता/लेती है तो दम घुटने के कारण मृत्यु 
+का खतरा होता है।
+•	 उपकरण इस प्रकार रखना चाहिए कि स्थापना के बाद प्लग तक आसानी से पहुँचा जा सके।
+-
+-
+ऐसा करने में विफल रहने पर बिजली के रिसाव के कारण बिजली का झटका या आग लग सकती 
+है।
+•	 इस उपकरण को किसी नम, तेलीय या धूलयुक्त स्थान, किसी ऐसे स्थान पर न रखें जहाँ सीधा 
+सूर्यप्रकाश और पानी (वर्षा की बूंदों) आता हो।
+-
+-
+विद्युतीय हिस्सों में खराब विद्युत-रोधन के कारण बिजली के झटके या आग लग सकती है।
+•	 अगर रेफ़्रिजरेटर में धूल या पानी है, तो बिजली के प्लग को निकाल दें और अपने Samsung 
+इलेक्ट्रॉनिक्स सर्विस सेंटर से संपर्क करें।
+-
+-
+अन्यथा, आग लगने का जोखिम बना रहता है।
+•	 उपकरण के ऊपर खड़े न हों या उपकरण पर वस्तुएँ (जैसे धुलने वाले कपड़े, जली मोमबत्ती, जली 
+सिगरेट, थालियाँ, रसायन, धातु की वस्तुएँ आदि) न रखें।
+-
+-
+इससे बिजली का झटका, आग लग सकती है, उत्पाद में समस्याएँ हो सकती हैं या चोट लग सकती 
+है।
+•	 आरंभ में उत्पाद को प्लग इन करने के पहले सभी सुरक्षात्मक प्लास्टिक परत निकाल दी जानी चाहिए।
+•	 बच्चों पर निगरानी रखी जानी चाहिए ताकि यह सुनिश्चित हो सके कि वे दरवाजा समायोजन के लिए 
+प्रयुक्त स्रैप रिंग या वाटर ट्यूब क्लिप के साथ न खेलें।
+-
+-
+यदि बच्चा स्रैप रिंग या वाटर ट्यूब क्लिप निगल जाता है तो दम घुटने से मौत का खतरा होता है। 
+स्रैप रिंग या वाटर ट्यूब क्लिप को बच्चों की पहुँच से दूर रखें।
+•	 रेफ़्रिजरेटर सुरक्षित तरीके से ग्राउंड किया गया होना चाहिए।
+-
+-
+कोई जाँच-पड़ताल या उपकरण के किसी हिस्से की मरम्मत का प्रयास करने के पहले हमेशा 
+सुनिश्चित कर लें कि आपने रेफ़्रिजरेटर को ग्राउंड कर लिया है। बिजली के लीकेज के कारण बिजली 
+के गंभीर झटके लग सकते हैं।
+•	 गैस पाइप, टेलीफोन लाइन, या अन्य संभावित बिजली-संवाहकों का उपयोग इलेक्ट्रिकल ग्राउंड की तरह 
+कभी न करें।
+-
+-
+बिजली लीकेज रोकने या रेफ़्रिजरेटर से वर्तमान लीकेज के कारण बिजली के झटके से बचने के लिए 
+आपको रेफ़्रिजरेटर को ग्राउंड कर देना चाहिए।
+-
+-
+इससे बिजली का झटका, आग लग सकती है, विस्फोट हो सकता है या उत्पाद में समस्याएँ हो 
+सकती हैं।
+•	 पावर प्लग को वॉल सॉकेट में ठीक से लगाएँ। खराब पावर प्लग, खराब पावर कॉर्ड या ढीले वॉल 
+सॉकेट का उपयोग न करें।
+-
+-
+इसके कारण बिजली का झटका या आग लग सकती है।
+•	 अगर बिजली का तार क्षतिग्रस्त हो, तो इसे निर्माता या उसके किसी सर्विस एजेंट द्वारा तत्काल 
+बदलवाएँ।
+•	 रेफ़्रिजरेटर पर लगा फ्यूज़ योग्य तकनीशियन या सर्विस कंपनी द्वारा ही बदला जाना चाहिए।
+-
+-
+ऐसा करने में विफल रहने पर बिजली का झटका या निजी चोट लग सकती है।
+Untitled-1   6
+8/16/2017   5:21:03 PM
+
+
+--- PAGE 71 (TEXT) ---
+हिंदी  7 
+सुरक्षा जानका
+स्थापना सावधानियाँ
+सावधान
+•	 रेफ़्रिजरेटर के आसपास पर्याप्त स्थान छोड़ें और इसे सपाट सतह पर स्थापित करें।
+-
+-
+अगर आपका रेफ़्रिजरेटर समतल पर न हो, तो कूलिंग क्षमता और स्थायित्व कमजोर हो सकता है।
+-
+-
+उपकरण अंतः क्षेत्र या समन्वायोजन संरचना में मौजूद वायुसंचार स्थान में किसी भी तरह की 
+रूकावटों को न आने दें।
+•	 उपकरण की स्थापना के बाद खाद्य पदार्थ लोड करने और उपकरण को चालू करने से पहले 2 घंटे के 
+लिए उसे खड़ा रखें।
+•	 हम पुरजोर अनुशंसा करते हैं कि आप किसी योग्यता प्राप्त तकनीशियन या सर्विस कंपनी से रेफ़्रिजरेटर 
+स्थापित करवाएँ।
+-
+-
+ऐसा करने में विफल रहने पर बिजली का झटका लग सकता है, आग लग सकती है, विस्फोट हो 
+सकता है, उत्पाद में समस्याएँ हो सकती हैं या चोट लग सकती है।
+महत्वपूर्ण उपयोग चेतावनियाँ
+चेतावनी
+•	 गीले हाथों से बिजली का प्लग बिजली के सॉकेट में नहीं लगाएँ।
+-
+-
+इसके कारण बिजली का झटका लग सकता है।
+•	 उपकरण के शीर्ष पर सामान न रखें।
+-
+-
+जब आप दरवाजा खोलते या बंद करते हैं, तो सामान गिर सकते हैं तथा उससे व्यक्तिगत रूप से 
+चोट लग सकती है और/या उपकरण क्षतिग्रस्त हो सकता है।
+•	 हाथों, पैरों या धातु की वस्तुओं (जैसे चॉपस्टिक, आदि) को रेफ़्रिजरेटर के निचले या पिछले भाग में न 
+डालें।
+-
+-
+इसके कारण बिजली का झटका या चोट लग सकती है।
+-
+-
+किसी भी नुकीले किनारे से व्यक्तिगत रूप से चोट लग सकती है।
+•	 गीले हाथों से फ़्रीजर के अंदरूनी दीवारों या फ़्रीजर में रखे उत्पादों को न छुएँ।
+-
+-
+इससे शीतदंश हो सकता है।
+•	 पानी से भरे पात्र को उपकरण पर न रखें।
+-
+-
+इसके छलकने से आग या बिजली के झटके का खतरा हो सकता है।
+•	 फ़्रीज में अस्थिर या ज्वलनशील वस्तुओं या पदार्थों (बेन्ज़ीन, थिनर, प्रोपेन गैस, अल्कोहल ईथर, LP 
+गैस और ऐसे अन्य उत्पाद) न रखें।
+-
+-
+यह रेफ़्रिजरेटर केवल भोजन के भंडारण के लिए है।
+-
+-
+इसके कारण आग लग सकती है या विस्फोट हो सकता है।
+•	 बच्चों की देखरेख की जानी चाहिए ताकि उनका उपकरण के साथ न खेलना सुनिश्चित किया जा सके।
+-
+-
+उंगलियों को “पिंच-पॉइंट” क्षेत्रों से दूर रखें। दरवाज़ों और कैबिनेट के बीच का स्थान आवश्यक रूप 
+से छोटा होता है। दरवाजा खोलते समय सावधान रहें यदि बच्चे आसपास हों।
+•	 बच्चों को दरवाज़ा या दरवाज़ा
+ पात्र से लटकने न दें। गंभीर चोट लग सकती है।
+Untitled-1   7
+8/16/2017   5:21:03 PM
+
+
+--- PAGE 72 (TEXT) ---
+सुरक्षा जानका
+हिंदी
+8 
+सुरक्षा जानका
+•	 बच्चों को रेफ़्रिजरेटर के भीतर जाने नहीं दें। वे अंदर फंस सकते हैं।
+•	 अपने हाथों को उपकरण के नीचे तल क्षेत्र में डालें।
+-
+-
+किसी भी नुकीले किनारे से व्यक्तिगत चोट लग सकती है।
+•	 रेफ़्रिजरेटर में औषधीय उत्पादों, वैज्ञानिक सामग्रियाँ, या तापमान-संवेदी उत्पादों को न रखें।
+-
+-
+ऐसे उत्पादों को रेफ़्रिजरेटर में नहीं रखा जाना चाहिए जिनके लिए सख्त तापमान नियंत्रणों की 
+आवश्यकता होती है।
+•	 रेफ़्रिजरेटर/फ़्रीजर के अंदर बिजली के उपकरण को न रखें या उनका उपयोग न करें, बशर्ते वे निर्माता 
+द्वारा अनुशंसित श्रेणी के हों।
+•	 अगर आपको औषधि या धूएँ की गंध आती है, तो तुरंत बिजली का प्लग निकाल दें और अपने 
+Samsung इलेक्ट्रॉनिक्स सर्विस सेंटर से संपर्क करें।
+•	 अगर रेफ़्रिजरेटर में धूल या पानी है, तो बिजली के प्लग को निकाल दें और अपने Samsung 
+इलेक्ट्रॉनिक्स सर्विस सेंटर से संपर्क करें।
+-
+-
+अन्यथा, आग लगने का जोखिम बना रहता है।
+•	 बच्चों को ड्रॉअर पर पैर रखने न दें।
+-
+-
+ड्रॉअर टूट सकता है और वे फिसल सकते हैं।
+•	 जब रेफ़्रिजरेटर के पास कोई न हो तो उसके दरवाज़ों को खुला न छोड़ें और बच्चों को रेफ़्रिजरेटर के 
+भीतर प्रवेश न करने दें।
+•	 शिशुओं और बच्चों को दराज के भीतर न जाने दें।
+-
+-
+इसके कारण फंसने की वजह से दम घुटने से मृत्यु हो सकती है या निजी चोट लग सकती है।
+•	 रेफ़्रिजरेटर को खाद्य पदार्थों से ज्यादा न भर दें।
+-
+-
+जब आप दरवाजा खोलते हैं, तो कोई सामान गिर सकता है तथा उससे व्यक्तिगत रूप से चोट लग 
+सकती है या सामग्री क्षतिग्रस्त हो सकती है।
+•	 उपकरण की सतह पर कीटना
+शक जैसे ज्वलनशील पदार्थ का स्प्रे न करें।
+-
+-
+मानवों के लिए खतरनाक होने के साथ-साथ, इसके परिणामस्वरूप बिजली का झटका, आग लग 
+सकती है, या उत्पाद में समस्याएँ आ सकती हैं।
+•	 उंगलियों या अन्य वस्तुओं को वाटर डिस्पेंसर छिद्र, बर्फ़ के शूट, और बर्फ बनाने वाली बकेट में न 
+रखें।
+-
+-
+इससे निजी चोट लग या सामग्री की क्षति हो सकती है।
+•	 किन्हीं तापमान संवेदी पदार्थों जैसे ज्वलनशील स्प्रे, ज्वलनशील वस्तुएँ, सूखी बर्फ, दवाई या रसायनों 
+का उपयोग रेफ़्रिजरेटर के पास न करें या उन्हें रेफ़्रिजरेटर के अंदर न रखें।
+•	 रेफ़्रिजरेटर के अंदरूनी हिस्से को सूखाने के लिए हेयर ड्रायर का उपयोग न करें। दुर्गंध हटाने के लिए 
+रेफ़्रिजरेटर के अंदर जलती मोमबत्ती न रखें।
+-
+-
+इसके कारण बिजली का झटका या आग लग सकती है।
+•	 पानी की टंकी, बर्फ की ट्रे और पानी की क्यूब को केवल पीने योग्य पानी (मिनरल वॉटर या परिष्कृत 
+पानी) से ही भरें।
+-
+-
+टंकी में चाय, जूस या खेल संबंधी पेय-पदार्थ न भरें, इससे रेफ़्रिजरेटर को क्षति पहुँच सकती है।
+Untitled-1   8
+8/16/2017   5:21:03 PM
+
+
+--- PAGE 73 (TEXT) ---
+हिंदी  9 
+सुरक्षा जानका
+•	 उपकरण के ऊपर खड़े न हों या उपकरण पर वस्तुएँ (जैसे धुलने वाले कपड़े, जली मोमबत्ती, जली 
+सिगरेट, थालियाँ, रसायन, धातु की वस्तुएँ आदि) न रखें। इससे बिजली का झटका, आग लग सकती 
+है, उत्पाद में समस्याएँ हो सकती हैं या चोट लग सकती है। पानी से भरे पात्र को उपकरण पर न रखें।
+-
+-
+इसके छलकने से आग या बिजली के झटके का खतरा हो सकता है।
+•	 विहिमीकरण प्रक्रिया को तेज़ करने के लिए निर्माता द्वारा अनुशंसित मशीनी उपकरण या किसी दूसरे 
+उपाय के अलावा किसी अन्य उपकरण या उपाय का उपयोग न करें।
+•	 प्रशीतक सर्किट को क्षति न पहुँचाएँ।
+•	 UV LED लैंप को लंबे समय तक सीधे न घूरें।
+-
+-
+इससे पराबैंगनी किरणों के कारण आँखों को नुकसान हो सकता है।
+•	 फ़्रिज शेल्फ़ उल्टा न लगाएँ। शेल्फ़ स्टॉपर शायद काम न करे।
+-
+-
+इससे काँच की शेल्फ के गिरने के कारण निजी चोट लग सकती है।
+•	 उंगलियों को “पिंच-पॉइंट” क्षेत्रों से दूर रखें। दरवाज़ों और कैबिनेट के बीच का स्थान आवश्यक रूप से 
+छोटा होता है। दरवाजा खोलते समय सावधान रहें यदि बच्चे आसपास हों।
+•	 यदि गैस रिसाव का पता लगता है, तो अग्नि या प्रज्वलन के संभावित स्रोत से बचें और उपकरण वाले 
+कमरे में कुछ समय तक हवा आने दें।
+-
+-
+उपकरण या बिजली के तार को न छूएँ।
+-
+-
+किसी हवादार पंखे का उपयोग न करें।
+-
+-
+एक चिंगारी से विस्फोट या आग लग सकती है।
+•	 केवल निर्माता या इसके सर्विस एजेंटों द्वारा प्रदान की गई LED लैंप का ही उपयोग करें।
+•	 बोतलों को एकदम सटाकर रखना चाहिए ताकि वे गिर न जाएँ।
+•	 यह उत्पाद घरेलू परिवेश में केवल खाद्य पदार्थ के भंडारण के लिए नियत है।
+•	 उंगलियों या अन्य वस्तुओं को वाटर डिस्पेंसर छिद्र, बर्फ़ के शूट, और बर्फ बनाने वाली बकेट में न 
+रखें।
+-
+-
+इससे निजी चोट लग या सामग्री की क्षति हो सकती है।
+•	 स्वयं रेफ़्रिजरेटर की मरम्मत, उसके पुर्जे खोलने या उसे रूपांतरित करने का प्रयास न करें।
+•	 मानक फ्यूज़ के अलावा किसी अन्य फ्यूज़ (जैसे ताँबे, स्टील के तार, आदि) का उपयोग न करें।
+•	 यदि आपके रेफ़्रिजरेटर को मरम्मत या पुनः स्थापित करने की जरूरत है, तो अपने निकटतम सर्विस 
+सेंटर से संपर्क करें।
+-
+-
+ऐसा करने में विफल रहने पर बिजली का झटका लग सकता है, आग लग सकती है, उत्पाद में 
+समस्याएँ हो सकती हैं या चोट लग सकती है।
+•	 यदि आंतरिक या बाहरी LED लैंप खराब हो जाता है, तो अपने निकटतम सर्विस सेंटर से संपर्क करें।
+•	 यदि रेफ़्रिजरेटर से जलने की गंध या धुआँ निकलता है, तो रेफ़्रिजरेटर को तत्काल अनप्लग करें और 
+अपने Samsung इलेक्ट्रॉनिक्स सर्विस सेंटर से संपर्क करें।
+-
+-
+ऐसा करने में विफल रहने पर बिजली या आग के जोखिम हो सकते हैं।
+•	 रेफ़्रिजरेटर के अंदरुनी लैंप को बदलने से पहले पावर प्लग को सॉकेट से बाहर निकाल लें।
+-
+-
+अन्यथा, बिजली के झटके का जोखिम बना रहता है।
+•	 यदि आपको गैर-LED लाइट बदलने में परेशानी होती है, तो Samsung सर्विस सेंटर से संपर्क करें।
+•	 अगर उत्पाद में LED लैम्प लगे हैं, तो स्वयं लैंप कवर और LED लैम्प को न खोलें।
+-
+-
+किसी Samsung सर्विस सेंटर से संपर्क करें।
+Untitled-1   9
+8/16/2017   5:21:03 PM
+
+
+--- PAGE 74 (TEXT) ---
+सुरक्षा जानका
+हिंदी
+10 
+सुरक्षा जानका
+•	 पावर प्लग को वॉल सॉकेट में ठीक से लगाएँ।
+•	 खराब पावर प्लग, पावर कॉर्ड या ढीले वॉल सॉकेट का उपयोग न करें।
+-
+-
+इसके कारण बिजली का झटका या आग लग सकती है।
+उपयोग सावधानियाँ
+सावधान
+•	 उन जमे भोजनों को फिर न जमाएँ जो पूरी तरह पिघल चुकें हैं। कार्बोनेट युक्त या गैस युक्त पेय 
+पदार्थों को फ़्रीजर कंपार्टमेंट में न रखें। बोतल या काँच के पात्रों को फ़्रीजर में न रखें।
+-
+-
+जब अंदर रखा पदार्थ जम जाता है, तो काँच टूट सकता है और निजी चोट लग सकती है।
+•	 केवल रेफ़्रिजरेटर के साथ प्रदान किए गए आइस मेकर का उपयोग करें।
+•	 क्या रेफ़्रिजरेटर की पानी आपूर्ति केवल पीने योग्य पानी के आपूर्ति से जुड़ी है। आइस मेकर को सुचारु 
+रूप से कार्य करने के लिए 20 ~ 125 psi (138 ~ 862 kPa) पानी के दाब की आवश्यकता होती 
+है। अगर आप लंबे समय तक घर से बाहर रहेंगे (उदाहरण के लिए, छुट्टी पर) और वॉटर या आइस 
+डिस्पेंसर का उपयोग नहीं करेंगे, तो पानी के वॉल्व को बंद कर दें।
+-
+-
+अन्यथा, पानी का रिसाव हो सकता है।
+•	 अगर आप लंबे समय से रेफ़्रिजेरेटर का उपयोग नहीं कर रहे हैं, (3 सप्ताह या अधिक) तो आइसमेकर 
+बकेट सहित रेफ़्रिजेरेटर को खाली करें, उसका प्लग निकालें, वाटर वॉल्व बंद करें, अंदर की दीवारों से 
+नमी को पोंछें और गंध तथा फ़फूंदी रोकने के लिए दरवाज़े खुले रहने दें।
+•	 उत्पाद से सर्वश्रेष्ठ प्रदर्शन पाने के लिए:
+-
+-
+खाद्य पदार्थ को रेफ़्रिजरेटर के पिछले भाग में निकासों के बिल्कुल निकट न रखें क्योंकि इससे 
+रेफ़्रिजरेटर कंपार्टमेंट में स्वतंत्र वायु संचार बाधित हो सकता है।
+-
+-
+भोजन को रेफ़्रिजरेटर में रखने से पहले उचित तरीके से ढकें या किसी वायुरुद्ध पात्र में रखें।
+-
+-
+ग्लास बोतल या कार्बोनेट किए गए पेय-पदार्थों को फ़्रीजर में न रखें। वे जम सकते हैं और टूट 
+सकते हैं। पेय पदार्थों के टूटे पात्रों के कारण चोट लग सकती है।
+-
+-
+कृपया फ़्रोजन सामानों के अधिकतम संग्रहण समय और समापन तिथियों का ध्यान रखें।
+-
+-
+अगर आप तीन सप्ताह से कम समय के लिए बाहर हैं तो रेफ़्रजरेटर को बिजली आपूर्ति से 
+डिस्कनेक्ट करने का आवश्यकता नहीं है। हालांकि, अगर आप तीन सप्ताह से अधिक बाहर रहेंगे, 
+तो आइस बकेट से सभी खाद्य पदार्थों और बर्फ को बाहर निकाल दें, रेफ़्रिजरेटर का प्लग निकाल 
+दें, पानी के वॉल्व को बंद कर दें, भीतरी दीवारों से अतिरिक्त नमी को पोंछ दें और दुर्गंध और 
+फफूंद से बचने के लिए दरवाजे को खुला छोड़ दें।
+•	 ग्लास या बोतल या कार्बोनेट किए गए पेय-पदार्थों को फ़्रीजर में न रखें।
+-
+-
+पात्र जम या टूट सकता है और इससे चोट लग सकती है।
+•	 कार्बोनेट युक्त या गैस युक्त पेय पदार्थों को फ़्रीजर कंपार्टमेंट में न रखें। बोतल या काँच के पात्रों को 
+फ़्रीजर में न रखें।
+-
+-
+जब अंदर रखा पदार्थ जम जाता है, तो काँच टूट सकता है और निजी चोट लग सकती है और 
+संपत्ति को क्षति हो सकती है।
+Untitled-1   10
+8/16/2017   5:21:03 PM
+
+
+--- PAGE 75 (TEXT) ---
+हिंदी  11 
+सुरक्षा जानका
+•	 सर्विस वारंटी और रूपांतरण।
+-
+-
+इस तैयार उपकरण पर तृतीय पक्ष द्वारा किया गया कोई भी परिवर्तन या रूपांतरण Samsung 
+वारंटी सेवा में शामिल नहीं होता है, और न ही तृतीय पक्ष के रूपांतरणों से होने वाली सुरक्षा 
+समस्याओं के लिए Samsung ज़िम्मेदार है।
+•	 रेफ़्रिजरेटर के भीतर हवा के निकासी छिद्र अवरूद्ध न करें।
+-
+-
+अगर वायु निकास अवरोधित हो जाते हैं, विशेष रूप से प्लास्टिक बैग से, तो रेफ़्रिजरेटर आवश्यकता 
+से अधिक ठंडा हो सकता है। अगर कूलिंग अवधि बहुत देर तक बनी रहती है, तो पानी का फ़िल्टर 
+टूट सकता है और पानी रिस सकता है।
+•	 केवल रेफ़्रिजरेटर के साथ प्रदान किए गए आइस-मेकर का उपयोग करें।
+•	 भीतर से अधिक नमी को पोंछ दें और दरवाज़ों को खुला छोड़ दें।
+-
+-
+अन्यथा, दुर्गंध और फफूँद उत्पन्न हो सकती है।
+•	 यदि रेफ़्रिजरेटर को बिजली आपूर्ति से डिस्कनेक्ट कर दिया गया है, तो वापस प्लग इन करने के लिए 
+आपको कम से कम पाँच मिनट तक प्रतीक्षा करना चाहिए।
+•	 अगर आपने लंबी छुट्टी की योजना बना रखी है या लंबे समय तक रेफ़्रिजरेटर का उपयोग नहीं करने का 
+इरादा है (3 सप्ताह या उससे अधिक), तो आइस बकेट समेत रेफ़्रिजरेटर को खाली कर दें, पावर प्लग 
+को खींच कर बाहर निकाल दें, वॉटर वॉल्व बंद कर दें, भीतर की दीवारों से अतिरिक्त नमी को पोंछ दें 
+और दुर्गंध तथा फफूंद से बचने के लिए दरवाजे को खुला छोड़ दें।
+•	 जब रेफ़्रिजरेटर पानी से भीग जाए, तो बिजली के प्लग को निकाल दें और अपने Samsung 
+इलेक्ट्रॉनिक्स सर्विस सेंटर से संपर्क करें।
+•	 शीशे की सतह पर प्रहार न करें या अत्यधिक बल प्रयोग न करें।
+-
+-
+टूटे काँच से निजी चोट और/या संपत्ति को क्षति हो सकती है।
+•	 पानी की टंकी और आइस क्यूब ट्रे को केवल पीने योग्य पानी (टैप का पानी, मिनरल वॉटर, या विशुद्ध 
+पानी) से भरें।
+-
+-
+टंकी को चाय या स्पोर्ट्स ड्रिंक से न भरें। इससे रेफ़्रिजरेटर को नुकसान पहुँच सकता है।
+•	 सावधान रहें कि यह आफकी उंगलियों पर न लगे।
+•	 यदि रेफ़्रिजरेटर में पानी भर गया है, तो अपने निकटतम सर्विस सेंटर से संपर्क करें।
+-
+-
+इससे बिजली के झटके या आग का जोखिम होता है।
+•	 वनस्पति तेल को अपने रेफ़्रिजरेटर के डोर बिन में न रखें। इससे तेल जम सकता है, जिससे कि इसका 
+स्वाद खराब हो जाता है और इसे उपयोग करने में परेशानी होती है। इसके अतिरिक्त, खुला हुआ 
+कंटेनर लीक हो सकता है और लीक होने वाले तेल की वजह से डोर बिन में दरार आ सकती है। तेल 
+का कंटेनर खोलने के बाद इसे किसी अलमारी या पैंट्री जैसे किसी ठंडे और छायादार स्थान में रखना 
+बहुत अच्छा रहता है।
+-
+-
+वनस्पति तेल के उदाहरणों निम्न शामिल हैं: जैतून का तेल, मक्के का तेल, अंगूर के बीज का तेल 
+आदि। 
+Untitled-1   11
+8/16/2017   5:21:03 PM
+
+
+--- PAGE 76 (TEXT) ---
+सुरक्षा जानका
+हिंदी
+12 
+सुरक्षा जानका
+सफ़ाई सावधानियाँ
+सावधान
+•	 रेफ़्रिजरेटर के अंदर या बाहर पानी का सीधा छिड़काव न करें।
+-
+-
+इससे आग या बिजली के झटके का खतरा होता है।
+•	 रेफ़्रिजरेटर के अंदरूनी हिस्से को सूखाने के लिए हेयर ड्रायर का उपयोग न करें।
+•	 दुर्गंध हटाने के लिए रेफ़्रिजरेटर के अंदर जलती मोमबत्ती न रखें।
+-
+-
+इसके कारण बिजली का झटका या आग लग सकती है।
+•	 प्रदर्शन पर सफाई उत्पादों को सीधे स्प्रे न करें।
+-
+-
+प्रदर्शन पर लगे मुद्रित पत्र छूट सकते हैं।
+•	 अगर कोई बाहरी पदार्थ जैसे पानी उपकरण में प्रवेश कर गया है, तो बिजली के प्लग को निकाल दें 
+और अपने निकटतम सर्विस सेंटर से संपर्क करें।
+-
+-
+ऐसा करने में विफल रहने पर बिजली का झटका या आग लग सकती है।
+•	 बिजली के प्लग से किन्हीं बाहरी पदार्थ या धूल हटाने के लिए साफ़, सूखे कपड़े का उपयोग करें। प्लग 
+साफ़ करते समय गीले या नम कपड़े का उपयोग नहीं करें।
+-
+-
+अन्यथा, इससे आग या बिजली के झटके का खतरा होता है।
+•	 उपकरण पर सीधे पानी का स्प्रे करके उसे साफ न करें।
+•	 सफाई के लिए बेंजीन, थिनर, या क्लोरोक्स, क्लोराइड का उपयोग न करें।
+-
+-
+वे उपकरण की सतह को क्षति पहुँचा सकते हैं और आग लगा सकते हैं।
+•	 डिस्पेंसर के छिद्र में उंगलियाँ या अन्य वस्तुएँ कभी न डालें।
+-
+-
+इससे निजी चोट लग या सामग्री की क्षति हो सकती है।
+•	 सफाई या रखरखाव करने से पहले, उपकरण का प्लग दीवार के सॉकेट से निकाल दें।
+-
+-
+ऐसा करने में विफल रहने पर बिजली का झटका या आग लग सकती है।
+•	 रेफ़्रिजरेटर को साफ़ करने के लिए किसी साफ़ स्पंज या कपड़े और गर्म पानी में गुनगुने डिटरजेंट का 
+उपयोग कैसे करें।
+•	 बाहरी सतहों (दरवाज़े और कैबिनेट), प्लास्टिक के भाग, डोर व इंटीरियर लाइनर्स तथा गास्केट पर 
+अपघर्षक या तेज़ क्लीनज़र जैसे कि विंडो स्प्रे, रगड़कर सफ़ाई करने वाले क्लीनज़र, ज्वलनशील द्रव 
+पदार्थ, लवणीय तेज़ाब, क्लीनिंग वैक्स, गाढ़ा डिटरजेंट, ब्लीच या पैट्रोलियम उत्पादों वाले क्लीनज़र का 
+उपयोग न करें। 
+-
+-
+इससे सामग्री पर स्क्रैच पड़ सकता है या वह खराब हो सकती है।
+•	 जब ग्लास शेल्फ़ या कवर ठंडे हों, तब उन्हें गर्म पानी से साफ़ न करें। अगर ग्लास शेल्फ़ और कवर 
+अचानक से बदलते तापमान के संपर्क में आते हैं या कोई उछाल या गिरावट होती है, तो ये टूट सकते 
+हैं।
+Untitled-1   12
+8/16/2017   5:21:04 PM
+
+
+--- PAGE 77 (TEXT) ---
+हिंदी  13 
+सुरक्षा जानका
+महत्वपूर्ण निपटान चेतावनियाँ
+चेतावनी
+•	 कृपया इस उत्पाद की पैकेजिंग सामग्री का निपटान पर्यावरण-अनुकूल तरीके से करें।
+•	 निपटान से पहले सुनिश्चित करें कि रेफ़्रिजरेटर के पीछे लगा कोई भी पाइप क्षतिग्रस्त नहीं है।
+•	 रेफ़्रिजरेंट के रूप में R-600a या R-134a का उपयोग किया जाता है। आपके रेफ़्रिजरेटर के लिए 
+उपयोग किए गए प्रशीतक का पता लगाने के लिए उपकरण के पिछले हिस्से में कंप्रेशर लेबल या फ़्रिज 
+के अंदर रेटिंग लेबल देखें। यदि इस रेफ़्रिजरेटर में ज्वलनशील गैस (रेफ़्रिजरेंट R-600a) मौजूद है, तो 
+इस उत्पाद के सुरक्षित निपटान के संबंध में स्थानीय प्राधिकरण से संपर्क करें।
+•	 इस रेफ़्रिजरेटर का निपटान करते समय, दरवाज़ा/दरवाज़ा की सील, दरवाज़ा की सिटकनी निकाल दें 
+ताकि छोटे बच्चे या जानवर इसके अंदर न फँस जाएँ। बच्चों की देखरेख की जानी चाहिए ताकि उनका 
+उपकरण के साथ न खेलना सुनिश्चित किया जा सके। अंदर फँस जाने पर, बच्चों को चोट लग सकती 
+है या दम घुटने से मृत्यु हो सकती है।
+-
+-
+अंदर फँसने पर बच्चों को चोट लग सकती है और दम घुटने से मृत्यु हो सकती है।
+•	 रोधन में साइक्लोपेंटेन का उपयोग होता है। रोधन सामग्री में मौजूद गैसों के लिए विशेष निपटान 
+प्रक्रिया की आवश्यकता होती है। इस उत्पाद के पर्यावरण की दृष्टि से सुरक्षित निपाटन के संबंध में 
+अपने स्थानीय प्राधिकरणों से संपर्क करें।
+•	 सभी पैकेजिंग सामग्रियों को बच्चों की पहुँच से दूर रखें, क्योंकि पैकेजिंग सामग्रियाँ बच्चों के लिए 
+खतरनाक हो सकती हैं।
+-
+-
+यदि कोई बच्चा अपने सिर पर बैग रख लेता है, तो बच्चे का दम घुट सकता है।
+Untitled-1   13
+8/16/2017   5:21:04 PM
+
+
+--- PAGE 78 (TEXT) ---
+सुरक्षा जानका
+हिंदी
+14 
+सुरक्षा जानका
+उचित उपयोग के लिए अतिरिक्त युक्तियाँ
+•	 बिजली चले जाने की स्थिति में, अपनी बिजली कंपनी के स्थानीय कार्यालय को कॉल करें और पूछें कि 
+बिजली कब तक आएगी।
+-
+-
+एक या दो घंटों में सुधार ली जाने वाली अधिकतर बिजली खराबियाँ आपके रेफ़्रिजरेटर तापमानों को 
+प्रभावित नहीं करेंगी। हालाँकि, बिजली न होने पर आपको दरवाज़ा बार-बार नहीं खोलना चाहिए।
+-
+-
+लेकिन अगर बिजली 24 घंटे से अधिक समय तक नहीं आती है, तो सभी फ़्रोजन खाद्य पदार्थों को 
+निकालें और फेंक दें।
+•	 रेफ़्रिजरेटर संभवतः लगातार काम न कर सके (फ़्रोजन सामग्रियों में गरमाहट आ सकती है या फ़्रोजन 
+कंपार्टमेंट में तापमान बहुत गर्म हो सकता है) यदि इसे किसी ऐसे स्थान पर लंबे समय के लिए रखा 
+जाए जहाँ का परिवेशी वायु तापमान उस तापमान से लगातार कम हो जिसमें काम करने के लिए इस 
+उपकरण को तैयार किया गया है।
+•	 विशेष खाद्य पदार्थों के मामले में, उन्हें प्रशीतन के तहत रखने से उनके गुणों के संरक्षण पर बुरा असर 
+हो सकता है।
+•	 आपका उपकरण तुषार मुक्त है, जिसका अर्थ है कि अपने उपकरण को मैन्युअल रूप से विहिमीकृत 
+करने की आवश्यकता नहीं है। यह स्वचालित रूप से हो जाएगा।
+•	 विहिमीकरण के दौरान तापमान में बढ़ोतरी ISO अपेक्षाओं का अनुपालन करती है। अगर आप उपकरण 
+के विहिमीकरण के दौरान फ़्रोजन खाद्य पदार्थ के तापमान में अनावश्यक वृद्धि से बचना चाहते हैं, तो 
+फ़्रोजन खाद्य पदार्थ को समाचारपत्र की कई परतों में लपेट दें।
+•	 उन जमे भोजनों को फिर न जमाएँ जो पूरी तरह पिघल चुकें हैं।
+•	 दो सितारा अनुभाग (अनुभागों) या ऐसे कंपार्टमेंट का तापमान,जिनमें दो सितारा प्रतीक (
+) बना हुआ 
+हो, अन्य फ़्रीज़र कंपार्टमेंट से कुछ अधिक होता है।
+दो सितारा खंड या कंपार्टमेंट निर्देश पर और/या सुपुर्द करते समय की स्थिति पर आधारित होते हैं।
+बिजली की बचत करने की युक्तियाँ
+•	 उपकरण को पर्याप्त हवा वाले एक ठंडे, सूखे कमरे स्थापित करें। सुनिश्चित करें कि इस पर सीधी धूप 
+न पड़े और इसे कभी भी इसे गर्मी के प्रत्यक्ष स्रोत (उदाहरण के लिए रेडिएटर) के पास न रखें।
+•	 ऊर्जा दक्षता के लिए किसी निकास द्वारा और ग्रिल को अवरुद्ध न करने की सिफ़ारिश की जाती है।
+•	 गर्म भोजन को उपकरण में रखने से पहले भोजन को ठंडा होने दें।
+•	 पिघलाने के लिए जमे हुए भोजन को रेफ़्रिजरेटर में रखें। तब आप रेफ़्रिजरेटर में भोजन को ठंडा करने 
+के लिए जमे उत्पादों के निम्न तापमानों का उपयोग कर सकते हैं।
+•	 भोजन रखते या बाहर निकालते समय रेफ़्रिजरेटर के दरवाज़े को बहुत देर तक खोलकर न रखें। दरवाज़ा 
+खुला रहने का समय जितना कम होगा, फ़्रीजर में उतना ही कम विहिमीकरण होगा।
+•	 रेफ़्रिजरेटर को पीछे और बाज़ू कोई अवरोध न रखते हुए संस्थापन की सिफ़ारिश की जाती है। इससे 
+बिजली की खपत को कम करने और आपके बिजली की बिलों को कम बनाए रखने में मदद मिलेगी।
+•	 ऊर्जा के सबसे प्रभावी उपयोग के लिए, कृपया भीतर की सभी फिटिंग जैसे टोकरी, दराज, शेल्फ़ को 
+उसी स्थान पर रखें जैसा निर्माता द्वारा आपूर्ति किया गया है।
+Untitled-1   14
+8/16/2017   5:21:04 PM
+
+
+--- PAGE 79 (TEXT) ---
+हिंदी  15 
+सुरक्षा जानका
+यह उपकरण केवल घरेलू या इसी प्रकार के स्थानों पर उपयोग किए जाने के लिए बनाया 
+गया है, जैसे कि
+•	 दुकानों, कार्यालयों और अन्य कार्यस्थलों में कर्मचारियों के लिए बने रसोईघरों में;
+•	 फ़ार्म हाउस में और होटलों, मोटलों और अन्य आवासीय स्थानों पर क्लाइंट द्वारा;
+•	 विश्राम और खान-पान वाले परिवेश में;
+•	 केटरिंग और इसी प्रकार के गैर-खुदरा स्थानों पर।
+WEEE के बारे में निर्देश
+इस उत्पाद का सही निपटान (अपशिष्ट इलेक्ट्रिकल एवं इलेक्ट्रॉनिक उपकरण)
+(पृथक संग्रहण प्रणालियों वाले देशों में लागू)
+इस उत्पाद, सहायक उपकरणों या इसके दस्तावेज़ों पर स्थित चिह्नांकन दर्शाता 
+है कि इस उत्पाद, इसके इलेक्ट्रॉनिक सहायक उपकरणों (जैसे चार्जर, हैडसेट, 
+USB केबल) का जीवनकाल समाप्त होने पर उनका निपटान अन्य घरेलू कचरे 
+के साथ नहीं किया जाना चाहिए। अनियंत्रित अपशिष्ट निपटान से पर्यावरण 
+और मनुष्यों को होने वाले नुकसान को रोकने के लिए, कृपया इन आइटम को 
+अन्य प्रकार के कचरे से अलग कर दें और सामग्री संसाधनों के दीर्घकालिक 
+पुनः उपयोग को बढ़ावा देने के लिए उन्हें ज़िम्मेदारी से रिसाइकल करें।
+सुरक्षित निपटान और रिसाइकल करने के बारे में अधिक जानकारी के लिए 
+हमारी वेबसाइट www.samsung.com/in/support पर जाएँ या नीचे दिए 
+हमारे हेल्पलाइन नंबर - 1800 40 SAMSUNG (1800 40 7267864) पर 
+संपर्क करें।
+Untitled-1   15
+8/16/2017   5:21:04 PM
+
+
+--- PAGE 80 (TEXT) ---
+हिंदी
+16 
+स्थापना
+इस रेफ़्रिजरेटर की उचित स्थापना और इसके उपयोग से पहले दुर्घटनाओं की रोकथाम सुनिश्चित करने के 
+लिए इन निर्देशों का ध्यानपूर्वक पालन करें।
+चेतावनी
+•	 रेफ़्रिजरेटर का उपयोग इस निर्देश पुस्तिका में वर्णित नियत उद्देश्य के लिए ही करें।
+•	 किसी भी प्रकार की सर्विसि
+ंग केवल योग्यता-प्राप्त तकनीशियनों द्वारा की जानी चाहिए।
+•	 उत्पाद पैकेजिंग सामग्रियों का निपटान स्थानीय विनियमों के अनुसार करें।
+•	 बिजली के झटकों से बचने के लिए, सर्विंसिंग या पुर्जा बदलने से पहले प्लग को निकाल दें।
+रेफ़्रिजरेटर एक नज़र में
+आपके रेफ़्रिजरेटर की वास्तविक दिखावट, मॉडल और देश के अनुसार भिन्न हो सकती है।
+RH58*
+11
+01
+02
+03
+08
+09
+07
+15
+05
+06
+10
+12
+14
+04
+स्थापन
+Untitled-1   16
+8/16/2017   5:21:05 PM
+
+
+--- PAGE 81 (TEXT) ---
+हिंदी  17 
+स्थापन
+RH62*
+14
+12
+04
+13
+05
+07
+10
+06
+03
+01
+16
+02
+01	फ़्रीजर शेल्फ़
+02	बहु-उद्देशीय फ़्रीज़र गार्ड
+03	सूखा भोजन और माँस 
+संग्रहण पात्र
+04	चीज़ केस
+05	सॉस केस
+06	रेफ़्रिजरेटर शेल्फ़
+07	ड्रिंक केस
+08	सब्जी बिन
+09	बहु-उद्देशीय पात्र
+10	अंटे का कंटेनर *
+11	आइस मेकर बकेट **
+12	मूविंग ट्रे *
+13	एलिवेशन गार्ड *
+14	एंटी बैक्टीरिया फिल्टर *
+15	वाटर फिल्टर **
+16	बर्फ़ की ट्रे *
+* केवल उपयुक्त मॉडल
+** केवल डिस्पेंसर मॉडल
+Untitled-1   17
+8/16/2017   5:21:05 PM
+
+
+--- PAGE 82 (TEXT) ---
+स्थापन
+हिंदी
+18 
+स्थापन
+नोट
+अंडे के कंटेनर की डिज़ाइन मॉडल से अलग हो सकती है।
+सावधान
+•	 पानी से भरे होने पर मूविंग ट्रे को फ़्रीजर में नहीं रखें। वाटर फ़्रीज़र और मूविंग ट्रे ब्रेक।
+•	 अंदर का केस खुला होने पर शो केस को न खोलें। संभावना
+ है कि शो केस को पीछे की ओर धक्का 
+लगेगा और उस क्षति पहुँच सकती है।
+Untitled-1   18
+8/16/2017   5:21:06 PM
+
+
+--- PAGE 83 (TEXT) ---
+हिंदी  19 
+स्थापन
+चरण-दर-चरण स्थापना
+चरण 1 कोई एक साइट चुनें
+स्थान की आवश्यकताएँ:
+•	 ठोस, समतल सतह बगैर किसी प्रकार के कार्पेट या फ़्लोरिंग के जो कि वेंटिलेशन को बाधित कर सकते 
+हैं
+•	 सीधी धूप से दूर
+•	 दरवाज़ा खोलने और बंद करने के लिए पर्याप्त जगह
+•	 गर्मी के स्रोत से दूर
+•	 रख-रखाव और सर्विसि
+ंग के लिए जगह
+•	 तापमान सीमा: 5 °C से 43 °C के बीच
+प्रभावी तापमान सीमा
+रेफ़्रिजरेटर को इस प्रकार डिज़ाइन किया गया है कि यह अपनी श्रेणी रेटिंग में निर्दिष्ट तापमान सीमा में 
+सामान्य रूप से काम करे।
+श्रेणी
+प्रतीक
+परिवेशी तापमान सीमा (°C)
+IEC 62552 (ISO 
+15502)
+ISO 8561
+विस्तृत परिमित
+SN
++10 से +32 तक
++10 से +32 तक
+परिमित
+N
++16 से +32 तक
++16 से +32 तक
+उपोष्णकटिबंधीय
+ST
++16 से +38 तक
++18 से +38 तक
+उष्णकटिबंधीय
+T
++16 से +43 तक
++18 से +43 तक
+नोट
+रेफ़्रिजरेटर का कूलिंग प्रदर्शन और बिजली उपभोग परिवेशी तापमान, दरवाज़ा खुलने की आवृत्ति, 
+रेफ़्रिजरेटर के स्थान से प्रभावित हो सकता है। हम तापमान सेटिंग को उपयुक्ततानुसार समायोजित करने 
+की अनुशंसा करते हैं।
+Untitled-1   19
+8/16/2017   5:21:06 PM
+
+
+--- PAGE 84 (TEXT) ---
+स्थापन
+हिंदी
+20 
+स्थापन
+क्लीयरेंस
+स्थापना के लिए स्थान की आवश्यकताओं के बारे में जानने के लिए नीचे प्रदान चित्र और तालिका देखें।
+A
+B
+C
+E
+D
+गहराई “A”
+718
+चौड़ाई “B”
+908
+ऊँचाई “C”
+1796
+संपूर्ण ऊँचाई “D”
+1825
+गहराई “E”
+721
+(इकाई: मिमी)
+01
+02
+02
+04
+05
+06
+07
+08
+09
+03
+01	50 मिमी
+02	165°
+03	468 मिमी
+04	1725 मिमी
+05	610 मिमी
+06	908 मिमी
+07	34 मिमी
+08	31 मिमी
+09	1170 मिमी
+नोट
+ऊपर तालिका में प्रदान माप मापन पद्धति के अनुसार भिन्न हो सकता है।
+Untitled-1   20
+8/16/2017   5:21:06 PM
+
+
+--- PAGE 85 (TEXT) ---
+हिंदी  21 
+स्थापन
+चरण 2 WiFi कनेक्शन
+आप अलग से बेजे जाने वाले स्मार्ट होम डॉन्गल का उपयोग करके रेफ़्रिजरेटर को दूर से नियंत्रित कर 
+सकते हैं। स्मार्ट होम डॉन्गल को खरीदने के लिए, www.samsung.com पर जाएँ और डॉन्गल के बारे में 
+उत्पाद जानकारी का पालन करें।
+सावधानी
+•	 Samsung स्मार्ट होम डोंगल दो प्रकार के होते हैं: पहले वे जो कि Samsung स्मार्ट टीवी के लिए 
+बनाए जाते हैं और दूसरे वे जो Samsung के घर में उपयोग किए जाने वाले उपकरणों के लिए बनाए 
+जाते हैं।
+•	 आपको घर में उपयोग किए जाने वाले उपकरणों के लिए बनाए गए Samsung स्मार्ट होम डोंगल की 
+खरीदारी करनी होगी। किसी भी अन्य डोंगल से सिस्टम में खराबी आ सकती है।
+1.	 डॉन्गल कवर के तीर वाले क्षेत्र को अनलॉक 
+करने के लिए दबाएँ।
+2.	 डॉन्गल कवर को खोलें।
+3.	 स्मार्ट होम डॉन्गल को डॉन्गल पोर्ट में सही 
+दिशा में लगाएँ।
+Untitled-1   21
+8/16/2017   5:21:07 PM
+
+
+--- PAGE 86 (TEXT) ---
+स्थापन
+हिंदी
+22 
+स्थापन
+4.	 पहले डॉन्गल कवर के ऊपरी हिस्से को लगाएँ 
+और फिर लॉक करने के लिए बंद करें, जैसा कि 
+दिखाया गया है।
+नोट
+चिह्नित क्षेत्र वैकल्पिक डॉन्गल का कवर है, न कि 
+दरार या खराबी है।
+चरण 3 सतह
+•	 जिस सतह पर रेफ़्रिजरेटर को रखा जाएगा, वह 
+पूरी तरह से लोड किए गए रेफ़्रिजरेटर का भार 
+संभालने योग्य होनी चाहिए।
+•	 फ़र्श की सुरक्षा के लिए, रेफ़्रिजरेटर के प्रत्येक 
+पाँव के नीचे कार्डबोर्ड का एक बड़ा टुकड़ा रख 
+दें।
+•	 रेफ़्रिजरेटर के अपने अंतिम स्थान पर आ जाने 
+के बाद, इसे तब तक न हिलाएँ जब तक फ़र्श 
+की सुरक्षा के लिए ऐसा करना आवश्यक न हो। 
+यदि आपको ऐसा करना पड़े, तो स्थानांतरण 
+पथ पर मोटे कागज़ या कपड़े जैसे कि पुराने 
+कार्पेट का उपयोग करें।
+नोट
+अगर अपने आकार के कारण रेफ़्रिजरेटर प्रवेश द्वार से गुजर नहीं सकता है, तो रखरखाव अध्याय के प्रवेश 
+अनुभाग में दरवाजा निकालने वाला
+ भाग देखें।
+Untitled-1   22
+8/16/2017   5:21:07 PM
+
+
+--- PAGE 87 (TEXT) ---
+हिंदी  23 
+स्थापन
+चरण 4 समतलीकरण पाया को समायोजित करें
+सावधान
+•	 रेफ़्रिजरेटर को सपाट, ठोस फ़र्श पर समतल होना चाहिए। ऐसा करने में असफल होने से रेफ़्रिजरेटर 
+क्षतिग्रस्त हो सकता है या शारीरिक चोट लग सकती है।
+•	 समतलीकरण खाली रेफ़्रिजरेटर के साथ करना चाहिए। सुनिश्चित करें कि कोई भी खाद्य पदार्थ 
+रेफ़्रिजरेटर के अंदर न हो।
+•	 सुरक्षा कारणों से, सामने के हिस्से को पीछे के हिस्से के मुकाबले थोड़ा ऊपर रखें।
+रेफ़्रिजरेटर को सामने के पांव का उपयोग करके लेवल किया जा सकता है जिसमें समतलीयकरण प्रक्रिया के 
+लिए विशेष स्क्रू (संतलक) है। समतल करने के लिए फ़्लैट-हेड स्क्रूड्राइवर का उपयोग करें।
+फ़्रीज़र वाली तरफ से ऊँचाई को समायोजित करने 
+के लिए:
+फ़्रीज़र वाली तरफ से सामने के पांव के संतलक में 
+फ़्लैट-हेड स्क्रूड्राइवर डालें। उठाने के लिए संतलक 
+को घड़ी की सुई की दिशा में घुमाएँ या नीचे करने 
+के लिए घड़ी की सुई की दिशा के विपरीत घुमाएँ।
+फ़्रिज वाली तरफ से ऊँचाई को समायोजित करने 
+के लिए:
+फ़्रिज वाली तरफ से सामने के पांव के संतलक में 
+फ़्लैट-हेड स्क्रूड्राइवर डालें। उठाने के लिए संतलक 
+को घड़ी की सुई की दिशा में घुमाएँ या नीचे करने 
+के लिए घड़ी की सुई की दिशा के विपरीत घुमाएँ।
+Untitled-1   23
+8/16/2017   5:21:08 PM
+
+
+--- PAGE 88 (TEXT) ---
+स्थापन
+हिंदी
+24 
+स्थापन
+चरण 5 दरवाजे की ऊँचाई साथ ही साथ दरवाजे की दूरी को समायोजित करें
+दरवाज़े की ऊँचाई समायोजित करना
+दरवाजे की ऊँचाई प्रत्येक दरवाजे के तल में क्लैंप नट और ऊँचाई नट का उपयोग करके समायोजित की 
+जा सकती है।
+B
+A
+1.	 समायोजित करने के लिए दरवाजे को खोलें 
+और दरवाजे के सामने की तरफ दो नट (A) 
+और (B) का पता लगाएँ।
+A
+2.	 प्रदान किए गए स्पैनर की सहायता से, ढीला 
+करने के लिए क्लैंप नट (A) को घड़ी की दिशा 
+में घुमाएँ। फिर, दरवाजे को खोलें और दरवाजे 
+के भीतर निम्न कार्य करें।
+-
+-
+दरवाजे को उठाने के लिए, ऊँचाई नट (B) 
+को घड़ी की विपरीत दिशा में घुमाएँ।
+-
+-
+दरवाजे को नीचे करने के लिए, ऊँचाई नट 
+(B) को घड़ी की दिशा में घुमाएँ।
+A
+3.	 पूर्ण हो जाने पर, क्लैंप नट (A) घड़ी की 
+विपरीत दिशा में घुमा कर इसे कस दें।
+Untitled-1   24
+8/16/2017   5:21:08 PM
+
+
+--- PAGE 89 (TEXT) ---
+हिंदी  25 
+स्थापन
+दरवाजे और रेफ़्रिजरेटर के बीच की दूरी को ठीक करना
+दूरी को प्रत्येक दरवाजे के पीछे की तरफ शीर्ष 
+पर स्थित गैप बोल्ट का मैन्युअली उपयोग करके 
+समायोजित किया जा सकता है।
+A
+1.	 दूरी को समायोजित करने के लिए, 
+निम्नलिखित कार्य करें:
+-
+-
+दूरी को बढ़ाने के लिए, गैप बोल्ट (A) को 
+घड़ी की दिशा में घुमाएँ।
+-
+-
+दूरी को घटाने के लिए, गैप बोल्ट (A) को 
+घड़ी की विपरीत दिशा में घुमाएँ।
+B
+2.	 दूरी के ठीक हो जाने पर, लॉकिंग नट (B) को 
+घड़ी की दिशा में घुमाकर इसे कस दें।
+Untitled-1   25
+8/16/2017   5:21:09 PM
+
+
+--- PAGE 90 (TEXT) ---
+स्थापन
+हिंदी
+26 
+स्थापन
+चरण 6 पानी के स्रोत से जोड़ें
+सावधान
+•	 पानी की लाइन कुशल तकनीशियन द्वारा जोड़ा जाना चाहिए।
+•	 आपके रेफ़्रिजरेटर की वारंटी में पानी की लाइन की स्थापना शामिल नहीं है। जब तक विक्रेता के मूल्य 
+में स्थापना शुल्क शामिल न हो पानी की लाइन की स्थापना का खर्चा आपको वहन करना होगा।
+•	 Samsung पानी की लाइन की स्थापना की कोई जिम्मेदारी नहीं लेता है। अगर पानी रिसाव होता है, 
+पानी की लाइन के स्थापक से संपर्क करें।
+ठंडे पानी के पाइप को पानी फ़िल्टरिंग होज़ से जोड़ना
+सावधान
+•	 सुनिश्चित करें कि पानी फ़िल्टरिंग होज़ को ठंडे, पीने योग्य पानी के स्रोत वाले पाइप से जुड़ा हो। गर्म 
+पानी के पाइप से जोड़ने के कारण प्युरिफ़ायर खराब हो सकता है।
+1
+A
+B
+A
+A.	पानी के मुख्य पाइप को बंद करें
+B.	कोई दूरी नहीं
+1.	 मुख्य पानी के वॉल्व को बंद करके पानी की 
+आपूर्ति बंद कर दें।
+2.	 ठंडे, पीने योग्य पानी वाला
+ पानी का पाइप (1) 
+खोजें।
+3.	 पानी के पाइप को जोड़ने के लिए पानी की 
+लाइन की स्थापना निर्देशों का पालन करें।
+4.	 कनेक्शन के पूरा हो जाने पर, मुख्य पानी के 
+वॉल्व को खोलें और लगभग 3 लीटर पानी 
+निकलने दें। यह पाइप के अंदर की अशुद्धियों 
+को हटाने के लिए है।
+Untitled-1   26
+8/16/2017   5:21:09 PM
+
+
+--- PAGE 91 (TEXT) ---
+हिंदी  27 
+स्थापन
+पानी की लाइन से पानी फ़िल्टरिंग होज़ को जोड़ना
+Remove cap
+a
+a
+A
+B
+03
+a
+A.	इकाई से आने वाली पानी की लाइन
+B.	किट से आने वाली पानी की लाइन
+1.	 रेफ़्रिजरेटर के पानी की लाइन से कंप्रेशन नट 
+(a) को ढीला करके निकाल दें और उसे पानी 
+फ़िल्टरिंग होज़ में लगा दें।
+2.	 पानी फ़िल्टरिंग होज़ और पानी की लाइन को 
+जोड़ने के लिए कंप्रेशन नट (a) को कस दें।
+3.	 मुख्य पानी के वॉल्व को खोलें और रिसाव की 
+जाँच करें।
+4.	 अगर कोई रिसाव नहीं होता है, रेफ़्रिजरेटर का 
+वास्तव में उपयोग करने के पहले पानी के 
+फ़िल्टरिंग सिस्टम से अशुद्धियों को निकालने के 
+लिए लगभग 3 लीटर पानी निकालें।
+पानी की लाइन की मरम्मत करना
+सावधान
+पानी की लाइन की मरम्मत योग्य पेशेवर द्वारा की जानी चाहिए। अगर आप पानी का रिसाव पाते हैं, 
+स्थानीय Samsung सेवा केंद्र से या पानी की लाइन के स्थापक से संपर्क करें।
+चरण 7 आरंभिक सेटिंग
+निम्न चरणों को पूरा करने पर, रेफ़्रिजरेटर पूरी तरह से संचालनीय हो जाना चाहिए।
+1.	 रेफ़्रिजरेटर को चालू करने के लिए बिजली के प्लग को दीवार पर लगे सॉकेट में लगाएँ।
+2.	 दरवाज़ा खोलें, और देखें कि अंदरूनी लाइट जले हैं या नहीं।
+3.	 तापमान को सबसे ठंडे तापमान पर सेट करें, और लगभग एक घंटे तक प्रतीक्षा करें। फिर, फ़्रीजर थोड़ा 
+ठंडा हो जाएगा और मोटर आराम से चलने लगेगी।
+4.	 रेफ़्रिजरेटर के तय तापमान पर पहुँचने तक प्रतीक्षा करें। अब रेफ़्रिजरेटर उपयोग के लिए तैयार है।
+चरण 8 अंतिम जाँच
+स्थापना पूरी हो जाने पर, पुष्टि करें कि:
+•	 रेफ़्रिजरेटर का प्लग बिजली के आउटलेट में लगा हो और रेफ़्रिजरेटर उचित ढंग से ग्राउंड किया गया 
+हो।
+•	 रेफ़्रिजरेटर सपाट, समतल सतह पर स्थापित हो तथा दीवार या कैबिनेट से पर्याप्त दूरी पर हो।
+•	 रेफ़्रिजरेटर समतल हो और फ़र्श पर मज़बूती से स्थापित हो।
+•	 दरवाज़ा बिना रोक टोक खुलता और बंद होता हो, दरवाज़ा खुलने पर अंदरूनी लाइट स्वचालित रूप से 
+जल जाते हों।
+Untitled-1   27
+8/16/2017   5:21:09 PM
+
+
+--- PAGE 92 (TEXT) ---
+स्थापन
+हिंदी
+28 
+स्थापन
+प्रवेश के लिए दरवाजा निकालना
+अगर अपने आकार के कारण रेफ़्रिजरेटर प्रवेश द्वार से भीतर नहीं जा पा रहा है, तो इन निर्देशों का पालन 
+करें:
+आवश्यक टूल (प्रदान नहीं किया जाता है)
+ये टूल दरवाजे को निकालने के लिए उपयोग किए जाते हैं।
+फ़िलिप्स स्क्रूड्राइवर
+फ्लैट-हेड स्क्रूड्राइवर
+सॉकेट स्पैनर 
+(10 मिमी)
+एलन स्पैनर 
+(5 मिमी)
+पानी की लाइन को डिस्कनेक्ट कर दें
+1.	 रेफ़्रिजरेटर के तल के पीछे की तरफ से, पानी 
+की लाइन को बाहर की तरफ खींच कर सामने 
+लाएँ।
+नोट
+रेफ़्रिजरेटर के पानी की लाइन जल प्रसार लाइन है 
+जो पानी के स्रोत से आने वाली पानी के पाइप और 
+रेफ़्रिजरेटर के पानी फ़िल्टरिंग सिस्टम के होज़ से 
+जोड़ती है।
+B
+A
+2.	 होज़ को हटाने के लिए, पारदर्शी कप्लर (A) को 
+दबाएँ और रोक कर रखें और वाटर होज़ (B) 
+को निकाल दें।
+सावधान
+कप्लर पर अत्यधिक बल का प्रयोग न करें। यह 
+टूट सकता है।
+Untitled-1   28
+8/16/2017   5:21:10 PM
+
+
+--- PAGE 93 (TEXT) ---
+हिंदी  29 
+स्थापन
+दरवाजों को अलग करें
+सावधान
+दरवाजा इनमें से किसी चरण के दौरान गिर सकता है और स्वयं ही क्षतिग्रस्त हो सकता है। दुर्घटना से 
+बचने के लिए, निम्न चरणों को कार्यान्वयित करते समय अत्यधिक सावधानी बरतें।
+A
+A
+1.	 दरवाजे के दोनों तरफ के शीर्ष स्थित कब्जा 
+कवर (A) के स्क्रू खोलने के लिए फिलिप्स 
+स्क्रूड्राइवर का उपयोग करें।
+2.	 कब्जे को ढीला करने के लिए दरवाजे खोलें 
+और कब्जा कवर को निकालें। कवर के निकल 
+जाने पर, दरवाजे बंद कर दें।
+3.	 इलेक्ट्रिकल हार्नेस को डिस्कनेक्ट कर दें।
+B
+C
+4.	 कब्जा स्क्रू (B) को घड़ी की विपरीत दिशा में 
+घुमाएँ, और ऊपरी कब्जा (C) को निकाल दें। 
+सावधान रहें क्योंकि दरवाजा आपके ऊपर गिर 
+सकता है, फलस्वरूप शारीरिक चोट लग सकती 
+है।
+Untitled-1   29
+8/16/2017   5:21:11 PM
+
+
+--- PAGE 94 (TEXT) ---
+स्थापन
+हिंदी
+30 
+स्थापन
+C
+5.	 दोनों तरफ स्थित कब्जा (C) को निकाल दें।
+6.	 दरवाजे निकालने के लिए हल्के से एक-एक कर 
+ऊपर उठाएँ। सावधानी बरतें क्योंकि दरवाजा 
+निकल या गिर सकता है।
+शोकेस अलग कर दें (केवल उपयुक्त मॉडल)
+1.	 दरवाजे को अलग करें अनुभाग में चरण 1 से 
+2 तक का पालन करें।
+2.	 विपरीत दिशाओं में हाउसिंग कनेक्टर को 
+डिस्कनेक्ट करें, जो कि शोकेस के शीर्ष पर 
+स्थित होता है।
+3.	 शोकेस के ऊपरी कब्जे के 3 स्क्रू को खोलें।
+Untitled-1   30
+8/16/2017   5:21:11 PM
+
+
+--- PAGE 95 (TEXT) ---
+हिंदी  31 
+स्थापन
+4.	 शोकेस के दोनों हिस्सों को पकड़ें और हल्के से 
+सामने की तरफ खींचें।
+सावधान
+तारों को क्षतिग्रस्त होने से या उलझने से बचाने 
+के लिए, कब्जे के बगल स्थित वायर क्लिप का 
+उपयोग करें।
+वाटर होज़ को फिर से जोड़ें
+रेफ़्रिजरेटर के प्रवेश द्वार से गुजर जाने पर, वाटर होज़ को फिर से जोड़ दें और कप्लर को कसने के लिए 
+प्रदान किए गए क्लिप (x2) को लगा दें।
+A
+B
+A.	पारदर्शी कप्लर का केंद्र
+B.	क्लिप A (1/4”) (6.35 मिमी)
+सावधान
+•	 सुनिश्चित करें कि वाटर होज़ मेल खाने वाले 
+रंगों से ही जुड़ा हो।
+•	 पानी के रिसाव को रोकने के लिए, प्रत्येक 
+वाटर होज़ पारदर्शी कप्लर के केंद्र में अच्छी 
+तरह से लगाया जाना चाहिए और फिर क्लिप 
+लगा दिया जाना चाहिए।
+Untitled-1   31
+8/16/2017   5:21:12 PM
+
+
+--- PAGE 96 (TEXT) ---
+स्थापन
+हिंदी
+32 
+स्थापन
+दरवाजों को फिर से लगाएँ
+सावधान
+•	 दरवाजे को पुनः लगाने से पहले, सुनिश्चित करें कि सभी इलेक्ट्रिकल कनेक्टर ठीक प्रकार से लगे हों।
+•	 फ़्रिज के दरवाजे के पहले फ़्रीजर का दरवाजा लगाया जाना चाहिए।
+1.	 फ़्रीजर के दरवाजे को रोके रहें और रेफ़्रिजरेटर 
+के तल में कब्जे को हुक से लगाएँ।
+A
+2.	 शीर्ष की तरफ, कब्जा स्लॉट में कब्जा (A) 
+लगाएँ।
+B
+C
+D
+3.	 ऊपरी कब्जा शाफ़्ट (B) को कब्जा छिद्र (C) में 
+लगाएँ। सुनिश्चित करें कि कब्जा शाफ़्ट सीधा 
+हो ताकि सभी स्क्रू पूरी तरह से प्रकट हो जाएँ। 
+फिर, कब्जा स्क्रू (D) को घड़ी की दिशा में 
+घुमाकर कस दें।
+Untitled-1   32
+8/16/2017   5:21:12 PM
+
+
+--- PAGE 97 (TEXT) ---
+हिंदी  33 
+स्थापन
+4.	 इलेक्ट्रिकल हार्नेस को कनेक्ट करें।
+5.	 कब्जा कवर के सामने वाले हिस्से को पहले 
+घुसाएँ और फिर स्क्रू को कस दें। इस चरण के 
+लिए फिलिप्स के स्क्रूड्राइवर का उपयोग करें।
+Untitled-1   33
+8/16/2017   5:21:12 PM
+
+
+--- PAGE 98 (TEXT) ---
+हिंदी
+34 
+परिचालन
+विशेषता पैनल
+01
+04
+03
+07
+10
+01
+04
+05
+02
+03
+07
+08
+09
+10
+06
+01
+04
+05
+02
+03
+07
+08
+09
+10
+01	Freezer / Power Freezer 
+(फ़्रीजर / पावर फ़्रीजर)
+02	Lighting (प्रकाश) / °C  
+°F
+03	Vacation (अवकाश)
+04	Fridge / Power Cool 
+(फ़्रीज / पावर कूल)
+05	Door Alarm (दरवाज़े का 
+अलार्म)
+06	Filter (फ़िल्टर) *
+07	Control Lock (नियंत्रण 
+लॉक)
+08	Water / Filter Reset 
+(वॉटर / फ़िल्टर रीसेट) *
+09	Cube/Crushed Ice / Ice 
+Maker Off (क्यूब/कुचली गई 
+बर्फ / बर्फ मेकर बंद)
+10	नेटवर्क कनेक्शन *
+* केवल उपयुक्त मॉडल
+परिचालन
+Untitled-1   34
+8/16/2017   5:21:13 PM
+
+
+--- PAGE 99 (TEXT) ---
+हिंदी  35 
+परिचालन
+01 फ़्रीजर / पावर फ़्रीज़ (3 सेकंड)
+Freezer (फ़्रीजर)
+Freezer (फ़्रीजर) बटन का उपयोग फ़्रीजर तापमान सेट करने के लिए, या Power 
+Freeze (पॉवर फ़्रीज) को सक्रिय करने के लिए किया जा सकता है। उपलब्ध 
+तापमान -15 °C (5 °F) और -23 °C (-8 °F) के बीच होते हैं।
+Power Freeze 
+(पॉवर फ़्रीज)
+Power Freeze (पॉवर फ्रिज) पंखे की अधिकतम गति पर जमने की प्रक्रिया को 
+तेज़ कर देता है। फ़्रीजर कई घंटों तक पूरी गति से चलता रहता है और फिर पिछले 
+तापमान पर लौट जाता है।
+•	 Power Freeze (पॉवर फ़्रीज) को सक्रिय करने के लिए, Freezer (फ़्रीजर) को 
+दबाएँ और 3 सेकेंड तक रोक कर रखें। अनुकूल संकेतक ( 
+ ) जल जाता है, 
+और रेफ़्रिजरेटर कूलिंग प्रक्रिया को तेज़ कर देता है।
+•	 निष्क्रिय करने के लिए, Freezer (फ़्रीजर) को पुनः दबाएँ और 3 सेकेंड तक 
+रोक कर रखें। फ़्रीजर पिछली तापमान सेटिंग पर लौट जाता है।
+•	 ज्यादा खाद्य पदार्थों को ठंडा रखने के लिए, खाद्य पदार्थ को फ़्रीजर में रखने से 
+पहले Power Freeze (पॉवर फ़्रीज) को कम से कम 24 घंटे तक सक्रिय रखें।
+नोट
+Power Freeze (पॉवर फ़्रीज) का उपयोग करने से बिजली की ख़पत बढ़ जाती है। 
+यदि आपका इसका उपयोग करने का इरादा नहीं है तो इसे ऑफ़ करना और पिछले 
+तापमान पर लौटना सुनिश्चित करें।
+02 प्रकाश / °C  °F (3 सेकेंड)
+Lighting (प्रकाश) बटन का उपयोग तापमान पैमाने को सेल्सियस और फारेनहाइट में परिवर्तन के लिए 
+कर सकते हैं। तापमान पैमाने में परिवर्तन के लिए, वर्तमान तापमान पैमाने को चार्ज करने के लिए 
+Lighting (प्रकाश) को 3 सेकेंड तक दबाएँ और रोक कर रहें।
+03 अवकाश
+Vacation 
+(अवकाश)
+Vacation (अवकाश) बटन का उपयोग Vacation (अवकाश) मोड को सक्रिय/
+निष्क्रिय करने के लिए किया जा सकता है।
+यदि आप अवकाश या बिज़नेस यात्रा पर जा रहे हैं, या आपका इरादा लंबे समय 
+तक रेफ़्रिजरेटर का उपयोग नहीं करने का है, तो Vacation (अवकाश) सुविधा का 
+उपयोग करें। अवकाश संकेतक ( 
+ ) को चालू रखते हुए फ़्रिज संचालन को बंद 
+करने के लिए Vacation (अवकाश) को 3 सेकेंड तक दबाएँ और रोक कर रखें।
+नोट
+इसकी पुरजोर अनुशंसा की जाती है कि फ़्रिज कंपार्टमेंट खाली कर दिया जाए और 
+दरवाज़ा का बंद होना सुनिश्चित हो।
+Untitled-1   35
+8/16/2017   5:21:13 PM
+
+
+--- PAGE 100 (TEXT) ---
+परिचालन
+हिंदी
+36 
+परिचालन
+04 फ़्रिज / पावर कूल (3 सेकेंड)
+Fridge (फ़्रिज) बटन का उपयोग फ़्रीज तापमान सेट करने के लिए, या Power Cool (पॉवर कूल) को 
+सक्रिय/निष्क्रिय करने के लिए किया जा सकता है।
+Fridge (फ़्रिज)
+आप फ़्रिज के लिए कूलिंग तापमान मैन्युअली समायोजित कर सकते हैं। तापमान 
+बार पर चक्कर लगाने के लिए Fridge (फ़्रिज) को दबाते रहें, और 1 °C (34 °F) 
+और 7 °C (44 °F) के बीच वांछित तापमान चुनें।
+Power Cool 
+(पॉवर कूल)
+Power Cool (पॉवर कूल) पंखे की अधिकतम गति पर ठंडा करने की प्रक्रिया को 
+तेज़ कर देता है। यह उन खाद्य पदार्थों को तेजी से ठंडा करने में उपयोगी होता है 
+जो जल्दी से, या दरवाजे के कुछ देर खुला रह जाने पर खराब हो जाते हैं। फ्रिज 
+कई घंटों तक पूरी गति से चलता रहता है और फिर पिछले तापमान पर लौट जाता 
+है।
+Power Cool (पावर कूल) को दबाएँ और 3 सेकेंड तक रोक कर रखें।
+05 दरवाज़े का अलार्म
+Door Alarm 
+(दरवाज़े का 
+अलार्म)
+आप रिमाइंडर के लिए अलार्म सेट कर सकते हैं। अगर दरवाज़ा 2 मिनट से अधिक 
+देर तक खुला रहता है, तो अलार्म ( 
+ ) अलार्म संकेतक के चमकने के साथ 
+बजेगा। अलार्म फ़ैक्टरी डिफ़ॉल्ट रूप से सक्षम होता है। अलार्म को अक्षम करने 
+के लिए, Door Alarm (दरवाज़े का अलार्म) दबाएँ। सक्षम करने के लिए, Door 
+Alarm (दरवाज़े का अलार्म) को फिर से दबाएँ।
+06 फ़िल्टर
+फ़िल्टर जीवनकाल रीसेट हो जाएगा और फ़िल्टर संकेतक बंद हो जाएगा। आपके दरवाजे के खोलने या बंद 
+करते समय कई सेकेंड तक आइकन लाल चमकेगा।
+Untitled-1   36
+8/16/2017   5:21:13 PM
+
+
+--- PAGE 101 (TEXT) ---
+हिंदी  37 
+परिचालन
+07 नियंत्रण लॉक (3 सेकेंड)
+Control Lock 
+(नियंत्रण लॉक)
+Control Lock (नियंत्रण लॉक) को सक्रिय करने के लिए, press and hold 
+Control Lock (नियंत्रण लॉक) को दबाएँ और 3 सेकेंड तक रोक कर रखें। डिस्प्ले 
+पर नियंत्रण अक्षम होते हैं, और आपके लीवर को दबाने के बाद भी डिस्पेंसर 
+संचालित नहीं होता है। निष्क्रिय करने के लिए, फिर से दबाएँ और 3 सेकेंड तक 
+रोक कर रखें।
+Device 
+authentication 
+(डिवाइस 
+प्रमाणीकरण)
+Samsung स्मार्ट होम एप्लिकेशन या Samsung स्मार्ट डिवाइस जैसे कि 
+Samsung स्मार्ट टीवी से रेफ़्रिजेरेटर कनेक्ट करते समय, एप्लिकेशन या डिवाइस 
+की स्क्रीन पर दिए जाने वाले निर्देशों का पालन करें और 5 सेकंड के लिए Control 
+Lock (नियंत्रण लॉक) दबाए रखें। प्रमाणीकरण प्रक्रिया के साथ आगे बढ़ने से पहले 
+तापमान पैनल 5 सेकंड के लिए "on (पर)" दिखाता है।
+ध्यान दें कि Control Lock (नियंत्रण लॉक) फंक्शन पर इस प्रमाणीकरण का कोई 
+प्रभाव नहीं पड़ेगा।
+08 पानी / फ़िल्टर रीसेट (3 सेकेंड)
+Water (पानी) बटन का उपयोग पानी को हटाने के लिए, या वाटर फ़िल्टर को रीसेट करने के लिए किया 
+जा सकता है।
+वितरित करना
+पानी वितरित के लिए Water (पानी) दबाएँ। इस मोड में, बर्फ नहीं मिलेगा।
+Filter Reset 
+(फ़िल्टर रीसेट)
+मूल वाटर फ़िल्टर का लगभग 6 महीने उपयोग करने के बाद (लगभग 300 गैलन), 
+फ़िल्टर संकेतक आपको यह याद दिलाने के लिए लाल जलता है कि फ़िल्टर को 
+बदलने की आवश्यकता है। अगर ऐसा होता है, तो फ़िल्टर को बदल दें और Filter 
+Reset (फ़िल्टर रीसेट) को 3 सेकेंड के लिए दबाएँ और रोक कर रखें।
+नोट
+कुछ क्षेत्रों की पानी में बड़ी मात्रा में चूना मिला होता है। यह फ़िल्टर का जीवनकाल 
+कम कर सकता है। इन क्षेत्रों में, आपको ऊपर निर्दिष्ट समय से अधिक बार वॉटर 
+फ़िल्टर बदलना पड़ेगा।
+09 क्यूब/कुचली गई बर्फ / बर्फ मेकर बंद (3 सेकंड)
+Cubed/Crushed 
+Ice (क्यूब/कुचली 
+गई बर्फ)
+आप ice type (बर्फ़ प्रकार) चुन सकते हैं। चौरस बर्फ़ और कुचली बर्फ़ के बीच 
+टॉगल करने के लिए बटन दबाएँ। अनुकूल संकेतक ऑन हो जाता है।
+Ice Maker Off 
+(आइस मेकर बंद)
+बर्फ बनाना अक्षम करने के लिए, 3 सेकेंड के लिए दबाएँ और रोक कर रखें। इस 
+मोड में, अगर आप Cubed/Crushed Ice (चौरस /कुचली बर्फ़) दबाते हैं तब भी 
+बर्फ बनना अक्षम हो जाता है।
+Untitled-1   37
+8/16/2017   5:21:13 PM
+
+
+--- PAGE 102 (TEXT) ---
+परिचालन
+हिंदी
+38 
+परिचालन
+10 नेटवर्क कनेक्शन (केवल उपयुक्त मॉडल)
+आप Samsung स्मार्ट होम एप्लिकेशन के माध्यम से अपने रेफ़्रिजरेटर को नियंत्रित करने और उसकी 
+निगरानी के लिए वैकल्पिक स्मार्ट होम डॉन्गल (अलग से बेचा जाता है) का उपयोग कर सकते हैं। 
+Samsung Smart Home के बारे में और अधिक जानकारी के लिए, Samsung Smart Home अनुभाग 
+देखें।
+नोट
+•	 अनुशंसित एन्क्रिप्शन सिस्टम में WPA/TKIP और WPA2/AES शामिल हैं। कोई भी नया या 
+अमानकीकृत वाई-फ़ाई प्रमाणीकरण प्रोटोकॉल समर्थित नहीं है। 
+•	 वायरलेस नेटवर्क आसपास के वायरलेस संचार परिवेश से प्रभावित हो सकतें है।
+•	 अगर आपके इंटरनेट सेवा प्रदाता ने पहचान के लिए आपकी PC या मॉडम का MAC पता पंजीकृत 
+किया हुआ है, तो आपका Samsung स्मार्ट रेफ़्रिजेरेटर हो सकता है कि इंटरनेट से कनेक्ट न हो पाए। 
+अगर ऐसा होता है, तो तकनीकी सहायता के लिए अपने इंटरनेट सेवा प्रदाता से संपर्क करें।
+•	 आपके नेटवर्क सिस्टम की फ़ायरवॉल सेटिंग आपके Samsung स्मार्ट रेफ़्रिजेरेटर को इंटरनेट एक्सेस 
+करने से रोक सकती हैं। तकनीकी सहायता के लिए अपने इंटरनेट सेवा प्रदाता से संपर्क करें। अगर यह 
+लक्षण जारी रहते हैं, तो किसी स्थानीय Samsung सेवा केंद्र या विक्रेता से संपर्क करें।
+•	 वायरलेस एक्सेस पॉइंट (AP) को कॉन्फ़िगर करने के लिए, AP के उपयोगकर्ता मार्गदर्शिका को देखें।
+•	 Samsung स्मार्ट होम डॉन्गल वाले Samsung स्मार्ट रेफ़्रिजरेटर IEEE 802.11 b/g/n वाले Wi-Fi 
+2.4 GHz और Soft-AP प्रोटोकॉल (IEEE 802.11 n अनुशंसित है) दोनों का समर्थन करते हैं।
+•	 अनधिकृत Wi-Fi वायरलेस राउटर उपयुक्त Samsung स्मार्ट रेफ़्रिजरेटर से कनेक्ट करने में विफल हो 
+सकता है।
+Samsung Smart Home (केवल उपयुक्त मॉडल)
+स्थापना
+Google Play स्टोर, Galaxy ऐप्लिकेशन या Apple एप्लिकेशन स्टोर पर जाएँ और “Samsung Smart 
+Home” खोजें। Samsung इलेक्ट्रॉनिक द्वारा प्रदान किए गए Samsung Smart Home एप्लिकेशन को 
+अपने स्मार्ट डिवाइस में डाउनलोड करें और स्थापित करें।
+नोट
+•	 Samsung Smart Home एप्लिकेशन Android 4.0 (ICS) या उसके बाद के संस्करण, या iOS 7.0 
+या उसके बाद के संस्करण के लिए डिज़ाइन किया गया है और यह Samsung स्मार्टफ़ोन (Galaxy S 
+और Galaxy Note सीरीज़) के लिए अनुकूलित है। अन्य स्मार्टफ़ोन मॉडल पर, कुछ फ़ंक्शन अलग-
+अलग तरह से काम करेंगे। 
+•	 बेहतर प्रदर्शन के लिए, Samsung Smart Home एप्लिकेशन बगैर पूर्व सूचना परिवर्तित हो सकता है 
+या निर्माता की नीति के अनुसार सहायता बंद कर सकता है।
+Untitled-1   38
+8/16/2017   5:21:13 PM
+
+
+--- PAGE 103 (TEXT) ---
+हिंदी  39 
+परिचालन
+Samsung खाता
+एप्लिकेशन का उपयोग करने के लिए आपको अपने Samsung खाते को पंजीकृत करने की आवश्यकता 
+है। अगर आपके पास Samsung खाता नहीं है, तो Samsung खाता बनाने के लिए एप्लिकेशन के स्क्रीन 
+पर दिए गए निर्देशों का पालन करें।
+आरंभ करें
+1.	 स्मार्ट होम डॉन्गल को अपने रेफ़्रिजेरेटर के अनुकूल पोर्ट में लगाएँ।
+2.	 Samsung Smart Home एप्लिकेशन चलाएँ और अपने Samsung खाते में लॉग इन करें। 
+iPhone उपयोगकर्ताओं को एप्लिकेशन पर पहुँचने के लिए हर बार लॉगिन जानकारी प्रदान करने की 
+आवश्यकता होती है।
+3.	 Device (डिवाइस) > + आइकन पर पहुँचें और फिर Refrigerator (रेफ़्रिजरेटर) टैप करें।
+4.	 राउटर के बारे में जरूरी जानकारी प्रदान करने के लिए स्क्रीन पर दिए गए निर्देशों का पालन करें, और 
+फिर Next (आगे) टैप करें।
+5.	 प्रदर्शन पर "AP" संदेश दिखाई देने तक 5 सेकंड से अधिक के लिए Fridge (फ़्रिज) को दबाए रखें। 
+आपका रेफ़्रिजरेटर, एप्लिकेशन के साथ पंजीकृत कर दिया जाएगा।
+6.	 डिवाइस का पंजीकरण पूरा हो जाने पर, रेफ़्रिजरेटर आइकन Samsung Smart Home एप्लिकेशन पर 
+प्रकट हो जाएगा।
+7.	 रेफ़्रिजरेटर पृष्ठ को खोलने के लिए रेफ़्रिजरेटर आइकन को टैप करें।
+8.	 जब कोई नेटवर्क कनेक्शन स्थापित न किया गया हो, तब आपके रेफ़्रिजरेटर पर Wi-Fi आइकन जलने 
+लगता है। 
+रेफ़्रिजरेटर एप्लिकेशन
+एकीकृत नियंत्रण
+आप घर से साथ ही साथ बाहर रहने के दौरान भी अपने रेफ़्रिजरेटर की निगरानी कर सकते हैं और उसे 
+नियंत्रित कर सकते हैं।
+•	 रेफ़्रिजरेटर पृष्ठ खोलने के लिए Samsung Smart Home पर रेफ़्रिजरेटर आइकन को टैप करें।
+•	 अपने रेफ़्रिजरेटर की संचालन स्थिति या सूचना जाँचें और अगर जरूरी हो तो विकल्प या सेटिंग 
+परिवर्तित करें।
+नोट
+रेफ़्रिजरेटर के कुछ विकल्प या सेटिंग रिमोट कंट्रोल के लिए संभवतः उपलब्ध न हो।
+Untitled-1   39
+8/16/2017   5:21:14 PM
+
+
+--- PAGE 104 (TEXT) ---
+परिचालन
+हिंदी
+40 
+परिचालन
+मुख्य विशेषताएँ
+Samsung smart home उपकरणों को Samsung Smart Home सर्वर पर रिमोट पहुँच के लिए 
+पंजीकृत करें।
+मेनू संक्षिप्त विवरण
+•	 रेफ़्रिजरेटर के सेटिंग पृष्ठ को खोलने के लिए Refrigerator (रेफ़्रिजरेटर) को टैप करें।
+•	 अगले पृष्ठ पर जाने के लिए स्वाइप करें।
+Chat control (चैट 
+नियंत्रण)
+आप Samsung smart home उपकरणों को दूर से नियंत्रित कर सकते हैं 
+या उनके संचालन स्थिति की जाँच कर सकते हैं।
+Home view (होम व्यू) 
+(केवल उपयुक्त मॉडल)
+Samsung Smart Home उपकरण के अंतर्निर्मित कैमरे के उपयोग द्वारा, 
+आप अपने लिविंग रुम की निगरानी कर सकते हैं। यह केवल उपयुक्त मॉडल 
+के साथ उपलब्ध है।
+Master key (मास्टर 
+कुंजी)
+मास्टर कुंजी को विभिन्न उपयोगकर्ता गतिविधियों जैसे कि बाहर जाने, घर 
+आने, रात में बिस्तर पर जाने और सुबह जागने के लिए लॉकिंग सिस्टम 
+नियंत्रित करने के लिए डिज़ाइन किया गया है। यह केवल उपयुक्त मॉडल के 
+साथ उपलब्ध है।
+Customer service 
+(ग्राहक सेवा)
+उपयोगकर्ता मार्गदर्शिका डाउनलोड करने योग्य है और ग्राहक सहायता के 
+लिए संपर्क जानकारी भी प्रदान करता है।
+Untitled-1   40
+8/16/2017   5:21:14 PM
+
+
+--- PAGE 105 (TEXT) ---
+हिंदी  41 
+परिचालन
+Settings (सेटिंग)
+•	 आप कनेक्ट किए हुए डिवाइस साथ ही साथ सॉफ़्टवेयर जानकारी 
+(संस्करण और खुला-स्रोत लाइसेंस) की भी जाँच कर सकते हैं और 
+डिवाइस को जोड़ सकते हैं या देश को चुन सकते हैं।
+•	 आप प्रदर्शन प्रयोजनों के लिए वर्तमान डिवाइस के संचालन का अनुकरण 
+भी कर सकते हैं।
+रेफ़्रिजरेटर सेटिंग
+01
+A
+B
+02
+03
+04
+05
+06
+07
+A: अक्षम (काला)
+B: सक्षम (नीला)
+Fridge (फ़्रिज)
+01	वर्तमान में सेट फ़्रीज तापमान को प्रदर्शित करता है।
+02	आप Power Cool (पावर कूल) को चालू या बंद कर सकते हैं और 
+वर्तमान सेटिंग जाँच सकते हैं।
+Freezer (फ़्रीजर)
+03	वर्तमान में सेट फ़्रीज़र तापमान को प्रदर्शित करता है।
+04	आप Power Freeze (पावर फ़्रीज़) को चालू या बंद कर सकते हैं और 
+वर्तमान सेटिंग जाँच सकते हैं।
+Ice Maker (आइस 
+मेकर)
+05	वर्तमान मोड सेटिंग्स को प्रदर्शित करता है। 
+06	आप आइस मेकर को चालू या बंद कर सकते हैं और वर्तमान सेटिंग से 
+बर्फ बनाने की स्थिति जाँच सकते हैं।
+Untitled-1   41
+8/16/2017   5:21:15 PM
+
+
+--- PAGE 106 (TEXT) ---
+परिचालन
+हिंदी
+42 
+परिचालन
+About Device (डिवाइस 
+के बारे में)
+07	मौजूदा संस्करण, ट्यूटोरियल, स्वयं जाँच, और सहायता डेस्क समेत 
+उत्पाद जानकारी प्रदर्शित करता है। उपयोगकर्ता मार्गदर्शिका डाउनलोड 
+करने योग्य है और ग्राहक सहायता के लिए संपर्क जानकारी भी प्रदान 
+करता है।
+Self Check (स्वयं जाँच)
+स्वयं जाँच के संदर्भ द्वारा, आप अपने रेफ़्रिजरेटर का नैदानिक परिणाम देख 
+सकते हैं। अगर आपका सामना एक असामान्य लक्षण से होता है, तो स्वयं 
+जाँच एक जानकारी प्रदर्शित करता है जिसका उपयोग ग्राहक सेवा के लिए 
+प्रयुक्त किया जा सकता है।
+तापमान सेटिंग
+सर्वोत्तम प्रदर्शन को सुनिश्चित करने के लिए, हम फ़्रीजर के लिए -19 °C (-2 °F) तापमान और फ़्रिज के 
+लिए 3 °C (37 °F) तापमान के सेटिंग की अनुशंसा करते हैं। 
+फ़्रीजर
+फ़्रीज़र का तापमान -23 °C (-9 °F) और -15 °C 
+(5 °F) के मध्य समायोजित किया जा सकता है।
+तापमान बदलने के लिए, वांछित तापमान के 
+चयनित होने तक Freezer (फ़्रीज़र) को दबाते 
+रहें। तापमान 1 पैमाना इकाई से बदलता है।
+•	 अनुशंसित: -19 °C (-2 °F)
+नोट
+आइसक्रीम -15 °C (5 °F) पर पिघल जाएगी।
+फ़्रिज
+फ्रिज का तापमान 1 °C (34 °F) और 7 °C 
+(44 °F) के मध्य समायोजित किया जा सकता है।
+तापमान बदलने के लिए, वांछित तापमान के 
+चयनित होने तक Fridge (फ़्रिज) को दबाते रहें। 
+तापमान 1 पैमाना इकाई से बदलता है।
+•	 अनुशंसित: 3 °C (37 °F)
+Untitled-1   42
+8/16/2017   5:21:15 PM
+
+
+--- PAGE 107 (TEXT) ---
+हिंदी  43 
+परिचालन
+अगर आप अकसर दरवाज़ों को खोलते हैं या रेफ़्रिजरेटर में भोजन बड़ी मात्रा रखा जाता है तो फ़्रीज़र या 
+फ़्रिज का तापमान बढ़ सकता है। अगर ऐसा होता है, तो रेफ़्रिजरेटर के निर्धारित तापमान सेटिंग पर वापस 
+आने तक तापमान डिस्पले चमकता रहता है।
+नोट
+अगर चमकना जारी रहता है, तो बिजली की तार को निकाल दें और रेफ़्रिजरेटर को 10 मिनट बाद फिर से 
+आरंभ करें।
+Untitled-1   43
+8/16/2017   5:21:16 PM
+
+
+--- PAGE 108 (TEXT) ---
+परिचालन
+हिंदी
+44 
+परिचालन
+विशेष सुविधाएँ
+रेफ़्रिजरेटर में उपयोगकर्ता-उन्मुख डिवाइस हैं जिनका आप लाभ उठा सकते हैं।
+वॉटर डिस्पेंसर (केवल उपयुक्त मॉडल)
+वॉटर डिस्पेंसर के द्वारा आप रेफ़्रिजरेटर का दरवाजा खोले बिना ही पानी प्राप्त कर सकते हैं।
+Water
+Cubed
+Crushed
+Ice Maker Off
+मूल रूप से, वॉटर डिस्पेंसर 3 विकल्प प्रस्तुत 
+करता है: chilled water (अत्यधिक ठंडा), cubed 
+ice (चौरस बर्फ़), और crushed ice (कुचली 
+बर्फ़)। अगर आप बर्फ नहीं हटाना
+ चाहते हैं, तो 
+Ice Maker Off (आइस मेकर ऑफ़) दबाएँ।
+आइस मेकर सक्षम होने पर,
+1.	 बर्फ प्रकार चुनने के लिए दबाएँ।
+2.	 डिस्पेंसर लीवर पर एक पानी का ग्लास रखें 
+और इसे दबाएँ। डिस्पेंसर से बर्फ निकलने 
+लगेगा।
+3.	 पानी चुनने के लिए दबाएँ।
+4.	 फिर, पानी का ग्लास डिस्पेंसर लीवर पर रखें 
+और इसे दबाएँ। डिस्पेंसर से पानी निकलने 
+लगेगा।
+नोट
+•	 पान छलकने से बचाने के लिए, पानी निकालने के बाद ग्लास को हटाने के पहले 2 सेकेंड तक प्रतीक्षा 
+करें।
+•	 अगर आप डिस्पेंसर लीवर को लगभग 1 मिनट तक दबाते रहेंगे, तो डिस्पेंसर पानी वितरित करना बंद 
+कर देगा। और अधिक पानी प्राप्त करने के लिए, लीवर को छोड़ें और पुनः दबाएँ।
+•	 सुनिश्चित करें कि गिलास डिस्पेंसर की सीध में हो ताकि पानी बाहर न गिरे।
+•	 यदि आप पानी के डिस्पेंसर को 2-3 दिनों के लिए प्रयोग नहीं करते हैं, तो इससे आने वाले पानी में 
+अज़ीब सी महक या स्वाद हो सकता है। यह प्रणाली की खराबी नहीं है। पहला 1-2 गिलास पानी फेंक 
+दें। 
+Untitled-1   44
+8/16/2017   5:21:16 PM
+
+
+--- PAGE 109 (TEXT) ---
+हिंदी  45 
+परिचालन
+पानी की टंकी भरने के लिए
+पहली बार उपयोग के लिए, पानी की टंकी अंदर से 
+साफ़ करें और फिर अच्छी तरह सूखा दें।
+1.	 टंकी के सामने तरफ दोनों दस्ता को पकड़ें, 
+और सरका कर बाहर निकालें जैसे कि दिखाया 
+गया है।
+A
+B
+2.	 कवर का सामने का ढक्कन (A) या पूरा कवर 
+(B) खोलें और टंकी में अधिकतम 5 लीटर 
+पानी भरें।
+सावधान
+अधिकतम लाइन से ज्यादा नहीं भरें। पानी भर कर 
+बाहर निकलने लगता है।
+3.	 पानी की टंकी को अपने स्थान पर लगाएँ और 
+डिस्पेंसर तंत्र को लगाएँ। सुनिश्चित करें कि 
+टंकी का सामने का हिस्सा (सामने का ढक्कन 
+समेत) सामने की तरफ सम्मुख हो।
+सावधान
+•	 सुनिश्चित करें कि पानी की टंकी शेल्फ़ में फिट हो जाए। अन्यथा, पानी की टंकी संभवतः ठीक ढंग से 
+काम नहीं करे।
+•	 पानी की टंकी को लगाए बिना रेफ़्रिजरेटर का प्रयोग न करें। इससे कूलिंग प्रदर्शन में कमी आ सकती 
+है।
+•	 पानी की टंकी को केवल पीने के पानी जैसे कि मिनरल वॉटर या शुद्धीकृत पानी से भरें। किसी अन्य 
+द्रव्य का उपयोग नहीं करें।
+•	 भरी हुई टंकी स्थानांतरित करते समय सावधानी बरतें। टंकी के गिरने पर शारीरिक चोट लग सकती है।
+•	 आंतरिक पंप को स्वयं खोलने का प्रयास नहीं करें। यदि आंतरिक पंप क्षतिग्रस्त हो या पानी की टंकी 
+से जुड़ा हुआ नहीं हो, तो डिस्पेंसर काम नहीं करता है।
+प्रथम-उपयोग के लिए
+•	 डिस्पेंसर लीवर को 10 सेकेंड तक दबाए रखें ताकि जल आपूर्ति प्रणाली के पाइप से हवा निकल जाए।
+•	 जल आपूर्ति प्रणाली से अशुद्धियाँ हटाने के लिए पहला छह गिलास पानी फेंक दें।
+पानी देने के लिए
+पानी के आउटलेट के नीचे एक गिलास रखें, तथा गिलास से डिस्पेंसर के लीवर को आहिस्ते से दबाएँ।
+Untitled-1   45
+8/16/2017   5:21:16 PM
+
+
+--- PAGE 110 (TEXT) ---
+परिचालन
+हिंदी
+46 
+परिचालन
+सावधान
+•	 सुनिश्चित करें कि गिलास डिस्पेंसर की सीध में हो ताकि पानी बाहर न गिरे।
+•	 यदि आप पानी के डिस्पेंसर को 2-3 दिनों के लिए प्रयोग नहीं करते हैं, तो इससे आने वाले पानी में 
+अज़ीब सी महक या स्वाद हो सकता है। यह प्रणाली की खराबी नहीं है। पहला 1-2 गिलास पानी फेंक 
+दें।
+बर्फ़ बनाना (केवल उपयुक्त मॉडल)
+रेफ़्रिजरेटर में बिल्ट-इन आइस मेकर है जो स्वतः ही बर्फ निकाल देता है ताकि आप अपनी प्राथमिकता 
+अनुसार चौरस बर्फ या कुचली बर्फ के साथ फ़िल्टर किए हुए पानी का आनंद लें।
+C
+B
+A
+अगर बर्फ नहीं निकलता है, तो पहले आइस मेकर 
+की जाँच करें कि क्या वह ठीक से बर्फ बना रहा है 
+या नहीं।
+आइस मेकर की जाँच करना
+1.	 दोनों हाथों से आराम से आइसमेकर बकेट (B) 
+पकड़ें और उसे आइस शूट (A) से निकालें।
+2.	 जाँचें कि क्या आइसमेकर बकेट में उचित रूप 
+से आइस है।
+3.	 फिर, आइस मेकर कवर (C) को पकड़ें और 
+निकालने के लिए हल्के से ऊपर उठाएँ।
+D
+4.	 आइस मेकर की तरफ परीक्षण (D) दबाएँ। 
+बटन दबाने पर आपको एक झंकार (डिंग-डॉन्ग) 
+सुनाई देगा।
+5.	 अगर आइस मेकर उचित प्रकार से काम कर 
+रहा तो आपको कोई दूसरा झंकार सुनाई पड़ेगा।
+नोट
+अगर यह लक्षण बना रहता है, तो पानी की लाइन 
+के स्थापक या स्थानीय Samsung सर्विस सेंटर से 
+संपर्क करें।
+सावधान
+•	 आइस ट्रे के बर्फ या पानी से भर जाने के बाद बटन को बार-बार न दबाएँ। पानी बाहर फैल सकता है 
+या बर्फ़ जाम हो सकता है।
+•	 जब रेफ़्रिजरेटर बिजली चले जाने के बाद फिर से बिजली आपूर्ति वापस प्राप्त करता है, तो आइसमेकर 
+बकेट में पिघली हुई या जाम चौरस बर्फ का मिश्रण हो सकता है, जिसके परिणामस्वरूप सिस्टम में 
+खराबी आ जाती है। इसकी रोकथाम के लिए, रेफ़्रिजरेटर का उपयोग करने के पहले आइसमेकर बकेट 
+को खाली करना सुनिश्चित करें।
+Untitled-1   46
+8/16/2017   5:21:17 PM
+
+
+--- PAGE 111 (TEXT) ---
+हिंदी  47 
+परिचालन
+•	 आइसमेकर बकेट को गिरने से रोकने के लिए, कृपया आइसमेकर बकेट को निकालते या फिर से डालते 
+समय दोनों हाथों का उपयोग करें।
+•	 बच्चों को आइस डिस्पेंसर या आइसमेकर बकेट पर लटकने या उससे खेलने न दें। बच्चों को चोट लग 
+सकती है।
+•	 डिस्पेंसर के छिद्र या बर्फ़ के शूट में उंगलियाँ या अन्य वस्तुएँ न डालें। ऐसा करने से शारीरिक चोट 
+लग सकती है या संपत्ति की क्षति हो सकती है।
+नोट
+•	 अगर आप आइसमेकर निकाल देते हैं, तो Ice Maker Off (आइस मेकर बंद) संकेतक (  ) ब्लिंक 
+करने लगेगा।
+•	 आइसमेकर बकेट को निकालने से रेफ़्रिजरेटर के ऊष्मीय और यांत्रिक प्रदर्शन पर प्रभाव नहीं पड़ता है।
+•	 आइस मेकर, स्नैक बिन, और ऊपरी दराज को निकाल देने के बाद घोषित फ़्रीज़र वॉल्यूम फ़्रीज़र गाइड 
+के उपयोग पर आधारित होता है।
+अधिक भंडारण स्थान सुरक्षित करना (केवल उपयुक्त मॉडल)
+A
+B
+C
+C
+अगर आप आइस मेकर का उपयोग नहीं करते हैं 
+और अधिक संग्रहण स्थान चाहिए, तो आइसमेकर 
+बकेट (A) और स्नैक बिन निकालें। फिर, 
+आइसमेकर बकेट के स्थान में फ़्रीज़र गाइड (B) 
+डालें। अधिक स्थान बनाने के लिए, फ़्रीज़र का 
+अपर ड्रॉवर (C) निकालें।
+Untitled-1   47
+8/16/2017   5:21:17 PM
+
+
+--- PAGE 112 (TEXT) ---
+परिचालन
+हिंदी
+48 
+परिचालन
+आइस मेकर बकेट
+अगर आप अधिक समय तक बर्फ को नहीं 
+निकालते हैं, तो बकेट के अंदर बर्फ का पिंड बन 
+सकता है। अगर ऐसा होता है, तो आइसमेकर बकेट 
+को निकालकर उसे खाली करें।
+1.	 आइसमेकर बकेट निकालने के लिए, उसे आराम 
+से ऊपर उठाएँ और दोनों हाथों सो हैंडग्रिप पकड़े 
+हुए उसे धीरे-धीरे बाहर खींचें।
+2.	 आइसमेकर बकेट को निकालकर उसे खाली 
+करें।
+3.	 ऐसा कर लेने पर, बकेट के पीछेके गियर हैंडल 
+को 90° घुमाएँ और फिर बकेट को वापस उसके 
+स्थान पर डाल दें। जब तक क्लिक की आवाज़ 
+सुनाई न दे तब तक बकेट को उचित तरीके से 
+डालते रहें।
+4.	 आइसमेकर रीसेट करने के लिए 3 सेकंड तक 
+Ice Maker Off (आइस मेकर बंद) दबाकर 
+रखें।
+सावधान
+•	 बकेट कवर पर अत्यधिक बल न लगाएँ। कवर 
+टूट सकता है।
+•	 दरवाजे को जोर से बंद न करें। पानी आइस 
+मेकर पर फैल सकता है।
+•	 चोट से बचने के लिए, फर्श पर पड़े हुए बर्फ या 
+पानी को साफ करना सुनिश्चित करें।
+•	 दुर्घटना या चोट से बचने के लिए, बच्चों को 
+वॉटर डिस्पेंसर या आइस मेकर से खेलने नहीं 
+दें।
+•	 आइस शूट में अपना हाथ या कोई वस्तु न 
+रखें। ऐसा करने से शारीरिक चोट लग सकती है 
+या उत्पाद को क्षति हो सकती है।
+नोट
+•	 अगर Ice Maker Off (आइस मेकर बंद) संकेतक (  ) ब्लिंक करता है, तो आइसमेकर बकेट को 
+निकालकर उसे फिर से डालें। सुनिश्चित करें कि यह पुनः ठीक से लग गया हो।
+•	 आइस मेकर से किसी भी प्रकार की आवाज सामान्य है, जो बर्फ बनाने की प्रक्रिया के दौरान आती है।
+Untitled-1   48
+8/16/2017   5:21:18 PM
+
+
+--- PAGE 113 (TEXT) ---
+हिंदी  49 
+परिचालन
+•	 दरवाजे के खुले रहने पर, न तो आइस मेकर और न ही वॉटर डिस्पेंसर संचालित होता है।
+पानी का दबाव
+अगर आप इसकी जाँच करना चाहते हैं कि आइस ट्रे में कितना पानी बह रहा है, तो इन चरणों का पालन 
+करें।
+A
+B
+1.	 निकालने के लिए आइस मेकर कवर (A) को 
+हल्के से ऊपर उठाएँ।
+2.	 आइस मेकर की तरफ परीक्षण (B) दबाएँ। 
+सामान्यतः, आइस क्यूब कंटेनर कुछ ही मिनटों 
+में पानी से भर जाता है।
+3.	 अगर पानी का स्तर अपेक्षा से कम हो, तो जल 
+स्रोत से पानी आपूर्ति लाइन में पानी का दबाव 
+जाँचें। यह प्रणाली की खराबी नहीं है।
+सावधान
+•	 जब ट्रे पानी से भरी हो परीक्षण बटन को बार-बार न दबाएँ। पानी बाहर फैल सकता है या बर्फ़ जाम हो 
+सकता है।
+•	 सुनिश्चित करें कि आइस मेकर बकेट ठीक ढंग से लगा हो। अन्यथा, आइस मेकर संचालित नहीं होगा।
+Untitled-1   49
+8/16/2017   5:21:18 PM
+
+
+--- PAGE 114 (TEXT) ---
+परिचालन
+हिंदी
+50 
+परिचालन
+Smart Eco (केवल उपयुक्त मॉडल)
+A
+B
+C
+Smart Eco सिस्टम खाद्य पदार्थ को संचालन 
+परिवेश के अनुसार ताजा रखने के लिए 4 संवेदकों 
+का उपयोग करके रेफ़्रिजरेटर को बुद्धिमतापूर्वक 
+नियंत्रित करता है जो कि रेफ़्रिजरेटर के भीतर और 
+बाहर दोनों तरफ अवस्थित होते हैं। यह स्मार्ट 
+सिस्टम बिजली की खपत बचाने के लिए उपयोग 
+के पैटर्न और संचालन स्थिति की निगरानी भी 
+करता है।
+A.	बाहरी तापमान संवेदक
+B.	बाहरी आर्द्रता संवेदक
+C.	आंतरिक तापमान संवेदक
+Untitled-1   50
+8/16/2017   5:21:18 PM
+
+
+--- PAGE 115 (TEXT) ---
+हिंदी  51 
+परिचालन
+ऐलिवेशन गार्ड (केवल उपयुक्त मॉडल)
+अपने गार्ड की लंबवत स्थिति एडजस्ट करके आप अलग-अलग ऊँचाई पर खाने के आइटम स्टोर कर सकते 
+हैं।
+सावधान
+गार्ड की ऊँचाई सेट करने से पहले, गार्ड खाली करना न भूलें। ग्राड के नीचे होने पर काँच की बोतलें या 
+पेय पदार्थ के काँच के कंटेनर गिरकर टूट सकते हैं, जिससे शारीरिक रूप से चोट पहुँच सकती है।
+1.	 गार्ड की लंबवत स्थिति एडजस्ट करने के लिए, 
+दोनों हाथों से गार्ड को नीचे से पकड़ें और 
+आवश्यकता अनुसार स्थान बढ़ाएँ।
+2.	 लंबवत स्थिति 4 अलग-अलग स्तरों पर 
+एडजस्ट की जा सकती है।
+नोट
+गार्ड ऊपर करने के बाद उसे नीचे करने के लिए, 
+कृपया गार्ड को सबसे पहसे सबसे ऊपर की स्तर 
+पर ले जाएँ और फिर उसके मूल स्थान पर नीले 
+ले आएँ। 
+नोट
+एलिवेशन गार्ड निकालने के लिए, पृष्ठ 53 देखें।
+Untitled-1   51
+8/16/2017   5:21:18 PM
+
+
+--- PAGE 116 (TEXT) ---
+हिंदी
+52 
+रखरखाव
+प्रबंधन और देखभाल
+शेल्फ़ (फ़्रिज/फ़्रीजर)
+Rear
+1
+•	 शेल्फ़ निकालने के लिए, उसके सामने के 
+दरवाजे को पूरा खोल दें। शेल्फ़ के सामने के 
+हिस्से को पकड़े और हल्के से ऊपर उठाएँ और 
+खिसका कर बाहर निकालें।
+•	 अगर दरवाजा पूरी तरह नहीं खुलता है, तो 
+शेल्फ़ को निकालने के लिए आधी दूर तक 
+खिसका कर बाहर लाएँ और उसे घुमाकर 
+निकालें।
+2
+3
+सावधान
+•	 शेल्फ़ को ठीक प्रकार से लगा होना चाहिए। इसे 
+उल्टा नहीं लगाएँ।
+•	 काँच के कंटेनर काँच की शेल्फ़ की सतह पर 
+खरोंच डाल सकते हैं।
+ट्रे शेल्फ़ निकालना (फ़्रिज/फ़्रीजर)
+•	 शेल्फ़ को निकालने के लिए, शेल्फ़ को नीचे की 
+तरफ से पकड़ें और हल्के से ऊपर उठाएँ और 
+बाहर खींचें।
+नोट
+बाहर खींचने के लिए शेल्फ़ को सामने की तरफ से 
+नहीं पकड़ें। शेल्फ़ सामने की तरफ से ढीला नहीं 
+होता है।
+रखरखाव
+Untitled-1   52
+8/16/2017   5:21:19 PM
+
+
+--- PAGE 117 (TEXT) ---
+हिंदी  53 
+रखरखाव
+दरवाज़ा रक्षक
+कोई दरवाज़ा रक्षक निकालने के लिए, बिन को 
+आगे की तरफ से पकड़ें और निकालने के लिए 
+आराम से उसे ऊपर उठाएँ।
+दराज
+दराज के सामने के हिस्से को हल्के से ऊपर उठाएँ 
+और खिसका कर बाहर निकालें।
+ऐलिवेशन गार्ड (केवल उपयुक्त मॉडल)
+ऐलिवेशन गार्ड निकालने के लिए
+1.	 अंदर का केस खोलें।
+2.	 गार्ड रेल के स्तर दिखाने के लिए ग्राड को 
+सबसे ऊपर के स्तर पर ले जाएँ।
+Untitled-1   53
+8/16/2017   5:21:19 PM
+
+
+--- PAGE 118 (TEXT) ---
+रखरखाव
+हिंदी
+54 
+रखरखाव
+3
+3
+4
+3.	 अनलॉक करने के लिए दोनों लीवर को बाहर 
+की ओर घुमाएँ। लीवर के अनलॉक हो जाने पर, 
+आपको क्लिक की एक आवाज़ सुनाई देगी।
+4.	 आराम से ऊपर उठाएँ और दरवाज़ा गार्ड बाहर 
+खींचें।
+ऐलिवेशन गार्ड फिर से निकालने के लिए
+1
+1
+2
+1.	 अनलॉक करने के लिए दोनों लीवर को बाहर 
+की ओर घुमाएँ। लीवर के अनलॉक हो जाने पर, 
+आपको क्लिक की एक आवाज़ सुनाई देगी।
+2.	 गार्ड को गार्ड रेल में खींचें। गार्ड नीचे आ 
+जाएगा और अपने आप बंद हो जाएगा। 
+Untitled-1   54
+8/16/2017   5:21:20 PM
+
+
+--- PAGE 119 (TEXT) ---
+हिंदी  55 
+रखरखाव
+सब्जी बिन /ड्राई बिन
+फ़्रिज से सब्जी का पात्र या फ़्रीजर से सूखा पात्र 
+निकालने के लिए।
+1.	 पहले, अगर जरूरी हो तो आस-पास के 
+बहुउद्देशीय पात्रों को निकालें।
+A
+2.	 अगर आपके रेफ़्रिजरेटर के सब्ज़ी/ड्राई बिन के 
+लिए कवर (A) साथ में दिया गया है, तो कवर 
+को निकाल दें। इसके लिए, कवर के दोनों तरफ 
+के क्लिप को पकड़े हुए कवर को खिसका कर 
+बाहर निकालें।
+3.	 सावधानीपूर्वक सब्जी/सूखा पात्र को बाहर 
+निकालें।
+आइस मेकर बकेट
+आइसमेकर बकेट को निकालने के लिए, 48 पृष्ठ पर निदान अनुभाग देखें।
+Untitled-1   55
+8/16/2017   5:21:20 PM
+
+
+--- PAGE 120 (TEXT) ---
+रखरखाव
+हिंदी
+56 
+रखरखाव
+सफ़ाई
+आंतरिक और बाहरी
+चेतावनी
+•	 सफ़ाई के लिए बेन्ज़ीन, थिनर, या होम/कार डिटर्जेंट जैसे कि Clorox™ का उपयोग नहीं करें। वे 
+रेफ़्रिजरेटर की सतह को क्षति पहुँचा सकते हैं और आग लगा सकते हैं।
+•	 रेफ़्रिजरेटर पर पानी का छिड़काव न करें। इसके कारण बिजली का झटका लग सकता है।
+•	 डिस्पेंसर के छिद्र में उंगलियाँ या अन्य वस्तुएँ न डालें।
+पावर प्लग टर्मिनलों और संपर्क बिंदुओं से धूल या पानी जैसे सभी बाहरी पदार्थों को हटाने के लिए 
+नियमित रूप से सूखे कपड़े का उपयोग करें।
+1.	 बिजली के तार को निकाल दें।
+2.	 रेफ़्रिजरेटर के अंदरूनी और बाहरी हिस्से को साफ़ करने के लिए नम, मुलायम, रोआँ-मुक्त कपड़े या 
+पेपर टॉवल का उपयोग करें।
+3.	 सफ़ाई पूरा हो जाने पर, अच्छी तरह से सूखाने के लिए सूखे कपड़े या पेपर टॉवल का उपयोग करें।
+4.	 बिजली की तार प्लग में लगाएँ।
+Untitled-1   56
+8/16/2017   5:21:20 PM
+
+
+--- PAGE 121 (TEXT) ---
+हिंदी  57 
+रखरखाव
+प्रतिस्थापन
+वॉटर फ़िल्टर (केवल उपयुक्त मॉडल)
+चेतावनी
+•	 तृतीय-पक्ष के वॉटर फ़िल्टर का उपयोग नहीं करें। केवल Samsung द्वारा प्रदान या स्वीकृत फ़िल्टर 
+का उपयोग करें।
+•	 अस्वीकृत फ़िल्टर रिस सकता है और रेफ़्रिजरेटर को क्षति पहुँचा सकता है, फलस्वरूप बिजली का 
+झटका लग सकता है। Samsung तृतीय-पक्ष के वॉटर फ़िल्टर के उपयोग से होने वाली किसी भी क्षति 
+के लिए जिम्मेदारी नहीं लेता है।
+फ़िल्टर संकेतक (  ) आपको यह याद दिलाने के लिए लाल जलने लगता है कि वॉटर फ़िल्टर बदलने का 
+समय हो गया है।
+1.	 फ़िल्टर काट्रिज़ के नॉब को 90 डिग्री घड़ी 
+की विपरीत दिशा में घुमाएँ। फ़िल्टर काट्रिज़ 
+अनलॉक हो जाएगा। 
+2.	 काट्रिज़ को बाहर निकालें।
+Untitled-1   57
+8/16/2017   5:21:21 PM
+
+
+--- PAGE 122 (TEXT) ---
+रखरखाव
+हिंदी
+58 
+रखरखाव
+3.	 एक नया फ़िल्टर काट्रिज़ लगाएँ। केवल 
+Samsung द्वारा प्रदान या स्वीकृत फ़िल्टर का 
+उपयोग करें।
+4.	 काट्रिज़ को स्थान पर लॉक करने के लिए 
+उसके नॉब को घड़ी की दिशा में घुमाएँ।
+5.	 फ़िल्टर जीवनकाल को रीसेट करने के लिए 
+सुविधा पैनल में Filter Reset (फ़िल्टर रीसेट) 
+को दबाएँ और 3 सेकेंड तक रोक कर रखें। 
+फ़िल्टर संकेतक (  ) बंद हो जाता है।
+6.	 प्रतिस्थापन पूरा हो जाने पर, पानी की लाइन 
+से अशुद्धियों को निकालने के लिए 4 लीटर 
+पानी फ़्लश करें। अधिक जानकारी के लिए 
+फ़्लशिंग अनुभाग देखें।
+नोट
+•	 एक नए स्थापित फ़िल्टर के कारण वॉटर डिस्पेंसर से पानी कुछ समय के लिए तेज धारा में निकल 
+सकता है। ऐसा पानी की लाइन में हवा प्रवेश हो जाने से होता है।
+•	 इस प्रतिस्थापन प्रक्रिया के कारण रेफ़्रिजरेटर से फर्श पर पानी टपक सकता है। अगर ऐसा होता है, तो 
+सूखे कपड़े से पोंछ दें।
+विपरीत परासरण जल फ़िल्टरन सिस्टम
+विपरीत परासरण वाटर फ़िल्टरेशन सिस्टम में पानी आपूर्ति सिस्टम के पानी का दबाव 35 psi और 
+120 psi (241 kPa और 827 kPa) के बीच होना चाहिए।
+रेफ़्रिजरेटर के ठंडे पानी लाइन पर विपरीत परासरण जल फ़िल्टरन सिस्टम का पानी दबाव कम से कम 
+40 psi (276 kPa) होना चाहिए। अगर पानी का दबाव निर्धारित से कम हो:
+•	 जाँचें कि विपरीत परासरण सिस्टम में तलछट फ़िल्टर कहीं अवरुद्ध तो नहीं है। अगर आवश्यक हो तो 
+फ़िल्टर को बदल दें।
+•	 विपरीत परासरण सिस्टम में पानी की टंकी को भर दें।
+•	 अगर आपके रेफ़्रिजरेटर में वॉटर फ़िल्टर है, तो विपरीत परासरण सिस्टम के संयोजन में उपयोग करने 
+से पानी का दबाव और कम हो सकता है। वाटर फ़िल्टर को निकालें।
+अधिक जानकारी या सर्विसि
+ंग के लिए, लाइसेंसधारी प्लंबिंग पेशेवर से संपर्क करें।
+Untitled-1   58
+8/16/2017   5:21:21 PM
+
+
+--- PAGE 123 (TEXT) ---
+हिंदी  59 
+रखरखाव
+नए फ़िल्टर के लिए ऑर्डर देना
+नया वॉटर फ़िल्टर खरीदने के लिए, स्थानीय Samsung सर्विस सेंटर से संपर्क करें।
+लैंप और जीवाणुरोधी फ़िल्टर
+लैंप या जीवाणुरोधी फ़िल्टर उपयोगकर्ता द्वारा मरम्मत योग्य नहीं होते हैं। उन्हें स्वयं बदलने का प्रयास 
+नहीं करें। उन्हें बदलने के लिए, स्थानीय Samsung सर्विस सेंटर से संपर्क करें।
+Untitled-1   59
+8/16/2017   5:21:21 PM
+
+
+--- PAGE 124 (TEXT) ---
+हिंदी
+60 
+समस्या-निवारण
+यदि आप रेफ़्रिजरेटर के साथ किसी असामान्य स्थिति का सामना करते हैं, तो पहले नीचे प्रदान तालिका 
+देखें और सुझावों को आजमाएँ।
+सामान्य
+लक्षण
+कार्य
+संचालन या ठंडा न करें।
+•	 सुनिश्चित करें कि बिजली की तार सही ढंग से लगी हो।
+•	 सुनिश्चित करें कि तापमान नियंत्रण सही ढंग से सेट हो। कम तापमान 
+पर सेट करने का प्रयास करें।
+•	 रेफ़्रिजरेटर को सीधी धूप या गर्मी के स्रोत दूर रखना सुनिश्चित करें। 
+ऐसा करने में विफलता के कारण कूलिंग प्रदर्शन प्रभावित हो सकता है।
+•	 सुनिश्चित करें कि रेफ़्रिजरेटर से पीछे और बगल की दीवारों या कैबिनेट 
+की दूरी पर्याप्त हो। ऐसा करने में विफलता के कारण कूलिंग प्रदर्शन 
+प्रभावित हो सकता है।
+•	 अत्यधिक खाद्य पदार्थ रेफ़्रिजरेटर के वेंटिलेशन को बाधित कर सकता 
+है। रेफ़्रिजरेटर का सामान्य परिचालन बनाए रखने के लिए, अंदर बहुत 
+अधिक खाद्य पदार्थ नहीं रखें।
+फ़्रीज में रखा भोजन जम 
+जाता है।
+•	 जाँचें कि क्या तापमान नियंत्रण न्यूनतम तापमान पर सेट है। अगर ऐसा 
+हो, तो ऊच्च या अनुकूल तापमान में बदलें।
+•	 यह तब होता है जब परिवेशी तापमान बहुत कम होता है। तापमान को 
+अधिक पर सेट करें।
+•	 जाँचें कि क्या पानी की अधिक मात्रा वाला
+ भोजन फ़्रीज के सबसे ठंडे 
+जगह में या कूलिंग वेंट के निकट रखा गया है। यदि ऐसा है, तो भोजन 
+को फ़्रीज के दूसरे शेल्फ़ में रख दें।
+शोर करता है।
+•	 सुनिश्चित करें कि रेफ़्रिजरेटर किसी स्थिर, सपाट सतह पर स्थापित है।
+•	 सुनिश्चित करें कि रेफ़्रिजरेटर से पीछे और बगल की दीवारों या कैबिनेट 
+की दूरी पर्याप्त हो।
+•	 सुनिश्चित करें कि रेफ़्रिजरेटर के अंदर या नीचे गंदगी या बाहरी वस्तुएँ 
+न हों।
+•	 रेफ़्रिजरेटर अंदर से आवाज उत्पन्न कर सकता है, जो तब उत्पन्न होता 
+है जब विभिन्न सहायक उपकरण सिकुड़ते या फैलते हैं। यह प्रणाली की 
+खराबी नहीं है।
+समस्या-निवार
+Untitled-1   60
+8/16/2017   5:21:21 PM
+
+
+--- PAGE 125 (TEXT) ---
+हिंदी  61 
+समस्या-निवार
+लक्षण
+कार्य
+सामने के कोने और बगल 
+के हिस्से गर्म हो जाते 
+हैं और संघनन आरंभ हो 
+जाता है।
+•	 संघनन की रोकथाम के लिए, रेफ़्रिजरेटर के सामने के कोनों में ताप-
+रोधी पाइप होते हैं। यदि परिवेशी तापमान बढ़ जाता है, तो यह उपकरण 
+संभवतः प्रभावी ढंग से काम न करे। यह प्रणाली की खराबी नहीं है।
+•	 सुनिश्चित करें कि दरवाज़ा ठीक ठंग से बंद हो। अगर आप कुछ देर के 
+लिए दरवाजा खुला छोड़ देते हैं तो संघनन आरंभ हो सकता है।
+•	 रेफ़्रिजरेटर की बाहरी सतह पर संघनन हो सकता है यदि नम हवा 
+रेफ़्रिजरेटर की ठंडी सतह के संपर्क में आए।
+आइस मेकर बर्फ़ नहीं 
+बनाता है।
+•	 रेफ़्रिजरेटर के बर्फ़ बनाने से पहले आपको 12 घंटे इंतजार करना चाहिए।
+•	 सुनिश्चित करें कि बर्फ़ बनाते समय आइस मेकर रूका हुआ न हो।
+•	 सुनिश्चित करें कि पानी की टंकी पानी से भरी हो।
+•	 जाँचें कि क्या आइसमेकर बकेट में बर्फ का ढेर है। इस स्थिति में, 
+आइसमेकर बकेट खाली करें और फिर से प्रयास करें।
+पानी का डिस्पेंसर काम 
+नहीं कर रहा है।
+•	 जाँचें कि क्या पानी की टंकी जम तो नहीं गई है। यदि ऐसा है, तो 
+उच्चतर फ़्रीज तापमान चुनें।
+•	 सुनिश्चित करें कि पानी की टंकी पानी से भरी हो।
+•	 सुनिश्चित करें कि पानी की टंकी ठीक तरह से स्थापित हो।
+•	 सुनिश्चित करें कि पानी का फ़िल्टर ठीक तरह से स्थापित हो।
+बुलबुले की आवाज उत्पन्न 
+करता है।
+•	 रेफ़्रिजरेटर यह आवाज कूलिंग प्रक्रिया के दौरान उत्पन्न करता है, जो कि 
+सामान्य है।
+रेफ़्रिजरेटर के अंदर से 
+बदबू आती है।
+•	 किन्हीं खराब हो चुके भोजन के लिए जाँच करें। हम रेफ़्रिजरेटर को 
+नियमित रूप से साफ़ करने और किन्हीं खराब या संदिग्ध खाद्य पदार्थों 
+को हटा देने की अनुशंसा करते हैं।
+•	 सुनिश्चित करें कि तेज़ गंध वाले भोजन वायुरुद्ध तरीके से ढके हों।
+अंदरूनी दीवारों पर तुषार 
+जम जाता है।
+•	 सुनिश्चित करें कि कोई भी खाद्य पदार्थ रेफ़्रिजरेटर के वायु निकास 
+को अवरूद्ध न करे। यह भी महत्वपूर्ण है कि वायु-संचार के लिए खाद्य 
+पदार्थ समान रूप से रखे गए हों।
+•	 सुनिश्चित करें कि दरवाज़ा ठीक ठंग से बंद हो।
+अंदरूनी दीवारों या 
+सब्जियों के चारो तरफ 
+संघनन हो सकता है।
+•	 यह तब होता है जब पानी की अधिक मात्रा वाला
+ खाद्य पदार्थ बिना ढके 
+रखा गया हो, या दरवाज़ा कुछ समय के लिए खुला छोड़ दिया गया हो।
+•	 सुनिश्चित करें कि खाद्य पदार्थ ढके हुए हों या बंद डिब्बों में रखे हों।
+Untitled-1   61
+8/16/2017   5:21:21 PM
+
+
+--- PAGE 126 (TEXT) ---
+समस्या-निवार
+हिंदी
+62 
+समस्या-निवार
+लक्षण
+कार्य
+आइस मेकर, आइस क्यूब 
+की आपूर्ति नहीं करता है।
+निम्नलिखित की जाँच करें:
+•	 जल आपूर्ति की जाँच करने के लिए वॉटर डिस्पेंसर लीवर को दबाएँ।
+•	 आइस मेकर असेंबली में बरमा मोटर के परिचालन की जाँच के लिए 
+आइस डिस्पेंसर लीवर को दबाएँ।
+•	 जाँचें कि क्या कोई वस्तु बरमा मोटर के चलने में रुकावट तो पैदा नहीं 
+कर रही है। अगर मिलता है, तो वस्तु को निकालें और मोटर क्षेत्र को 
+साफ़ करें।
+•	 अगर लंबे समय से आइस मेकर का उपयोग नहीं किया गया है, तो 
+आइस मेकर बकेट में बर्फ का ढेर हो सकता है जो ऑगर मोटर के ठीक 
+तरह से संचालन को बाधित कर सकता है। इस स्थिति में, आइसमेकर 
+बकेट निकालकर उसे खाली करें और बर्फ निकालने का प्रयास करें।
+Untitled-1   62
+8/16/2017   5:21:21 PM
+
+
+--- PAGE 127 (TEXT) ---
+हिंदी  63 
+समस्या-निवार
+Samsung Smart Home
+लक्षण
+कार्य
+एप्लिकेशन मार्केट में 
+“Samsung Smart 
+Home” प्राप्त नहीं हो 
+सका।
+•	 Samsung Smart Home एप्लिकेशन Android 4.0 (ICS) या उसके 
+बाद के संस्करण, या iOS 7.0 या उसके बाद के संस्करण चलाने वाले 
+स्मार्टफ़ोन पर उपलब्ध होता है। 
+Samsung Smart 
+Home एप्लिकेशन 
+संचालित होने में विफल।
+•	 Samsung Smart Home एप्लिकेशन केवल उपयुक्त मॉडल में उपलब्ध 
+है।
+•	 पुराना Samsung Smart रेफ़्रिजरेटर एप्लिकेशन Samsung Smart 
+Home मॉडल के साथ कनेक्ट नहीं हो सकता है।
+Samsung Smart 
+Home एप्लिकेशन 
+स्थापित है लेकिन मेरे 
+रेफ़्रिजरेटर के साथ कनेक्ट 
+नहीं है।
+•	 एप्लिकेशन का उपयोग करने के लिए आपको Samsung खाते में लॉग 
+इन करना पड़ेगा।
+•	 सुनिश्चित करें कि आपका राउटर सामान्य रूप से संचालित हो रहा है।
+•	 सुनिश्चित करें कि स्मार्ट होम डॉन्गल ठीक से डाला गया है।
+•	 अगर रेफ़्रिजेरेटर प्रदर्शन पर लगा Wi-Fi आइकन बंद है, तो यह इसका 
+संकेत है कि कोई नेटवर्क कनेक्शन नहीं हुआ है। इस स्थिति में, अपने 
+घर के एक्सेस पॉइंट (AP) में अपना रेफ़्रिजेरेटर कनेक्ट और रजिस्टर 
+करन क लिए Samsung स्मार्ट होम एप्लिकेशन का उपयोग करें।
+एप्लिकेशन में लॉग इन 
+नहीं कर सका।
+•	 एप्लिकेशन का उपयोग करने के लिए आपको Samsung खाते में लॉग 
+इन करना पड़ेगा।
+•	 अगर आपके पास Samsung खाता नहीं है, तो एक खाता बनाने के 
+लिए एप्लिकेशन के स्क्रीन पर दिए निर्देशों का पालन करें।
+जब में अपने रेफ़्रिजेरेटर 
+को पंजीकृत करने का 
+प्रयास करता/करती हूँ तो 
+एक त्रुटि संदेश दिखाई 
+देती है।
+•	 आपके एक्सेस पॉइंट (AP) से दूरी के कारण या आसपास के परिवेश से 
+इलेक्ट्रिकल व्यवधान के कारण आसान कनेक्शन विफल हो सकता है। 
+कुछ क्षण प्रतीक्षा करें और फिर से प्रयास करें।
+Samsung Smart 
+Home एप्लिकेशन मेरे 
+रेफ़्रिजरेटर से सफलतापूर्वक 
+कनेक्ट हो गया लेकिन 
+चल नहीं रहा है।
+•	 Samsung Smart Home एप्लिकेशन से बाहर निकलें और पुनः आरंभ 
+करें, या राउटर को डिस्कनेक्ट करें और फिर से कनेक्ट करें।
+•	 स्मार्ट होम डॉन्गल निकालें और ठीक से फिर से कनेक्ट करें। फिर, 
+दोबारा प्रयास करें।
+Untitled-1   63
+8/16/2017   5:21:21 PM
+
+
+--- PAGE 128 (TEXT) ---
+SAMSUNG WORLD WIDE से संपर्क करें
+अगर Samsung उत्पादों से संबंधित आपके कोई प्रश्न या टिप्पणियाँ हैं, तो कृपया SAMSUNG ग्राहक 
+सेवा केंद्र से संपर्क करें.
+देश
+संपर्क केंद्र
+वेबसाइट
+INDIA
+1800 40 SAMSUNG (1800 40 7267864) 
+(Toll-Free)
+www.samsung.com/in/support
+NEPAL
+18000910113
+www.samsung.com/in/support
+BANGLADESH
+09612300300 
+08000300300 (Toll free)
+www.samsung.com/in/support
+SRI LANKA
+0117540540
+0115900000
+www.samsung.com/support
+यह उत्पाद RoHS अनुवर्ती है।
+DA68-03412F-04
+Untitled-1   64
+8/16/2017   5:21:22 PM
+
