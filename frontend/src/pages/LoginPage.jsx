@@ -398,7 +398,8 @@ const LoginPage = () => {
                   onClick={() => setShowPassword(!showPassword)}
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.95 }}
-                  className="absolute right-3 top-9 text-gray-400 hover:text-white transition-colors"
+                  className="absolute right-3 top-13 text-gray-400 hover:text-white transition-colors"//change position of eye icon.place it in center.
+
                 >
                   {showPassword ? (
                     <EyeOff className="w-5 h-5" />
@@ -430,7 +431,7 @@ const LoginPage = () => {
                     onClick={() => setShowConfirmPassword(!showConfirmPassword)}
                     whileHover={{ scale: 1.1 }}
                     whileTap={{ scale: 0.95 }}
-                    className="absolute right-3 top-9 text-gray-400 hover:text-white transition-colors"
+                    className="absolute right-3 top-13 text-gray-400 hover:text-white transition-colors"
                   >
                     {showConfirmPassword ? (
                       <EyeOff className="w-5 h-5" />
