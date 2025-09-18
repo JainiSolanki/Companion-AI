@@ -1,7 +1,10 @@
 import axios from "axios";
 
 
-const API_BASE_URL = "http://localhost:5000/api";
+//const API_BASE_URL = "http://localhost:5000/api";
+// prefer environment variable (Vite uses import.meta.env.VITE_*)
+const API_BASE_URL = import.meta.env.VITE_API_BASE || "http://localhost:8000/api";
+
 
 // Create axios instance
 const api = axios.create({
@@ -40,10 +43,10 @@ api.interceptors.response.use(
 
 // Auth API calls
 export const authAPI = {
-  login: (email, password) => api.post("/auth/login", { email, password }),
+  login: (email, password) => api.post("/auth/login/", { email, password }),
 
-  signup: (email, password, name) =>
-    api.post("/auth/signup", { email, password, name }),
+  signup: (username, email, password) =>
+    api.post("/auth/signup/", { username, email, password }),
 
   verifyToken: () => api.get("/auth/verify"),
 
@@ -52,12 +55,14 @@ export const authAPI = {
 
 // Chat API calls
 export const chatAPI = {
-  sendMessage: (message, appliance) =>
-    api.post("/chat/message", { message, appliance }),
+  //sendMessage: (message, appliance) =>
+   // api.post("/chat/message", { message, appliance }),
+  sendMessage: (message, { appliance, brand }) =>
+  api.post("/chat/", { message, appliance, brand }),
 
   getMaintenanceTips: (appliance) => api.get(`/chat/tips/${appliance}`),
 
-  getChatHistory: () => api.get("/chat/history"),
+  getChatHistory: () => api.get("/chat/"),
 
   clearChatHistory: () => api.delete("/chat/history"),
 };

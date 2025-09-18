@@ -23,19 +23,22 @@ import Button from "../components/common/Button";
 import Input from "../components/common/Input";
 import GlassmorphismCard from "../components/ui/GlassmorphismCard";
 
+
+
 const LoginPage = () => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const { isLoading, error, isAuthenticated } = useSelector(
     (state) => state.auth
   );
-  const { activeTab } = useSelector((state) => state.ui);
+  // const { activeTab } = useSelector((state) => state.ui);
+  const [activeTab, setActiveTab] = useState("login")
 
   const [formData, setFormData] = useState({
     email: "",
     password: "",
     confirmPassword: "",
-    name: "",
+    username: "",
   });
   const [showPassword, setShowPassword] = useState(false);
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
@@ -83,9 +86,10 @@ const LoginPage = () => {
       }
       dispatch(
         signupUser({
-          name: formData.name,
+          username: formData.username,
           email: formData.email,
           password: formData.password,
+          setActiveTab
         })
       );
     }
@@ -365,9 +369,9 @@ const LoginPage = () => {
               {activeTab === "signup" && (
                 <Input
                   label="Full Name"
-                  name="name"
+                  name="username"
                   placeholder="Enter your full name"
-                  value={formData.name}
+                  value={formData.username}
                   onChange={handleInputChange}
                   required
                 />
