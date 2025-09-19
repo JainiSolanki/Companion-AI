@@ -15,6 +15,10 @@ import {
   clearSelection,
 } from "../../store/slices/chatSlice";
 
+// ===== ADDED: Import logos from assets =====
+import lgLogo from "/src/assets/logo/lgLogo.png";
+import samsungLogo from "/src/assets/logo/samsungLogo.png";
+
 const Sidebar = () => {
   const dispatch = useDispatch();
   const { selectedAppliance, selectedBrand } = useSelector(
@@ -25,14 +29,14 @@ const Sidebar = () => {
     {
       id: "refrigerator",
       name: "Refrigerator",
-      icon: <Refrigerator className="w-6 h-6" />,
+      icon: <Refrigerator className="w-8 h-8" />,
       brands: [
-        { id: "lg", name: "LG", color: "from-red-500 to-red-600", logo: "🔴" },
+        { id: "lg", name: "LG", color: "from-red-500 to-red-600", logo: lgLogo }, // Changed from "🔴"
         {
           id: "samsung",
           name: "Samsung",
           color: "from-blue-500 to-blue-600",
-          logo: "🔵",
+          logo: samsungLogo, // Changed from "🔵"
         },
       ],
     },
@@ -41,12 +45,12 @@ const Sidebar = () => {
       name: "Washing Machine",
       icon: <WashingMachine className="w-6 h-6" />,
       brands: [
-        { id: "lg", name: "LG", color: "from-red-500 to-red-600", logo: "🔴" },
+        { id: "lg", name: "LG", color: "from-red-500 to-red-600", logo: lgLogo }, // Changed from "🔴"
         {
           id: "samsung",
           name: "Samsung",
           color: "from-blue-500 to-blue-600",
-          logo: "🔵",
+          logo: samsungLogo, // Changed from "🔵"
         },
       ],
     },
@@ -249,7 +253,16 @@ const Sidebar = () => {
                       />
 
                       <div className="relative z-10 text-center">
-                        <div className="text-3xl mb-2">{brand.logo}</div>
+                        {/* ===== CHANGED: Logo display instead of emoji ===== */}
+                        <div className="mb-3 flex justify-center">
+                          <div className="w-20 h-20 rounded-xl flex items-center justify-center p-3 shadow-lg">
+                            <img 
+                              src={brand.logo} 
+                              alt={`${brand.name} logo`} 
+                              className="w-14 h-14 object-contain max-w-full max-h-full"
+                            />
+                          </div>
+                        </div>
                         <h3 className="text-xl font-bold text-white mb-1">
                           {brand.name}
                         </h3>
@@ -332,7 +345,8 @@ const Sidebar = () => {
             className="text-xs text-white font-medium hover:text-gray-300 transition-colors"
           >
             Request Support
-          </motion.button>
+            </motion.button>
+
         </div>
       </div>
     </div>
