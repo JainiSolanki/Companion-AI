@@ -9,7 +9,7 @@ const API_BASE_URL = import.meta.env.VITE_API_BASE || "http://localhost:8000/api
 // Create axios instance
 const api = axios.create({
   baseURL: API_BASE_URL,
-  timeout: 10000,
+  timeout: 100000,
   headers: {
     "Content-Type": "application/json",
   },
@@ -62,7 +62,7 @@ export const chatAPI = {
 
   getMaintenanceTips: (appliance) => api.get(`/chat/tips/${appliance}`),
 
-  getChatHistory: () => api.get("/chat/"),
+  getChatHistory: (sessionId) => api.get(`/chat/?session_id=${sessionId}`),
 
   clearChatHistory: () => api.delete("/chat/history"),
 };

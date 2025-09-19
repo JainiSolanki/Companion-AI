@@ -2,7 +2,7 @@ import React, { useState, useRef } from "react";
 import { motion } from "framer-motion";
 import { useDispatch, useSelector } from "react-redux";
 import { Send, Zap } from "lucide-react";
-import { sendMessage, addMessage } from "../../store/slices/chatSlice";
+import { addMessage, sendMessageAPI } from "../../store/slices/chatSlice";
 import Button from "../common/Button";
 
 const ChatInput = () => {
@@ -13,20 +13,21 @@ const ChatInput = () => {
   const [message, setMessage] = useState("");
   const textareaRef = useRef(null);
 
-  const handleSend = () => {
+  const handleSend = (e) => {
+    e.preventDefault();
     if (!message.trim() || isLoading) return;
 
     const userMessage = {
       type: "user",
       content: message.trim(),
     };
-
+    
     // Add user message immediately
     dispatch(addMessage(userMessage));
 
     // Send to backend
     dispatch(
-      sendMessage({
+      sendMessageAPI({
         message: message.trim(),
         selectedAppliance,
         selectedBrand,

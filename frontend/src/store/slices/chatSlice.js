@@ -33,6 +33,8 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
         appliance: selectedAppliance,
         brand: selectedBrand,
         });
+        console.log(data);
+        
         return data;
       }
        catch (error) {
@@ -126,12 +128,13 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
           // Add AI response
           const aiMessage = {
-            id: Date.now() + 1,
-            timestamp: Date.now(),
-            type: "ai",
-            content: action.payload.message,
-            source: action.payload.source || null,
+          id: action.payload.id,
+          timestamp: action.payload.timestamp,
+          type: "ai",
+          content: action.payload.response,   // ✅ show AI’s reply
+          source: null,
           };
+
           state.messages.push(aiMessage);
         })
         .addCase(sendMessageAPI.rejected, (state, action) => {
