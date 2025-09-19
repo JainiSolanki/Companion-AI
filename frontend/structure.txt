@@ -1,0 +1,49 @@
+.
+├── .DS_Store
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── public
+│   └── vite.svg
+├── README.md
+├── src
+│   ├── .DS_Store
+│   ├── App.css
+│   ├── App.jsx
+│   ├── assets
+│   │   └── react.svg
+│   ├── components
+│   │   ├── chat
+│   │   │   ├── ChatInput.jsx
+│   │   │   ├── ChatMessage.jsx
+│   │   │   ├── ProactiveTips.jsx
+│   │   │   └── Sidebar.jsx
+│   │   ├── common
+│   │   │   ├── Button.jsx
+│   │   │   ├── Input.jsx
+│   │   │   └── Navbar.jsx
+│   │   └── ui
+│   │       ├── DemoPreview.jsx
+│   │       ├── FeatureCard.jsx
+│   │       └── GlassmorphismCard.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   ├── pages
+│   │   ├── ChatPage.jsx
+│   │   ├── HomePage.jsx
+│   │   └── LoginPage.jsx
+│   ├── services
+│   │   └── api.js
+│   └── store
+│       ├── slices
+│       │   ├── authSlice.js
+│       │   ├── chatSlice.js
+│       │   └── uiSlice.js
+│       └── store.js
+├── structure.txt
+├── tailwind.config.js
+└── vite.config.js
+
+12 directories, 35 files

@@ -2,13 +2,18 @@ import React, { useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router-dom";
-import { Bot, Menu, X, Cpu, Zap, Activity, Wifi } from "lucide-react";
+// ===== ADDED: Settings icon for toggle button =====
+import { Bot, Menu, X, Cpu, Zap, Activity, Wifi, Settings } from "lucide-react";
 import { toggleSidebar } from "../store/slices/chatSlice";
 import { logoutUser } from "../store/slices/authSlice";
+// ===== ADDED: Import for right sidebar toggle =====
+import { toggleRightSidebar, setRightSidebarActiveTab } from "../store/slices/uiSlice";
 import Sidebar from "../components/chat/Sidebar";
 import ChatMessage from "../components/chat/ChatMessage";
 import ChatInput from "../components/chat/ChatInput";
 import ProactiveTips from "../components/chat/ProactiveTips";
+// ===== ADDED: Import ChatHistory =====
+import ChatHistory from "../components/chat/ChatHistory";
 import Button from "../components/common/Button";
 
 const ChatPage = () => {
@@ -20,6 +25,8 @@ const ChatPage = () => {
   const { messages, isTyping, sidebarOpen, selectedAppliance, selectedBrand } = useSelector(
     (state) => state.chat
   );
+  // ===== ADDED: Get right sidebar state =====
+  const { rightSidebarOpen, rightSidebarActiveTab } = useSelector((state) => state.ui);
 
   // Floating particles for background
   const floatingElements = [
@@ -271,6 +278,19 @@ const ChatPage = () => {
                   <div className="w-1 h-1 bg-white rounded-full"></div>
                   <span className="text-xs text-green-400">Online</span>
                 </motion.div>
+
+                {/* ===== ADDED: Toggle button for right sidebar (where red circle was) ===== */}
+                <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+                  <Button 
+                    variant="glass" 
+                    size="sm" 
+                    onClick={() => dispatch(toggleRightSidebar())}
+                    className="p-2"
+                  >
+                    <Settings className="w-5 h-5" />
+                  </Button>
+                </motion.div>
+
                 <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                   <Button variant="glass" size="sm" onClick={handleLogout}>
                     Logout
@@ -285,7 +305,7 @@ const ChatPage = () => {
             {/* Messages Area with Animated Width */}
             <motion.div
               animate={{
-                width: selectedAppliance && selectedBrand ? "calc(100% - 320px)" : "100%",
+                width: rightSidebarOpen ? "calc(100% - 320px)" : "100%",
               }}
               transition={{
                 type: "spring",
@@ -503,9 +523,9 @@ const ChatPage = () => {
               </motion.div>
             </motion.div>
 
-            {/* Enhanced Proactive Tips Panel with Smooth Animation */}
+            {/* ===== MODIFIED: Enhanced Right Sidebar with Toggle and Tabs ===== */}
             <AnimatePresence>
-              {selectedAppliance && selectedBrand && (
+              {rightSidebarOpen && (
                 <motion.div
                   initial={{ x: 320, opacity: 0, width: 0 }}
                   animate={{ x: 0, opacity: 1, width: "320px" }}
@@ -530,8 +550,37 @@ const ChatPage = () => {
                     transition={{ duration: 5, repeat: Infinity }}
                     className="absolute inset-0"
                   />
-                  <div className="relative z-10">
-                    <ProactiveTips />
+                  
+                  <div className="relative z-10 h-full flex flex-col">
+                    {/* ===== ADDED: Tab Headers ===== */}
+                    <div className="flex border-b border-white/20">
+                      <button
+                        onClick={() => dispatch(setRightSidebarActiveTab('smartTips'))}
+                        className={`flex-1 px-4 py-3 text-sm font-medium transition-colors ${
+                          rightSidebarActiveTab === 'smartTips'
+                            ? 'text-yellow-400 border-b-2 border-yellow-400 bg-yellow-500/10'
+                            : 'text-gray-400 hover:text-white'
+                        }`}
+                      >
+                        Smart Tips
+                      </button>
+                      <button
+                        onClick={() => dispatch(setRightSidebarActiveTab('history'))}
+                        className={`flex-1 px-4 py-3 text-sm font-medium transition-colors ${
+                          rightSidebarActiveTab === 'history'
+                            ? 'text-blue-400 border-b-2 border-blue-400 bg-blue-500/10'
+                            : 'text-gray-400 hover:text-white'
+                        }`}
+                      >
+                        History
+                      </button>
+                    </div>
+
+                    {/* ===== ADDED: Tab Content ===== */}
+                    <div className="flex-1 overflow-hidden">
+                      {rightSidebarActiveTab === 'smartTips' && <ProactiveTips />}
+                      {rightSidebarActiveTab === 'history' && <ChatHistory />}
+                    </div>
                   </div>
                 </motion.div>
               )}
