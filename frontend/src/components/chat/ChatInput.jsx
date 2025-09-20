@@ -8,7 +8,7 @@ import useSpeechRecognition from "../../hooks/useSpeechRecognition";
 
 const ChatInput = () => {
   const dispatch = useDispatch();
-  const { selectedAppliance, selectedBrand, isLoading } = useSelector(
+  const { selectedAppliance, selectedBrand, isLoading, currentSessionId } = useSelector(
     (state) => state.chat
   );
 
@@ -56,9 +56,9 @@ const ChatInput = () => {
         message: message.trim(),
         selectedAppliance,
         selectedBrand,
+        currentSessionId,
       })
     );
-
     setMessage("");
     setIsVoiceInput(false);
 

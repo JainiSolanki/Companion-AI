@@ -4,11 +4,12 @@ import { chatAPI } from "../../services/api";
 // Existing async thunk - FIXED
 export const sendMessageAPI = createAsyncThunk(
   "chat/sendMessageAPI",
-  async ({ message, selectedAppliance, selectedBrand }, { rejectWithValue }) => {
+  async ({ message, selectedAppliance, selectedBrand, currentSessionId }, { rejectWithValue }) => {
     try {
       const { data } = await chatAPI.sendMessage(message, {
         appliance: selectedAppliance,
         brand: selectedBrand,
+        session_id: currentSessionId,  
       });
       console.log(data);
       return data;
@@ -17,6 +18,7 @@ export const sendMessageAPI = createAsyncThunk(
     }
   }
 );
+
 
 // ✅ Delete chat session
 export const deleteChatSession = createAsyncThunk(
@@ -195,7 +197,7 @@ const chatSlice = createSlice({
           id: action.payload.id,
           timestamp: Date.now(),
           type: "ai",
-          content: action.payload.response, // ✅ show AI's reply
+          content: action.payload.response, 
           source: null,
         };
         state.messages.push(aiMessage);

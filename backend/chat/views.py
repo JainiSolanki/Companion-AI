@@ -56,10 +56,16 @@ class ChatMessageListCreateView(generics.ListCreateAPIView):
             )
 
         # Call RAG pipeline
+        # Call RAG pipeline with appliance, brand, and session_id
         try:
-            ai_answer, sources = rag.answer_query(message)
+            ai_answer, sources = rag.answer_query(
+                message,
+                appliance=appliance,
+                brand=brand,
+                session_id=session.session_id,  # ✅ pass session id for follow-ups
+            )
         except Exception as e:
-            ai_answer = f"I apologize, but I'm experiencing technical difficulties. Please try again later."
+            ai_answer = "⚠️ Sorry, I'm facing technical difficulties. Please try again later."
             sources = []
 
         # Save message with correct session reference
