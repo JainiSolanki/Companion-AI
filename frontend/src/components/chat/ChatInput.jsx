@@ -1,17 +1,42 @@
-import React, { useState, useRef } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import { motion } from "framer-motion";
 import { useDispatch, useSelector } from "react-redux";
-import { Send, Zap } from "lucide-react";
+import { Send, Zap, Mic, MicOff } from "lucide-react";
 import { addMessage, sendMessageAPI } from "../../store/slices/chatSlice";
 import Button from "../common/Button";
+import useSpeechRecognition from "../../hooks/useSpeechRecognition";
 
 const ChatInput = () => {
   const dispatch = useDispatch();
   const { selectedAppliance, selectedBrand, isLoading } = useSelector(
     (state) => state.chat
   );
+
   const [message, setMessage] = useState("");
+  const [isVoiceInput, setIsVoiceInput] = useState(false);
   const textareaRef = useRef(null);
+
+  // Speech recognition hook
+  const {
+    isListening,
+    transcript,
+    isSupported,
+    startListening,
+    stopListening
+  } = useSpeechRecognition();
+
+  // Update message when speech transcript changes
+  useEffect(() => {
+    if (transcript) {
+      setMessage(transcript);
+      setIsVoiceInput(true);
+      // Auto-resize textarea for voice input
+      if (textareaRef.current) {
+        textareaRef.current.style.height = "auto";
+        textareaRef.current.style.height = Math.min(textareaRef.current.scrollHeight, 120) + "px";
+      }
+    }
+  }, [transcript]);
 
   const handleSend = (e) => {
     //e.preventDefault();
@@ -21,7 +46,7 @@ const ChatInput = () => {
       type: "user",
       content: message.trim(),
     };
-    
+
     // Add user message immediately
     dispatch(addMessage(userMessage));
 
@@ -35,10 +60,22 @@ const ChatInput = () => {
     );
 
     setMessage("");
+    setIsVoiceInput(false);
 
     // Reset textarea height
     if (textareaRef.current) {
       textareaRef.current.style.height = "auto";
+    }
+  };
+
+  // Handle voice input toggle
+  const handleVoiceToggle = () => {
+    if (isListening) {
+      stopListening();
+    } else {
+      setMessage(""); // Clear current message
+      setIsVoiceInput(false);
+      startListening();
     }
   };
 
@@ -57,7 +94,8 @@ const ChatInput = () => {
 
   const handleTextareaChange = (e) => {
     setMessage(e.target.value);
-
+    setIsVoiceInput(false);
+    
     // Auto-resize textarea
     const textarea = e.target;
     textarea.style.height = "auto";
@@ -68,105 +106,155 @@ const ChatInput = () => {
 
   return (
     <motion.div
-      initial={{ y: 50, opacity: 0 }}
+      className="relative p-6 bg-gradient-to-r from-black/90 to-black/95 backdrop-blur-xl border-t border-white/10"
+      initial={{ y: 20, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
-      className="relative"
+      transition={{ duration: 0.6 }}
     >
-      <div className="bg-black/40 backdrop-blur-xl border border-white/20 rounded-3xl p-4 relative overflow-hidden">
-        {/* Input Background Animation */}
-        <motion.div
-          animate={{
-            background: [
-              "linear-gradient(90deg, transparent, rgba(255,255,255,0.05), transparent)",
-              "linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent)",
-              "linear-gradient(90deg, transparent, rgba(255,255,255,0.05), transparent)",
-            ],
-          }}
-          transition={{ duration: 4, repeat: Infinity }}
-          className="absolute inset-0 rounded-3xl"
-        />
+      {/* Input Background Animation */}
+      <motion.div
+        className="absolute inset-0 bg-gradient-to-r from-blue-600/5 to-purple-600/5 opacity-50"
+        animate={{
+          scale: [1, 1.02, 1],
+          opacity: [0.3, 0.6, 0.3],
+        }}
+        transition={{
+          duration: 4,
+          repeat: Infinity,
+          ease: "easeInOut",
+        }}
+      />
 
-        {isDisabled ? (
-          // Selection Required State
-          <div className="text-center py-6 relative z-10">
-            <motion.div
-              animate={{ rotate: 360 }}
-              transition={{ duration: 10, repeat: Infinity, ease: "linear" }}
-              className="w-12 h-12 mx-auto mb-3 bg-white/10 backdrop-blur-xl rounded-2xl flex items-center justify-center border border-white/20"
-            >
-              <Zap className="w-6 h-6 text-gray-400" />
-            </motion.div>
-            <p className="text-gray-400 mb-2">
-              Please select your appliance and brand
-            </p>
-            <p className="text-xs text-gray-500">
-              Choose from the sidebar to start chatting
-            </p>
-          </div>
-        ) : (
-          // Active Chat Input
-          <div className="flex items-end space-x-4 relative z-10">
-            {/* Message Input */}
-            <div className="flex-1">
-              <textarea
-                ref={textareaRef}
-                value={message}
-                onChange={handleTextareaChange}
-                onKeyDown={handleKeyDown}
-                placeholder={`Ask me about your ${selectedBrand} ${selectedAppliance?.replace(
-                  "-",
-                  " "
-                )}... (Shift+Enter for new line)`}
-                className="w-full bg-transparent text-white placeholder-gray-400 resize-none outline-none min-h-[44px] max-h-[120px] py-2 px-2"
-                rows={1}
-                disabled={isLoading}
-              />
-            </div>
+      {isDisabled ? (
+        // Selection Required State
+        <div className="text-center py-8">
+          <motion.div
+            className="text-gray-400 text-lg mb-2"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.2 }}
+          >
+            Please select your appliance and brand
+          </motion.div>
+          <motion.div
+            className="text-gray-500 text-sm"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.4 }}
+          >
+            Choose from the sidebar to start chatting
+          </motion.div>
+        </div>
+      ) : (
+        // Active Chat Input
+        <div className="flex items-end gap-3 relative">
+          {/* Message Input with Icons Inside */}
+          <div className="flex-1 relative">
+            <motion.textarea
+              ref={textareaRef}
+              value={message}
+              onChange={handleTextareaChange}
+              onKeyDown={handleKeyDown}
+              placeholder={`Ask me about your ${selectedAppliance?.replace(
+                "-",
+                " "
+              )}... (Shift+Enter for new line)`}
+              className={`w-full px-4 py-3 pr-20 bg-white/5 border border-white/10 rounded-xl text-white placeholder-gray-500 focus:outline-none focus:border-blue-500/50 focus:bg-white/10 transition-all duration-300 resize-none min-h-[52px] max-h-[120px] ${
+                isVoiceInput ? 'border-blue-400/50 bg-blue-500/10' : ''
+              } ${isListening ? 'border-red-400/50 bg-red-500/10' : ''}`}
+              disabled={isLoading || isListening}
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.1 }}
+            />
 
-            {/* Send Button */}
-            <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-              <Button
+            {/* Icons Container - INSIDE the input field */}
+            <div className="absolute right-2 top-1/2 transform -translate-y-1/2 flex items-center gap-2">
+              {/* Speaker/Microphone Icon - INSIDE input */}
+              {isSupported && (
+                <motion.button
+                  type="button"
+                  onClick={handleVoiceToggle}
+                  disabled={isLoading}
+                  className={`p-2 rounded-lg transition-all duration-300 ${
+                    isListening
+                      ? 'bg-red-500/20 hover:bg-red-500/30 text-red-400'
+                      : 'bg-white/10 hover:bg-white/20 text-gray-400 hover:text-white'
+                  } ${isLoading ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer'}`}
+                  title={isListening ? 'Stop Recording' : 'Start Voice Input'}
+                  initial={{ scale: 0 }}
+                  animate={{ scale: 1 }}
+                  transition={{ delay: 0.2 }}
+                >
+                  {isListening ? (
+                    <MicOff className="w-4 h-4" />
+                  ) : (
+                    <Mic className="w-6 h-6" />
+                  )}
+                </motion.button>
+              )}
+
+              {/* Send Message Icon - INSIDE input */}
+              <motion.button
+                type="submit"
                 onClick={handleSend}
-                disabled={!message.trim() || isLoading}
-                className="p-3 min-w-0 relative overflow-hidden"
-                size="sm"
+                disabled={!message.trim() || isLoading || isListening}
+                className="p-2 bg-blue-600 hover:bg-blue-700 disabled:bg-gray-600 text-white rounded-lg transition-all duration-300 relative overflow-hidden group"
+                initial={{ scale: 0 }}
+                animate={{ scale: 1 }}
+                transition={{ delay: 0.3 }}
               >
+                <Send className="w-6 h-6 relative z-10" />
                 {/* Button animation */}
                 <motion.div
+                  className="absolute inset-0 bg-gradient-to-r from-blue-400 to-blue-600 opacity-0 group-hover:opacity-20"
                   animate={{
-                    x: [-100, 400],
+                    scale: [1, 1.1, 1],
                   }}
                   transition={{
-                    duration: 3,
+                    duration: 2,
                     repeat: Infinity,
-                    ease: "linear",
+                    ease: "easeInOut",
                   }}
-                  className="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent -skew-x-12"
                 />
+              </motion.button>
+            </div>
 
-                <motion.div
-                  animate={isLoading ? { rotate: 360 } : {}}
-                  transition={{
-                    duration: 1,
-                    repeat: isLoading ? Infinity : 0,
-                    ease: "linear",
-                  }}
-                  className="relative z-10"
-                >
-                  <Send className="w-5 h-5" />
-                </motion.div>
-              </Button>
-            </motion.div>
+            {/* Voice Input Indicators */}
+            {isVoiceInput && message && !isListening && (
+              <div className="absolute top-1 right-1 bg-blue-500 text-white text-xs px-2 py-1 rounded-md">
+                🎙️ Voice
+              </div>
+            )}
+            
+            {isListening && (
+              <div className="absolute top-1 right-1 bg-red-500 text-white text-xs px-2 py-1 rounded-md animate-pulse">
+                🔴 Listening...
+              </div>
+            )}
           </div>
-        )}
-      </div>
+        </div>
+      )}
 
-      {/* Quick Actions */}
-      {!isDisabled && message === "" && (
-        <motion.div
+      {/* Voice Input Status Message */}
+      {isVoiceInput && message && !isListening && (
+        <motion.div 
+          className="mt-3 text-sm text-blue-400 flex items-center space-x-2"
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
+        >
+          <span>🎙️</span>
+          <span>Voice input detected. You can edit before sending.</span>
+        </motion.div>
+      )}
+
+      {/* Quick Actions */}
+      {!isDisabled && message === "" && !isListening && (
+        <motion.div
           className="flex flex-wrap gap-2 mt-4"
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.4 }}
         >
           {[
             `My ${selectedBrand} ${selectedAppliance?.replace(
@@ -185,13 +273,10 @@ const ChatInput = () => {
           ].map((suggestion, index) => (
             <motion.button
               key={index}
-              initial={{ opacity: 0, scale: 0.9 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ delay: index * 0.1 }}
-              whileHover={{ scale: 1.02, y: -2 }}
-              whileTap={{ scale: 0.98 }}
               onClick={() => setMessage(suggestion)}
               className="bg-white/5 hover:bg-white/10 border border-white/10 hover:border-white/20 rounded-xl px-3 py-2 text-xs text-gray-400 hover:text-white transition-all duration-300"
+              whileHover={{ scale: 1.02 }}
+              whileTap={{ scale: 0.98 }}
             >
               {suggestion}
             </motion.button>
@@ -200,17 +285,26 @@ const ChatInput = () => {
       )}
 
       {/* Status Indicator */}
-      <div className="flex justify-between items-center mt-3 text-xs text-gray-500">
-        <span>
+      <div className="flex items-center justify-between mt-3 text-xs text-gray-500">
+        <div className="flex items-center gap-4">
           {message.length > 0 && `${message.length} characters`}
           {selectedAppliance && selectedBrand && (
-            <span className="ml-2 text-green-400">
-              ● {selectedBrand.toUpperCase()}{" "}
-              {selectedAppliance.replace("-", " ")} Expert Active
-            </span>
+            <div className="flex items-center gap-1">
+              <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
+              <span className="text-green-400">
+                ● {selectedBrand.toUpperCase()}{" "}
+                {selectedAppliance.replace("-", " ")} Expert Active
+              </span>
+            </div>
           )}
-        </span>
-        <span>Enter to send • Shift+Enter for new line</span>
+        </div>
+        <div>
+          {isListening ? (
+            <span className="text-red-400">🔴 Voice recording active</span>
+          ) : (
+            "Enter to send • Shift+Enter for new line"
+          )}
+        </div>
       </div>
     </motion.div>
   );
