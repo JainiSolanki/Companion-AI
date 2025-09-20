@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { motion } from "framer-motion";
 import { useDispatch, useSelector } from "react-redux";
 import { Clock, MessageSquare, Trash2 } from "lucide-react";
-import { fetchChatHistory, fetchSessionMessages, setCurrentSession } from "../../store/slices/chatSlice";
+import { fetchChatHistory, fetchSessionMessages, setCurrentSession, deleteChatSession } from "../../store/slices/chatSlice";
 
 const ChatHistory = () => {
   const dispatch = useDispatch();
@@ -15,8 +15,8 @@ const ChatHistory = () => {
   }, [dispatch]);
 
   const handleSessionClick = (session) => {
-    dispatch(setCurrentSession(session.id));
-    dispatch(fetchSessionMessages(session.id));
+    dispatch(setCurrentSession(session.session_id));
+    dispatch(fetchSessionMessages(session.session_id));
   };
 
   if (historyLoading) {
@@ -58,7 +58,7 @@ const ChatHistory = () => {
               transition={{ delay: index * 0.1 }}
               onClick={() => handleSessionClick(session)}
               className={`bg-white/5 hover:bg-white/10 backdrop-blur-sm border border-white/10 rounded-lg p-3 cursor-pointer transition-all duration-200 ${
-                currentSessionId === session.id ? 'border-blue-400 bg-blue-500/10' : ''
+                currentSessionId === session.session_id ? 'border-blue-400 bg-blue-500/10' : ''
               }`}
             >
               <div className="flex items-start justify-between">
@@ -73,9 +73,16 @@ const ChatHistory = () => {
                     {new Date(session.created_at).toLocaleDateString()}
                   </p>
                 </div>
-                <button className="text-gray-500 hover:text-red-400 p-1">
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation(); // prevent opening session
+                    dispatch(deleteChatSession(session.session_id)); // 👈 call delete thunk
+                  }}
+                  className="text-gray-500 hover:text-red-400 p-1"
+                >
                   <Trash2 size={14} />
-                </button>
+              </button>
+
               </div>
             </motion.div>
           ))}

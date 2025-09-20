@@ -18,6 +18,31 @@ export const sendMessageAPI = createAsyncThunk(
   }
 );
 
+// ✅ Delete chat session
+export const deleteChatSession = createAsyncThunk(
+  "chat/deleteChatSession",
+  async (sessionId, { rejectWithValue }) => {
+    try {
+      const response = await fetch("http://127.0.0.1:8000/api/sessions/", {
+        method: "DELETE",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${localStorage.getItem("token")}`,
+        },
+        body: JSON.stringify({ session_id: sessionId }),
+      });
+
+      if (!response.ok) {
+        throw new Error("Failed to delete session");
+      }
+
+      return sessionId; // return sessionId so reducer can remove it
+    } catch (error) {
+      return rejectWithValue(error.message);
+    }
+  }
+);
+
 export const getMaintenanceTips = createAsyncThunk(
   "chat/getMaintenanceTips",
   async ({ appliance, brand }, { rejectWithValue }) => {
@@ -214,7 +239,23 @@ const chatSlice = createSlice({
       .addCase(fetchSessionMessages.rejected, (state, action) => {
         state.isLoading = false;
         state.error = action.payload;
-      });
+      })
+      // ✅ Delete session
+      .addCase(deleteChatSession.fulfilled, (state, action) => {
+        // Remove the deleted session from chatHistory
+        state.chatHistory = state.chatHistory.filter(
+          (session) => session.session_id !== action.payload
+        );
+
+        // If the deleted session was active, reset currentSessionId
+        if (state.currentSessionId === action.payload) {
+          state.currentSessionId = null;
+          state.messages = [];
+        }
+      })
+      .addCase(deleteChatSession.rejected, (state, action) => {
+        state.historyError = action.payload;
+      })
   },
 });
 

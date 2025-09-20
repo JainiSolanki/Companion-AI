@@ -27,13 +27,13 @@ const Sidebar = () => {
 
   const appliances = [
     {
-      id: "refrigerator",
+      id: "Refrigerator",
       name: "Refrigerator",
       icon: <Refrigerator className="w-8 h-8" />,
       brands: [
-        { id: "lg", name: "LG", color: "from-red-500 to-red-600", logo: lgLogo }, // Changed from "🔴"
+        { id: "LG", name: "LG", color: "from-red-500 to-red-600", logo: lgLogo }, // Changed from "🔴"
         {
-          id: "samsung",
+          id: "Samsung",
           name: "Samsung",
           color: "from-blue-500 to-blue-600",
           logo: samsungLogo, // Changed from "🔵"
@@ -41,13 +41,13 @@ const Sidebar = () => {
       ],
     },
     {
-      id: "washing-machine",
+      id: "Washing-Machine",
       name: "Washing Machine",
       icon: <WashingMachine className="w-6 h-6" />,
       brands: [
-        { id: "lg", name: "LG", color: "from-red-500 to-red-600", logo: lgLogo }, // Changed from "🔴"
+        { id: "LG", name: "LG", color: "from-red-500 to-red-600", logo: lgLogo }, // Changed from "🔴"
         {
-          id: "samsung",
+          id: "Samsung",
           name: "Samsung",
           color: "from-blue-500 to-blue-600",
           logo: samsungLogo, // Changed from "🔵"

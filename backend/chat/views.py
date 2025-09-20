@@ -4,6 +4,9 @@ from .models import ChatMessage, ChatSession
 from .serializers import ChatMessageSerializer, ChatSessionSerializer
 from .rag_pipeline import RAGPipeline
 from django.db import transaction, IntegrityError
+from rest_framework.response import Response
+from rest_framework import status
+
 
 rag = RAGPipeline()
 
@@ -77,6 +80,29 @@ class ChatSessionListCreateView(generics.ListCreateAPIView):
 
     def perform_create(self, serializer):
         serializer.save(user=self.request.user)
+
+    def delete(self, request, *args, **kwargs):
+            
+        """
+        DELETE /api/sessions/
+
+        Expects:
+            JSON body: { "session_id": "<session_id>" }
+
+        Note:
+            Requires user to be authenticated (class already enforces IsAuthenticated).
+        """
+
+        session_id = request.data.get("session_id")
+        if not session_id:
+            return Response({"error": "session_id is required"}, status=status.HTTP_400_BAD_REQUEST)
+
+        try:
+            session = ChatSession.objects.get(user=request.user, session_id=session_id)
+            session.delete()
+            return Response({"message": "Session deleted successfully"}, status=status.HTTP_200_OK)
+        except ChatSession.DoesNotExist:
+            return Response({"error": "Session not found"}, status=status.HTTP_404_NOT_FOUND)
 
 
 # from rest_framework import generics, permissions

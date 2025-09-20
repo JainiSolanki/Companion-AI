@@ -14,7 +14,7 @@ const ChatInput = () => {
   const textareaRef = useRef(null);
 
   const handleSend = (e) => {
-    e.preventDefault();
+    //e.preventDefault();
     if (!message.trim() || isLoading) return;
 
     const userMessage = {

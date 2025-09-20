@@ -274,7 +274,7 @@ const ChatPage = () => {
                   transition={{ duration: 2, repeat: Infinity }}
                   className="text-sm text-gray-300 flex items-center space-x-2"
                 >
-                  <span>Welcome, {user?.name || "User"}</span>
+                  <span>Welcome, {user?.username || "User"}</span>
                   <div className="w-1 h-1 bg-white rounded-full"></div>
                   <span className="text-xs text-green-400">Online</span>
                 </motion.div>

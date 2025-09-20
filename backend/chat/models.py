@@ -24,7 +24,7 @@ class ChatSession(models.Model):
     appliance = models.CharField(max_length=50, choices=APPLIANCE_CHOICES)
     company = models.CharField(max_length=100)
     manual = models.CharField(max_length=200, blank=True, null=True)
-    session_id = models.CharField(max_length=100, unique=True, default=uuid.uuid4)  # ✅ FIXED: Auto-generate unique IDs
+    session_id = models.CharField(max_length=100, unique=True)  # ✅ FIXED: Auto-generate unique IDs
     created_at = models.DateTimeField(auto_now_add=True)
     last_activity = models.DateTimeField(auto_now=True)
 
