@@ -249,7 +249,7 @@ const ChatPage = () => {
                   </motion.div>
                   <div>
                     <h1 className="text-xl font-bold text-white flex items-center">
-                      Companion AI
+                      DoraAI
                       <motion.div
                         animate={{ opacity: [0, 1, 0] }}
                         transition={{ duration: 2, repeat: Infinity }}
@@ -364,7 +364,7 @@ const ChatPage = () => {
                       >
                         {selectedAppliance && selectedBrand 
                           ? `${selectedBrand} ${selectedAppliance.replace('-', ' ')} Expert`
-                          : "Hello! I'm your Companion AI"
+                          : "Hello! I'm your DoraAI"
                         }
                       </motion.h2>
                       

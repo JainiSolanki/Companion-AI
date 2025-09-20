@@ -389,7 +389,7 @@ const HomePage = () => {
               />
             </motion.div>
             <span className="text-2xl font-bold text-white tracking-wider">
-              Companion AI
+              DoraAI
             </span>
             <motion.div
               animate={{ opacity: [0, 1, 0] }}
@@ -513,7 +513,7 @@ const HomePage = () => {
                 textShadow: "0 0 20px rgba(255,255,255,0.5)",
               }}
             >
-              Why Choose Companion AI?
+              Why Choose DoraAI?
             </motion.h2>
             <p className="text-gray-400 text-lg">
               Powered by NVIDIA NIM for reliable, local, and intelligent
@@ -549,7 +549,7 @@ const HomePage = () => {
               See It In Action
             </motion.h2>
             <p className="text-gray-400 text-lg">
-              Experience how Companion AI makes appliance support effortless
+              Experience how DoraAI makes appliance support effortless
             </p>
           </motion.div>
           <motion.div variants={itemVariants}>
@@ -638,7 +638,7 @@ const HomePage = () => {
           <div className="flex justify-center items-center mb-4">
             <Bot className="w-6 h-6 text-white mr-2" />
             <span className="text-xl font-bold text-white tracking-wider">
-              Companion AI
+              DoraAI
             </span>
           </div>
           <p className="text-gray-400 mb-6">

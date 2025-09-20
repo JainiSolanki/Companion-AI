@@ -292,7 +292,7 @@ const LoginPage = () => {
                 textShadow: "0 0 20px rgba(255,255,255,0.5)",
               }}
             >
-              Companion AI
+              DoraAI
             </motion.h1>
             <motion.p
               className="text-gray-400 text-lg mb-2"
@@ -507,7 +507,7 @@ const LoginPage = () => {
                         <Zap className="w-5 h-5 mr-2" />
                         {activeTab === "login"
                           ? "Access AI Assistant"
-                          : "Join Companion AI"}
+                          : "Join DoraAI"}
                       </>
                     )}
                   </span>

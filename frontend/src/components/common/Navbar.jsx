@@ -100,7 +100,7 @@ const Navbar = () => {
               <Bot className="w-6 h-6 text-white" />
             </motion.div>
             <div>
-              <span className="text-xl font-bold text-white">Companion AI</span>
+              <span className="text-xl font-bold text-white">DoraAI</span>
               <div className="text-xs text-accent">Appliance Assistant</div>
             </div>
           </motion.div>

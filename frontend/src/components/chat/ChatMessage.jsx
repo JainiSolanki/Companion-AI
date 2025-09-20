@@ -136,7 +136,7 @@ const ChatMessage = ({ message }) => {
             }`}
           >
             <span className="text-xs font-medium text-gray-300">
-              {isUser ? "You" : "Companion AI"}
+              {isUser ? "You" : "DoraAI"}
             </span>
             {isAI && (
               <div className="flex items-center space-x-1 text-xs text-green-400">
